@@ -1,0 +1,7 @@
+metric,value
+rows,2400
+columns,11
+duplicate_event_ids,0
+missing_cells,24
+invalid_dates,0
+outcome_values_outside_0_1,0

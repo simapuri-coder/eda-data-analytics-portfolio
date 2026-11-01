@@ -1,0 +1,4 @@
+utilization_band,records,total_impact,outcome_rate
+Medium utilization,841,59950583.5,0.10344827586206896
+High utilization,791,56856291.71,0.11883691529709228
+Low utilization,768,54750574.55,0.08203125

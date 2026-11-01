@@ -1,0 +1,69 @@
+{
+  "id": "P14",
+  "level": "Expert",
+  "title": "Digital Banking Service Failure and Retention Risk",
+  "industry": "Consumer banking",
+  "seed": 114,
+  "problem_statement": "A digital banking operations team needs to prioritize complaint themes and response failures while avoiding misleading company rankings without customer denominators.",
+  "stakeholders": [
+    "Digital banking",
+    "Complaint operations",
+    "Compliance",
+    "Customer experience"
+  ],
+  "groups": [
+    "Payments",
+    "Cards",
+    "Deposits",
+    "Transfers",
+    "Authentication"
+  ],
+  "segments": [
+    "Mobile",
+    "Web",
+    "Contact center"
+  ],
+  "schema": {
+    "event_id_col": "complaint_id",
+    "entity_id_col": "consumer_case_id",
+    "date_col": "received_date",
+    "group_col": "product_issue",
+    "group_label": "Product issue",
+    "segment_col": "submission_channel",
+    "segment_label": "Submission channel",
+    "driver_col": "response_days",
+    "value_col": "modeled_retention_value",
+    "volume_col": "contacts",
+    "outcome_col": "untimely_response",
+    "outcome_label": "Untimely response"
+  },
+  "questions": [
+    "Which themes are growing?",
+    "Where are responses slow?",
+    "What conclusions require market-share denominators?"
+  ],
+  "hypotheses": [
+    "Authentication complaints have different response times.",
+    "Repeated contacts are associated with untimely response."
+  ],
+  "decisions": [
+    "Operational investigation",
+    "Issue taxonomy",
+    "Response SLA"
+  ],
+  "recommendations": [
+    "Prioritize theme-level process failures, not raw company rankings.",
+    "Add active-customer denominators before comparing complaint rates across products."
+  ],
+  "value_mean": 380,
+  "value_sigma": 0.7,
+  "volume_mean": 2,
+  "driver_mean": 8,
+  "driver_sd": 5,
+  "outcome_intercept": -1.2,
+  "rows": 2400,
+  "entities": 520,
+  "start_date": "2024-01-01",
+  "days": 730,
+  "analysis_type": "standard"
+}

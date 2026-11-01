@@ -1,0 +1,69 @@
+{
+  "id": "P09",
+  "level": "Advanced",
+  "title": "Financial Crime Pattern Exploration",
+  "industry": "Financial services",
+  "seed": 109,
+  "problem_statement": "A financial-crime analytics team needs a reproducible synthetic environment to explore transaction velocity, value concentration, and labeled alert patterns without exposing customer data.",
+  "stakeholders": [
+    "AML investigators",
+    "Model risk",
+    "Compliance",
+    "Data engineering"
+  ],
+  "groups": [
+    "Wire",
+    "ACH",
+    "Card",
+    "Cash",
+    "Crypto"
+  ],
+  "segments": [
+    "Consumer",
+    "Business",
+    "Correspondent"
+  ],
+  "schema": {
+    "event_id_col": "transaction_id",
+    "entity_id_col": "account_id",
+    "date_col": "transaction_date",
+    "group_col": "payment_type",
+    "group_label": "Payment type",
+    "segment_col": "account_type",
+    "segment_label": "Account type",
+    "driver_col": "velocity_score",
+    "value_col": "transaction_value",
+    "volume_col": "transactions_24h",
+    "outcome_col": "laundering_label",
+    "outcome_label": "Laundering label"
+  },
+  "questions": [
+    "Which patterns concentrate labeled alerts?",
+    "How heavy-tailed are transaction values?",
+    "Which rules could create excess alerts?"
+  ],
+  "hypotheses": [
+    "High velocity is associated with alert labels.",
+    "A small number of payment types drive modeled exposure."
+  ],
+  "decisions": [
+    "Investigator queue design",
+    "Rule review",
+    "Data-quality controls"
+  ],
+  "recommendations": [
+    "Optimize for investigator workload and missed-risk tradeoffs, not accuracy alone.",
+    "Review false-alert proxies by account type before threshold changes."
+  ],
+  "value_mean": 9000,
+  "value_sigma": 1.0,
+  "volume_mean": 5,
+  "driver_mean": 55,
+  "driver_sd": 20,
+  "outcome_intercept": -3.0,
+  "rows": 2400,
+  "entities": 520,
+  "start_date": "2024-01-01",
+  "days": 730,
+  "analysis_type": "standard"
+}

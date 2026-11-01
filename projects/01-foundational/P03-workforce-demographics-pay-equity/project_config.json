@@ -1,0 +1,70 @@
+{
+  "id": "P03",
+  "level": "Foundational",
+  "title": "Workforce Demographics and Pay Equity",
+  "industry": "Labor economics",
+  "seed": 103,
+  "problem_statement": "A workforce strategy team needs weighted descriptive evidence on employment and earnings differences across occupations and demographic groups before commissioning deeper equity analysis.",
+  "stakeholders": [
+    "Workforce strategy",
+    "Policy analysts",
+    "HR analytics",
+    "Community partners"
+  ],
+  "groups": [
+    "Technology",
+    "Healthcare",
+    "Operations",
+    "Education",
+    "Services"
+  ],
+  "segments": [
+    "Group A",
+    "Group B",
+    "Group C",
+    "Group D"
+  ],
+  "schema": {
+    "event_id_col": "survey_record_id",
+    "entity_id_col": "worker_id",
+    "date_col": "survey_date",
+    "group_col": "occupation_group",
+    "group_label": "Occupation group",
+    "segment_col": "demographic_group",
+    "segment_label": "Demographic group",
+    "driver_col": "hours_per_week",
+    "value_col": "annual_earnings",
+    "volume_col": "person_weight",
+    "outcome_col": "employed",
+    "outcome_label": "Employment"
+  },
+  "questions": [
+    "Which occupation groups have the highest weighted earnings?",
+    "How does employment vary across demographic groups?",
+    "Where are sample-size limits material?"
+  ],
+  "hypotheses": [
+    "Earnings differ by occupation mix.",
+    "Raw group gaps narrow after stratifying by occupation."
+  ],
+  "decisions": [
+    "Research prioritization",
+    "Program targeting",
+    "Data collection"
+  ],
+  "recommendations": [
+    "Decompose raw gaps by occupation, geography, and hours before interpretation.",
+    "Publish weighted estimates with uncertainty and minimum sample-size rules."
+  ],
+  "value_mean": 62000,
+  "value_sigma": 0.35,
+  "volume_mean": 3,
+  "driver_mean": 39,
+  "driver_sd": 8,
+  "outcome_intercept": 1.2,
+  "rows": 2400,
+  "entities": 520,
+  "start_date": "2024-01-01",
+  "days": 730,
+  "analysis_type": "standard"
+}

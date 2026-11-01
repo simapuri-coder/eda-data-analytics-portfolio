@@ -1,0 +1,68 @@
+{
+  "id": "P07",
+  "level": "Intermediate",
+  "title": "Healthcare Utilization Analytics",
+  "industry": "Healthcare",
+  "seed": 107,
+  "problem_statement": "A healthcare operations team needs a privacy-safe claims-style analysis of utilization, allowed charges, and service variation to test analytical workflows.",
+  "stakeholders": [
+    "Healthcare operations",
+    "Clinical finance",
+    "Data governance",
+    "Care management"
+  ],
+  "groups": [
+    "Primary care",
+    "Inpatient",
+    "Outpatient",
+    "Emergency",
+    "Specialty"
+  ],
+  "segments": [
+    "Low complexity",
+    "Moderate complexity",
+    "High complexity"
+  ],
+  "schema": {
+    "event_id_col": "claim_id",
+    "entity_id_col": "beneficiary_id",
+    "date_col": "service_date",
+    "group_col": "service_type",
+    "group_label": "Service type",
+    "segment_col": "complexity_band",
+    "segment_label": "Complexity band",
+    "driver_col": "length_of_stay",
+    "value_col": "allowed_charge",
+    "volume_col": "service_units",
+    "outcome_col": "return_visit_30d",
+    "outcome_label": "30-day return visit"
+  },
+  "questions": [
+    "Which service types drive utilization and charges?",
+    "Where do return-visit patterns differ?",
+    "Which findings are invalid for real beneficiaries?"
+  ],
+  "hypotheses": [
+    "Higher complexity is associated with higher allowed charges.",
+    "Return-visit rates vary by service type."
+  ],
+  "decisions": [
+    "Analytical workflow design",
+    "Care-review prioritization",
+    "Data acquisition"
+  ],
+  "recommendations": [
+    "Use the synthetic results only to validate pipelines and definitions.",
+    "Require clinically reviewed denominators and risk adjustment before operational action."
+  ],
+  "value_mean": 850,
+  "value_sigma": 0.75,
+  "volume_mean": 2,
+  "driver_mean": 3,
+  "driver_sd": 2,
+  "rows": 2400,
+  "entities": 520,
+  "start_date": "2024-01-01",
+  "days": 730,
+  "analysis_type": "standard"
+}

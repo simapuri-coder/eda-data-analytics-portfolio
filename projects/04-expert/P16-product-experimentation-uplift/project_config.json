@@ -1,0 +1,69 @@
+{
+  "id": "P16",
+  "level": "Expert",
+  "title": "Product Experimentation and Uplift Analysis",
+  "industry": "Advertising technology",
+  "seed": 116,
+  "analysis_type": "experiment",
+  "treatment_effect": 0.32,
+  "problem_statement": "A growth team needs to decide whether a randomized advertising treatment improves conversion enough to justify rollout and which segments require follow-up experiments.",
+  "stakeholders": [
+    "Growth product",
+    "Marketing science",
+    "Finance",
+    "Experimentation platform"
+  ],
+  "groups": [
+    "Search",
+    "Social",
+    "Display",
+    "Video"
+  ],
+  "segments": [
+    "New",
+    "Returning",
+    "High intent"
+  ],
+  "schema": {
+    "event_id_col": "experiment_event_id",
+    "entity_id_col": "user_id",
+    "date_col": "assignment_date",
+    "group_col": "channel",
+    "group_label": "Channel",
+    "segment_col": "audience_segment",
+    "segment_label": "Audience segment",
+    "driver_col": "prior_engagement_score",
+    "value_col": "conversion_value",
+    "volume_col": "impressions",
+    "outcome_col": "converted",
+    "outcome_label": "Conversion",
+    "treatment_col": "treatment"
+  },
+  "questions": [
+    "Is assignment balanced?",
+    "What is the absolute treatment effect?",
+    "Does practical value justify rollout?"
+  ],
+  "hypotheses": [
+    "Treatment increases conversion.",
+    "Effect size differs by pre-specified audience segment."
+  ],
+  "decisions": [
+    "Rollout",
+    "Experiment iteration",
+    "Budget allocation"
+  ],
+  "recommendations": [
+    "Base rollout on the pre-specified absolute effect and interval, not p-value alone.",
+    "Treat segment effects as exploratory unless powered and adjusted for multiplicity."
+  ],
+  "value_mean": 32,
+  "volume_mean": 8,
+  "driver_mean": 55,
+  "driver_sd": 20,
+  "outcome_intercept": -2.0,
+  "rows": 2400,
+  "entities": 520,
+  "start_date": "2024-01-01",
+  "days": 730
+}

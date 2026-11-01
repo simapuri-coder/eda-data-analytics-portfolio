@@ -1,0 +1,68 @@
+{
+  "id": "P12",
+  "level": "Advanced",
+  "title": "Customer Segmentation and Value Tiers",
+  "industry": "Wholesale distribution",
+  "seed": 112,
+  "analysis_type": "segmentation",
+  "problem_statement": "A wholesale distributor needs an exploratory segmentation of customer spending and order intensity to design service hypotheses without assuming clusters are permanent truths.",
+  "stakeholders": [
+    "Commercial strategy",
+    "Account management",
+    "Finance",
+    "Customer operations"
+  ],
+  "groups": [
+    "Hospitality",
+    "Retail",
+    "Institutional",
+    "Independent"
+  ],
+  "segments": [
+    "Urban",
+    "Suburban",
+    "Rural"
+  ],
+  "schema": {
+    "event_id_col": "customer_period_id",
+    "entity_id_col": "customer_id",
+    "date_col": "period_date",
+    "group_col": "channel",
+    "group_label": "Channel",
+    "segment_col": "region_type",
+    "segment_label": "Region type",
+    "driver_col": "fresh_share_pct",
+    "value_col": "annual_spend",
+    "volume_col": "order_frequency",
+    "outcome_col": "high_value_flag",
+    "outcome_label": "High-value flag"
+  },
+  "questions": [
+    "Which spending and frequency profiles emerge?",
+    "Are clusters stable?",
+    "How should service hypotheses differ by profile?"
+  ],
+  "hypotheses": [
+    "Spending and order frequency form distinct profiles.",
+    "Channel mix explains part of segment differences."
+  ],
+  "decisions": [
+    "Service design",
+    "Account coverage",
+    "Segmentation research"
+  ],
+  "recommendations": [
+    "Stress-test cluster count and initialization before labeling segments.",
+    "Use clusters to generate service hypotheses, then validate with customer outcomes."
+  ],
+  "value_mean": 18000,
+  "value_sigma": 0.8,
+  "volume_mean": 12,
+  "driver_mean": 35,
+  "driver_sd": 18,
+  "outcome_intercept": -1.0,
+  "rows": 2400,
+  "entities": 520,
+  "start_date": "2024-01-01",
+  "days": 730
+}

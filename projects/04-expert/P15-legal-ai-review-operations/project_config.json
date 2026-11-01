@@ -1,0 +1,69 @@
+{
+  "id": "P15",
+  "level": "Expert",
+  "title": "Legal AI Document Review Operations",
+  "industry": "Legal technology",
+  "seed": 115,
+  "problem_statement": "A legal AI product team needs to estimate clause-review workload, rare-clause QA coverage, and human capacity without treating automated labels as final legal judgments.",
+  "stakeholders": [
+    "Legal operations",
+    "Product",
+    "Machine learning",
+    "Quality assurance"
+  ],
+  "groups": [
+    "Termination",
+    "Liability",
+    "Change of control",
+    "Confidentiality",
+    "Assignment"
+  ],
+  "segments": [
+    "Commercial",
+    "Employment",
+    "Licensing",
+    "Services"
+  ],
+  "schema": {
+    "event_id_col": "clause_annotation_id",
+    "entity_id_col": "contract_id",
+    "date_col": "review_date",
+    "group_col": "clause_type",
+    "group_label": "Clause type",
+    "segment_col": "contract_type",
+    "segment_label": "Contract type",
+    "driver_col": "review_minutes",
+    "value_col": "modeled_review_cost",
+    "volume_col": "clause_count",
+    "outcome_col": "qa_issue",
+    "outcome_label": "QA issue"
+  },
+  "questions": [
+    "Which clause types drive workload?",
+    "Where is QA issue prevalence highest?",
+    "How should rare clauses be sampled?"
+  ],
+  "hypotheses": [
+    "Rare clauses require disproportionate QA effort.",
+    "Review time varies by contract type."
+  ],
+  "decisions": [
+    "QA sampling",
+    "Human review capacity",
+    "Product prioritization"
+  ],
+  "recommendations": [
+    "Guarantee minimum QA coverage for rare, high-consequence clauses.",
+    "Keep qualified legal review as the final decision point and monitor annotation drift."
+  ],
+  "value_mean": 95,
+  "volume_mean": 4,
+  "driver_mean": 18,
+  "driver_sd": 9,
+  "outcome_intercept": -2.0,
+  "rows": 2400,
+  "entities": 520,
+  "start_date": "2024-01-01",
+  "days": 730,
+  "analysis_type": "standard"
+}

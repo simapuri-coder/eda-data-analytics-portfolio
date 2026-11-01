@@ -1,0 +1,65 @@
+{
+  "id": "P06",
+  "level": "Intermediate",
+  "title": "E-commerce Retention and Cohort Analysis",
+  "industry": "E-commerce",
+  "seed": 106,
+  "analysis_type": "cohort",
+  "problem_statement": "A lifecycle team needs cohort evidence on repeat purchase and customer value to prioritize onboarding and retention experiments.",
+  "stakeholders": [
+    "Lifecycle marketing",
+    "Product",
+    "Finance",
+    "Customer success"
+  ],
+  "groups": [
+    "Organic",
+    "Paid search",
+    "Affiliate",
+    "Email"
+  ],
+  "segments": [
+    "New",
+    "Returning",
+    "Reactivated"
+  ],
+  "schema": {
+    "event_id_col": "order_id",
+    "entity_id_col": "customer_id",
+    "date_col": "order_date",
+    "group_col": "acquisition_source",
+    "group_label": "Acquisition source",
+    "segment_col": "customer_state",
+    "segment_label": "Customer state",
+    "driver_col": "days_since_prior_order",
+    "value_col": "order_value",
+    "volume_col": "items",
+    "outcome_col": "repeat_order",
+    "outcome_label": "Repeat order"
+  },
+  "questions": [
+    "Which acquisition cohorts retain?",
+    "How does repeat value evolve?",
+    "How does censoring affect recent cohorts?"
+  ],
+  "hypotheses": [
+    "Organic cohorts retain longer.",
+    "Shorter time to second order is associated with stronger later value."
+  ],
+  "decisions": [
+    "Onboarding investment",
+    "Retention experiment targets",
+    "Cohort monitoring"
+  ],
+  "recommendations": [
+    "Compare cohorts only at equal observable ages.",
+    "Test onboarding interventions within acquisition source to reduce mix bias."
+  ],
+  "value_mean": 95,
+  "volume_mean": 3,
+  "outcome_intercept": -0.7,
+  "rows": 2400,
+  "entities": 520,
+  "start_date": "2024-01-01",
+  "days": 730
+}

@@ -1,0 +1,2 @@
+records,entities,start_date,end_date,total_value,total_volume,total_impact,average_value,average_volume,outcome_rate,outcome_ci_low,outcome_ci_high,value_volume_correlation
+2400,514,2024-01-02,2025-12-30,216445.62,18282.0,1645637.1,90.185675,7.6175,0.54625,0.5262734704196849,0.5660787045322754,-0.012211775672730425

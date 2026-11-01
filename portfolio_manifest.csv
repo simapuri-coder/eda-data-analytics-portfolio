@@ -1,0 +1,17 @@
+sequence,project_id,level,title,industry,path,rows,entities,top_impact_group
+1,P01,Foundational,Retail Sales Performance Analysis,Retail,projects/01-foundational/P01-retail-sales-performance,2400,517,Seasonal
+2,P02,Foundational,Student Performance and Education Analytics,Education,projects/01-foundational/P02-student-performance,2400,514,School C
+3,P03,Foundational,Workforce Demographics and Pay Equity,Labor economics,projects/01-foundational/P03-workforce-demographics-pay-equity,2400,517,Services
+4,P04,Foundational,E-commerce Product and Order Analysis,E-commerce,projects/01-foundational/P04-ecommerce-product-orders,2400,514,Referral
+5,P05,Intermediate,Banking Campaign and Customer Behavior,Banking,projects/02-intermediate/P05-banking-campaign-behavior,2400,516,Youth
+6,P06,Intermediate,E-commerce Retention and Cohort Analysis,E-commerce,projects/02-intermediate/P06-ecommerce-retention-cohorts,2400,519,Email
+7,P07,Intermediate,Healthcare Utilization Analytics,Healthcare,projects/02-intermediate/P07-healthcare-utilization,2400,514,Specialty
+8,P08,Intermediate,Digital Product Funnel Analysis,Digital commerce,projects/02-intermediate/P08-digital-product-funnel,2400,514,Checkout
+9,P09,Advanced,Financial Crime Pattern Exploration,Financial services,projects/03-advanced/P09-financial-crime-patterns,2400,518,Crypto
+10,P10,Advanced,Credit Risk and Portfolio EDA,Consumer credit,projects/03-advanced/P10-credit-risk-portfolio,2400,516,Subprime
+11,P11,Advanced,Supply Chain Operations Analytics,Supply chain,projects/03-advanced/P11-supply-chain-operations,2400,512,Sports
+12,P12,Advanced,Customer Segmentation and Value Tiers,Wholesale distribution,projects/03-advanced/P12-customer-segmentation-value-tiers,2400,517,Independent
+13,P13,Expert,AI Tool Adoption and Value Realization,Technology,projects/04-expert/P13-ai-adoption-value-realization,2400,512,Leadership
+14,P14,Expert,Digital Banking Service Failure and Retention Risk,Consumer banking,projects/04-expert/P14-digital-banking-service-risk,2400,517,Authentication
+15,P15,Expert,Legal AI Document Review Operations,Legal technology,projects/04-expert/P15-legal-ai-review-operations,2400,518,Assignment
+16,P16,Expert,Product Experimentation and Uplift Analysis,Advertising technology,projects/04-expert/P16-product-experimentation-uplift,2400,517,Video

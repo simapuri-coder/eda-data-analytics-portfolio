@@ -1,0 +1,66 @@
+{
+  "id": "P08",
+  "level": "Intermediate",
+  "title": "Digital Product Funnel Analysis",
+  "industry": "Digital commerce",
+  "seed": 108,
+  "problem_statement": "A digital product team needs to identify where high-value sessions stall and which traffic-device segments deserve instrumentation or experience testing.",
+  "stakeholders": [
+    "Product manager",
+    "UX",
+    "Growth",
+    "Engineering"
+  ],
+  "groups": [
+    "Landing",
+    "Browse",
+    "Product",
+    "Checkout"
+  ],
+  "segments": [
+    "New visitor",
+    "Returning visitor",
+    "Campaign visitor"
+  ],
+  "schema": {
+    "event_id_col": "session_id",
+    "entity_id_col": "visitor_id",
+    "date_col": "session_date",
+    "group_col": "deepest_stage",
+    "group_label": "Deepest stage",
+    "segment_col": "visitor_type",
+    "segment_label": "Visitor type",
+    "driver_col": "engagement_minutes",
+    "value_col": "page_value",
+    "volume_col": "page_count",
+    "outcome_col": "purchased",
+    "outcome_label": "Purchase"
+  },
+  "questions": [
+    "Where do sessions stop?",
+    "Which visitor types have stronger completion?",
+    "Is engagement associated with value?"
+  ],
+  "hypotheses": [
+    "Returning visitors reach deeper stages.",
+    "Longer engagement is associated with purchase."
+  ],
+  "decisions": [
+    "Funnel instrumentation",
+    "UX experiment priority",
+    "Traffic quality review"
+  ],
+  "recommendations": [
+    "Validate stage-event definitions with engineering before optimization.",
+    "Run controlled tests on the largest high-value drop-off rather than changing every stage."
+  ],
+  "value_mean": 45,
+  "volume_mean": 7,
+  "driver_mean": 6,
+  "driver_sd": 3,
+  "rows": 2400,
+  "entities": 520,
+  "start_date": "2024-01-01",
+  "days": 730,
+  "analysis_type": "standard"
+}

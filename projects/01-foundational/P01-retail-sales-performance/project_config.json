@@ -1,0 +1,65 @@
+{
+  "id": "P01",
+  "level": "Foundational",
+  "title": "Retail Sales Performance Analysis",
+  "industry": "Retail",
+  "seed": 101,
+  "problem_statement": "A retail leadership team needs a consistent view of sales concentration, cancellations, product mix, and market performance before setting inventory and commercial priorities.",
+  "stakeholders": [
+    "Head of Retail",
+    "Merchandising",
+    "Finance",
+    "Operations"
+  ],
+  "groups": [
+    "Home",
+    "Gifts",
+    "Office",
+    "Seasonal"
+  ],
+  "segments": [
+    "UK",
+    "EU",
+    "North America",
+    "Other"
+  ],
+  "schema": {
+    "event_id_col": "invoice_line_id",
+    "entity_id_col": "customer_id",
+    "date_col": "invoice_date",
+    "group_col": "product_category",
+    "group_label": "Product category",
+    "segment_col": "market",
+    "segment_label": "Market",
+    "driver_col": "unit_price",
+    "value_col": "net_sales",
+    "volume_col": "quantity",
+    "outcome_col": "cancelled",
+    "outcome_label": "Cancellation"
+  },
+  "questions": [
+    "Which categories and markets drive net sales?",
+    "Where are cancellation rates highest?",
+    "How concentrated is modeled impact?"
+  ],
+  "hypotheses": [
+    "Seasonal merchandise has greater sales volatility.",
+    "Higher-priced lines have different cancellation rates."
+  ],
+  "decisions": [
+    "Inventory focus",
+    "Category review",
+    "Cancellation root-cause work"
+  ],
+  "recommendations": [
+    "Investigate the highest-impact category's availability and cancellation drivers.",
+    "Create a monthly exception review for categories with both high impact and above-average cancellations."
+  ],
+  "value_mean": 85,
+  "volume_mean": 4,
+  "rows": 2400,
+  "entities": 520,
+  "start_date": "2024-01-01",
+  "days": 730,
+  "analysis_type": "standard"
+}

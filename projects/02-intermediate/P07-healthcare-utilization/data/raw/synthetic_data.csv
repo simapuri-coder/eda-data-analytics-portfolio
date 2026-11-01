@@ -1,0 +1,2401 @@
+claim_id,beneficiary_id,service_date,service_type,complexity_band,length_of_stay,allowed_charge,service_units,return_visit_30d
+P07-E000001,P07-C00310,2024-03-17,Inpatient,Moderate complexity,3.14,2668.36,3,0
+P07-E000002,P07-C00450,2025-04-18,Outpatient,Moderate complexity,4.56,510.63,2,0
+P07-E000003,P07-C00407,2025-10-26,Emergency,Moderate complexity,3.5,2037.11,2,0
+P07-E000004,P07-C00252,2024-12-14,Specialty,Low complexity,1.48,1763.98,3,1
+P07-E000005,P07-C00454,2025-08-21,Inpatient,Moderate complexity,3.26,2973.43,5,0
+P07-E000006,P07-C00090,2025-01-01,Outpatient,High complexity,1.88,548.3,3,0
+P07-E000007,P07-C00436,2024-07-28,Emergency,High complexity,2.15,401.74,3,0
+P07-E000008,P07-C00289,2025-06-20,Specialty,Moderate complexity,1.74,2387.46,5,0
+P07-E000009,P07-C00273,2025-01-31,Inpatient,High complexity,4.94,727.25,3,0
+P07-E000010,P07-C00317,2024-12-24,Specialty,High complexity,6.59,1610.23,2,0
+P07-E000011,P07-C00372,2024-11-05,Specialty,Low complexity,3.55,296.11,4,0
+P07-E000012,P07-C00349,2024-02-25,Specialty,Moderate complexity,6.19,452.16,3,0
+P07-E000013,P07-C00506,2024-01-27,Specialty,Moderate complexity,2.68,541.94,2,1
+P07-E000014,P07-C00088,2024-10-30,Outpatient,Moderate complexity,2.58,925.94,3,1
+P07-E000015,P07-C00455,2024-04-29,Emergency,High complexity,5.32,2136.79,2,0
+P07-E000016,P07-C00485,2025-12-23,Inpatient,High complexity,4.86,1699.95,4,1
+P07-E000017,P07-C00029,2025-12-26,Specialty,Moderate complexity,,1984.05,12,1
+P07-E000018,P07-C00281,2024-05-02,Primary care,High complexity,2.04,459.87,3,0
+P07-E000019,P07-C00014,2024-11-05,Specialty,Low complexity,2.01,920.79,6,0
+P07-E000020,P07-C00068,2025-08-19,Outpatient,High complexity,5.44,345.55,1,0
+P07-E000021,P07-C00519,2024-08-19,Inpatient,Low complexity,1.44,266.97,4,0
+P07-E000022,P07-C00049,2024-06-16,Inpatient,High complexity,2.01,494.06,1,1
+P07-E000023,P07-C00447,2024-09-21,Primary care,Low complexity,4.85,586.71,4,0
+P07-E000024,P07-C00225,2024-06-10,Specialty,High complexity,2.44,2723.57,3,0
+P07-E000025,P07-C00055,2025-06-30,Specialty,High complexity,4.04,1598.57,3,1
+P07-E000026,P07-C00120,2024-01-31,Emergency,Low complexity,3.72,1056.14,4,0
+P07-E000027,P07-C00083,2025-05-24,Emergency,High complexity,4.57,502.27,3,0
+P07-E000028,P07-C00210,2024-03-19,Primary care,Moderate complexity,1.87,926.9,3,0
+P07-E000029,P07-C00489,2025-10-05,Inpatient,Moderate complexity,5.18,562.31,4,0
+P07-E000030,P07-C00131,2025-06-04,Inpatient,High complexity,4.83,1815.87,5,0
+P07-E000031,P07-C00006,2024-03-26,Emergency,Low complexity,3.26,850.3,2,0
+P07-E000032,P07-C00417,2025-12-14,Emergency,High complexity,3.91,216.86,9,0
+P07-E000033,P07-C00410,2024-10-25,Specialty,Low complexity,,1449.99,2,0
+P07-E000034,P07-C00084,2024-07-23,Primary care,Moderate complexity,7.23,477.98,3,1
+P07-E000035,P07-C00085,2025-03-25,Emergency,Low complexity,4.56,241.98,7,0
+P07-E000036,P07-C00192,2024-08-17,Primary care,Moderate complexity,2.86,906.85,3,1
+P07-E000037,P07-C00268,2025-02-09,Specialty,Moderate complexity,3.61,348.98,6,1
+P07-E000038,P07-C00305,2024-03-14,Inpatient,Low complexity,3.56,1480.39,5,0
+P07-E000039,P07-C00123,2024-01-08,Outpatient,High complexity,2.16,3206.42,6,0
+P07-E000040,P07-C00261,2025-11-02,Specialty,Moderate complexity,0.33,232.13,6,1
+P07-E000041,P07-C00198,2024-07-18,Outpatient,Low complexity,4.65,736.44,2,0
+P07-E000042,P07-C00230,2024-07-30,Specialty,Low complexity,0.0,3942.24,4,0
+P07-E000043,P07-C00025,2024-07-18,Primary care,High complexity,0.61,1241.94,3,0
+P07-E000044,P07-C00243,2025-11-07,Primary care,Moderate complexity,0.6,2548.41,5,0
+P07-E000045,P07-C00395,2025-07-13,Outpatient,High complexity,5.75,2164.98,2,1
+P07-E000046,P07-C00380,2025-01-17,Emergency,Moderate complexity,2.14,1886.54,4,0
+P07-E000047,P07-C00018,2024-11-10,Specialty,Low complexity,3.24,191.56,2,0
+P07-E000048,P07-C00097,2024-06-25,Inpatient,Moderate complexity,4.93,1967.58,1,0
+P07-E000049,P07-C00004,2025-05-06,Emergency,Low complexity,3.08,758.67,6,0
+P07-E000050,P07-C00013,2025-06-11,Inpatient,Low complexity,0.19,1236.18,3,0
+P07-E000051,P07-C00441,2025-12-16,Emergency,High complexity,5.07,257.0,7,0
+P07-E000052,P07-C00136,2025-10-09,Outpatient,Moderate complexity,0.1,457.1,1,0
+P07-E000053,P07-C00363,2025-03-19,Inpatient,Low complexity,3.37,1332.29,4,1
+P07-E000054,P07-C00424,2025-10-06,Inpatient,High complexity,2.03,1568.35,3,0
+P07-E000055,P07-C00041,2024-10-09,Emergency,Low complexity,3.78,524.52,6,0
+P07-E000056,P07-C00269,2024-03-20,Inpatient,High complexity,,472.65,4,1
+P07-E000057,P07-C00046,2024-11-29,Emergency,Moderate complexity,1.67,550.39,2,0
+P07-E000058,P07-C00426,2024-07-31,Outpatient,Moderate complexity,2.39,1180.78,4,0
+P07-E000059,P07-C00457,2024-03-17,Outpatient,High complexity,1.23,455.28,1,0
+P07-E000060,P07-C00428,2025-02-24,Specialty,Moderate complexity,1.74,1496.44,5,1
+P07-E000061,P07-C00445,2025-12-15,Specialty,Low complexity,4.23,2729.9,4,0
+P07-E000062,P07-C00056,2024-04-03,Primary care,Low complexity,1.54,896.31,2,0
+P07-E000063,P07-C00418,2025-02-09,Specialty,Moderate complexity,3.9,1381.59,2,1
+P07-E000064,P07-C00174,2024-11-25,Emergency,Low complexity,0.93,583.08,3,0
+P07-E000065,P07-C00214,2025-09-01,Outpatient,Low complexity,1.28,4750.43,8,0
+P07-E000066,P07-C00044,2024-04-16,Emergency,Low complexity,2.62,1341.13,2,0
+P07-E000067,P07-C00135,2024-09-22,Primary care,Moderate complexity,,478.75,4,0
+P07-E000068,P07-C00154,2024-02-10,Inpatient,Moderate complexity,3.21,1149.1,5,0
+P07-E000069,P07-C00260,2024-07-23,Inpatient,High complexity,1.28,1138.24,2,0
+P07-E000070,P07-C00219,2024-09-03,Outpatient,Moderate complexity,0.9,343.55,3,1
+P07-E000071,P07-C00080,2024-02-05,Outpatient,High complexity,7.98,1329.2,4,0
+P07-E000072,P07-C00510,2025-03-09,Emergency,Moderate complexity,6.27,1409.77,5,0
+P07-E000073,P07-C00422,2024-07-13,Outpatient,Low complexity,5.76,790.17,3,0
+P07-E000074,P07-C00259,2025-12-28,Inpatient,Low complexity,3.32,1808.16,3,0
+P07-E000075,P07-C00488,2025-07-13,Primary care,Low complexity,,1964.93,2,0
+P07-E000076,P07-C00062,2024-11-12,Primary care,Moderate complexity,1.37,905.47,2,0
+P07-E000077,P07-C00126,2025-09-29,Primary care,Low complexity,2.55,472.84,3,0
+P07-E000078,P07-C00139,2024-05-12,Specialty,Low complexity,0.81,571.3,6,0
+P07-E000079,P07-C00392,2025-09-23,Specialty,High complexity,0.0,1877.96,4,1
+P07-E000080,P07-C00111,2024-04-10,Inpatient,High complexity,0.73,814.08,4,0
+P07-E000081,P07-C00237,2024-05-10,Outpatient,Low complexity,0.0,574.06,3,0
+P07-E000082,P07-C00258,2025-04-26,Inpatient,Low complexity,1.63,1887.23,2,0
+P07-E000083,P07-C00193,2025-01-26,Emergency,Moderate complexity,0.0,2494.74,4,0
+P07-E000084,P07-C00171,2024-05-12,Outpatient,High complexity,1.84,785.81,3,0
+P07-E000085,P07-C00169,2025-11-22,Primary care,Moderate complexity,4.05,999.19,2,0
+P07-E000086,P07-C00208,2024-07-28,Primary care,Low complexity,4.49,660.07,2,0
+P07-E000087,P07-C00020,2024-02-29,Inpatient,Moderate complexity,0.58,2212.39,3,0
+P07-E000088,P07-C00076,2024-12-04,Specialty,Low complexity,1.79,1111.64,2,0
+P07-E000089,P07-C00069,2024-11-18,Primary care,Moderate complexity,0.01,2967.06,2,0
+P07-E000090,P07-C00104,2024-11-17,Emergency,Moderate complexity,2.38,1084.12,1,1
+P07-E000091,P07-C00062,2025-07-09,Outpatient,Moderate complexity,6.44,953.83,5,0
+P07-E000092,P07-C00020,2024-09-11,Primary care,Low complexity,0.0,692.79,4,0
+P07-E000093,P07-C00499,2024-11-12,Emergency,Low complexity,3.59,337.4,4,0
+P07-E000094,P07-C00163,2024-06-28,Outpatient,Low complexity,4.44,880.52,4,0
+P07-E000095,P07-C00262,2025-06-13,Inpatient,Moderate complexity,2.2,4290.67,2,1
+P07-E000096,P07-C00137,2025-05-03,Specialty,Low complexity,7.25,641.16,3,0
+P07-E000097,P07-C00398,2024-08-10,Emergency,Moderate complexity,3.86,1404.69,2,1
+P07-E000098,P07-C00300,2025-01-02,Primary care,Moderate complexity,2.2,4327.41,4,0
+P07-E000099,P07-C00355,2025-02-16,Specialty,Low complexity,4.84,2688.97,3,0
+P07-E000100,P07-C00485,2024-06-27,Primary care,High complexity,4.16,1087.22,2,1
+P07-E000101,P07-C00246,2025-08-26,Outpatient,Moderate complexity,1.05,858.87,2,1
+P07-E000102,P07-C00490,2024-12-13,Specialty,Moderate complexity,7.42,784.62,4,0
+P07-E000103,P07-C00220,2024-03-30,Specialty,High complexity,3.08,934.52,5,0
+P07-E000104,P07-C00418,2024-10-10,Emergency,High complexity,3.37,1245.12,2,1
+P07-E000105,P07-C00020,2025-07-03,Specialty,Moderate complexity,4.0,1128.39,4,0
+P07-E000106,P07-C00288,2024-06-19,Specialty,Moderate complexity,3.38,582.06,8,1
+P07-E000107,P07-C00311,2025-05-20,Specialty,Moderate complexity,4.69,661.89,4,1
+P07-E000108,P07-C00034,2025-10-16,Outpatient,Moderate complexity,3.51,1776.63,2,1
+P07-E000109,P07-C00216,2025-04-15,Emergency,Low complexity,5.25,1738.22,2,0
+P07-E000110,P07-C00478,2024-05-15,Emergency,Low complexity,5.28,671.23,4,1
+P07-E000111,P07-C00186,2024-06-30,Emergency,Moderate complexity,1.81,544.03,3,0
+P07-E000112,P07-C00045,2025-09-23,Emergency,Moderate complexity,6.38,1125.08,6,0
+P07-E000113,P07-C00203,2024-11-26,Primary care,Moderate complexity,3.05,1123.44,4,0
+P07-E000114,P07-C00242,2024-12-17,Specialty,High complexity,0.0,7877.94,4,0
+P07-E000115,P07-C00112,2024-01-15,Inpatient,Low complexity,4.84,1334.52,3,0
+P07-E000116,P07-C00416,2025-02-06,Primary care,High complexity,0.0,1344.22,2,1
+P07-E000117,P07-C00047,2025-04-09,Emergency,Low complexity,1.87,389.11,3,0
+P07-E000118,P07-C00238,2025-12-18,Primary care,Moderate complexity,1.32,1539.47,1,1
+P07-E000119,P07-C00029,2024-08-03,Primary care,Low complexity,1.05,434.14,2,0
+P07-E000120,P07-C00226,2025-09-28,Inpatient,Low complexity,1.12,774.9,3,0
+P07-E000121,P07-C00345,2025-05-05,Outpatient,Low complexity,0.11,329.76,3,1
+P07-E000122,P07-C00286,2025-04-10,Inpatient,High complexity,2.23,531.58,1,0
+P07-E000123,P07-C00118,2025-06-10,Inpatient,High complexity,3.7,461.75,1,0
+P07-E000124,P07-C00155,2024-05-26,Emergency,High complexity,4.63,1948.48,6,0
+P07-E000125,P07-C00182,2024-09-06,Primary care,Moderate complexity,0.24,990.41,2,0
+P07-E000126,P07-C00502,2024-10-20,Inpatient,Low complexity,1.1,185.25,1,0
+P07-E000127,P07-C00229,2025-11-17,Emergency,Low complexity,5.37,2684.88,2,0
+P07-E000128,P07-C00503,2024-11-07,Outpatient,Low complexity,2.81,383.0,3,0
+P07-E000129,P07-C00156,2024-12-16,Emergency,Moderate complexity,2.29,1867.16,4,0
+P07-E000130,P07-C00219,2024-04-18,Specialty,Low complexity,3.18,1528.76,5,1
+P07-E000131,P07-C00229,2025-07-31,Specialty,Low complexity,6.23,640.73,4,1
+P07-E000132,P07-C00450,2024-05-16,Inpatient,High complexity,6.19,863.87,7,1
+P07-E000133,P07-C00137,2025-11-17,Emergency,Moderate complexity,4.69,911.51,3,0
+P07-E000134,P07-C00443,2025-11-13,Outpatient,Low complexity,1.31,1232.16,1,0
+P07-E000135,P07-C00272,2024-03-23,Emergency,Low complexity,3.79,2239.08,4,1
+P07-E000136,P07-C00032,2025-06-19,Outpatient,Low complexity,1.4,1309.56,4,0
+P07-E000137,P07-C00202,2024-03-16,Inpatient,High complexity,0.77,748.45,2,0
+P07-E000138,P07-C00144,2024-06-20,Specialty,High complexity,0.0,630.21,3,1
+P07-E000139,P07-C00143,2025-09-18,Primary care,High complexity,2.33,2116.59,3,0
+P07-E000140,P07-C00078,2025-06-24,Primary care,Low complexity,5.77,703.79,3,0
+P07-E000141,P07-C00047,2025-07-11,Outpatient,High complexity,4.65,522.21,5,0
+P07-E000142,P07-C00219,2024-07-08,Outpatient,Moderate complexity,1.13,8953.87,2,0
+P07-E000143,P07-C00255,2025-06-28,Outpatient,High complexity,0.0,284.52,2,0
+P07-E000144,P07-C00042,2024-06-01,Primary care,High complexity,0.0,2183.78,1,0
+P07-E000145,P07-C00181,2025-01-27,Inpatient,High complexity,5.41,969.92,4,1
+P07-E000146,P07-C00031,2024-05-29,Outpatient,Moderate complexity,1.93,1193.8,4,0
+P07-E000147,P07-C00181,2025-02-25,Primary care,Moderate complexity,4.79,258.18,1,0
+P07-E000148,P07-C00061,2024-01-17,Inpatient,Moderate complexity,2.02,432.4,5,0
+P07-E000149,P07-C00515,2025-12-20,Primary care,Moderate complexity,1.8,1680.1,3,0
+P07-E000150,P07-C00217,2025-01-20,Emergency,High complexity,2.37,558.35,5,0
+P07-E000151,P07-C00276,2024-05-13,Primary care,Low complexity,3.42,759.34,5,0
+P07-E000152,P07-C00264,2025-11-14,Emergency,Moderate complexity,0.0,438.8,2,0
+P07-E000153,P07-C00274,2025-03-01,Outpatient,High complexity,1.66,817.94,3,0
+P07-E000154,P07-C00391,2025-09-29,Specialty,Moderate complexity,5.59,860.59,2,0
+P07-E000155,P07-C00173,2025-04-17,Emergency,High complexity,5.42,2061.96,3,0
+P07-E000156,P07-C00358,2025-02-09,Primary care,High complexity,1.83,848.22,4,0
+P07-E000157,P07-C00123,2024-05-10,Primary care,Low complexity,4.05,1099.42,3,0
+P07-E000158,P07-C00224,2025-11-09,Specialty,Low complexity,0.77,1323.56,6,1
+P07-E000159,P07-C00441,2025-05-20,Emergency,High complexity,4.7,440.54,3,0
+P07-E000160,P07-C00064,2024-10-07,Inpatient,High complexity,6.13,429.51,1,0
+P07-E000161,P07-C00111,2025-09-01,Outpatient,Low complexity,3.89,374.11,1,0
+P07-E000162,P07-C00056,2024-11-21,Inpatient,Low complexity,2.36,1338.78,3,0
+P07-E000163,P07-C00479,2025-09-30,Inpatient,Moderate complexity,1.39,1984.61,3,0
+P07-E000164,P07-C00213,2025-09-27,Outpatient,Low complexity,0.0,2007.65,3,0
+P07-E000165,P07-C00016,2025-01-06,Specialty,Moderate complexity,6.51,980.23,2,0
+P07-E000166,P07-C00279,2025-01-02,Primary care,High complexity,4.91,277.72,5,0
+P07-E000167,P07-C00386,2025-11-24,Primary care,Low complexity,3.93,217.44,2,0
+P07-E000168,P07-C00467,2025-08-21,Emergency,Moderate complexity,2.11,198.97,4,0
+P07-E000169,P07-C00164,2025-01-14,Emergency,Low complexity,1.86,1116.34,4,0
+P07-E000170,P07-C00024,2024-05-12,Outpatient,High complexity,2.63,1787.33,1,0
+P07-E000171,P07-C00120,2024-07-09,Specialty,High complexity,3.23,901.66,3,0
+P07-E000172,P07-C00268,2024-06-13,Emergency,Moderate complexity,5.89,1523.82,9,0
+P07-E000173,P07-C00284,2025-12-30,Inpatient,Moderate complexity,7.25,2054.63,2,0
+P07-E000174,P07-C00119,2025-01-10,Emergency,High complexity,7.41,727.84,5,1
+P07-E000175,P07-C00193,2025-05-10,Emergency,Low complexity,0.06,2113.7,1,0
+P07-E000176,P07-C00098,2024-03-24,Primary care,High complexity,3.85,1114.25,2,1
+P07-E000177,P07-C00386,2024-12-21,Emergency,High complexity,4.48,835.11,3,0
+P07-E000178,P07-C00200,2025-04-15,Inpatient,Low complexity,3.0,498.68,4,0
+P07-E000179,P07-C00289,2024-03-15,Inpatient,Moderate complexity,4.79,1292.09,5,0
+P07-E000180,P07-C00096,2025-09-07,Emergency,Low complexity,2.63,1452.48,4,0
+P07-E000181,P07-C00402,2025-09-15,Outpatient,Moderate complexity,4.21,1225.29,3,1
+P07-E000182,P07-C00422,2025-08-06,Primary care,Moderate complexity,3.89,789.3,1,0
+P07-E000183,P07-C00508,2024-12-26,Outpatient,High complexity,1.2,514.74,2,0
+P07-E000184,P07-C00055,2024-06-02,Primary care,Moderate complexity,0.79,1085.09,4,0
+P07-E000185,P07-C00482,2024-12-27,Inpatient,Low complexity,3.34,887.37,4,0
+P07-E000186,P07-C00320,2025-04-12,Emergency,Low complexity,2.81,991.98,2,0
+P07-E000187,P07-C00181,2024-03-15,Inpatient,High complexity,2.5,769.35,2,0
+P07-E000188,P07-C00126,2025-10-17,Outpatient,Moderate complexity,3.13,99.91,3,1
+P07-E000189,P07-C00358,2024-04-21,Primary care,High complexity,6.43,1602.61,4,0
+P07-E000190,P07-C00319,2025-09-01,Outpatient,Low complexity,1.59,631.44,3,0
+P07-E000191,P07-C00029,2025-10-31,Outpatient,High complexity,2.69,3662.85,7,0
+P07-E000192,P07-C00040,2025-03-21,Primary care,High complexity,0.0,1862.22,1,0
+P07-E000193,P07-C00120,2024-03-10,Emergency,Moderate complexity,0.0,3256.0,3,0
+P07-E000194,P07-C00215,2024-04-13,Primary care,High complexity,3.68,893.29,2,0
+P07-E000195,P07-C00005,2025-12-21,Specialty,High complexity,5.28,2700.14,2,0
+P07-E000196,P07-C00026,2024-08-06,Specialty,Low complexity,2.53,1360.99,5,0
+P07-E000197,P07-C00150,2025-04-02,Specialty,Moderate complexity,0.0,556.58,5,1
+P07-E000198,P07-C00139,2024-05-13,Primary care,Low complexity,0.45,1074.39,4,0
+P07-E000199,P07-C00430,2025-11-28,Outpatient,Moderate complexity,2.1,1008.45,4,0
+P07-E000200,P07-C00172,2025-03-29,Outpatient,High complexity,0.39,1220.57,5,0
+P07-E000201,P07-C00261,2025-10-07,Specialty,Low complexity,3.26,3694.99,1,0
+P07-E000202,P07-C00452,2024-03-17,Emergency,High complexity,5.94,428.33,5,1
+P07-E000203,P07-C00412,2025-10-09,Specialty,High complexity,3.26,454.79,1,0
+P07-E000204,P07-C00091,2025-03-18,Inpatient,Moderate complexity,2.11,1341.31,4,1
+P07-E000205,P07-C00429,2025-09-06,Emergency,Low complexity,0.25,1375.08,3,0
+P07-E000206,P07-C00449,2024-05-05,Specialty,Low complexity,2.02,1755.51,3,0
+P07-E000207,P07-C00469,2024-07-31,Emergency,Moderate complexity,4.75,940.33,2,1
+P07-E000208,P07-C00334,2025-04-28,Outpatient,Low complexity,1.86,2038.55,4,0
+P07-E000209,P07-C00037,2024-03-04,Specialty,High complexity,6.11,1804.58,1,0
+P07-E000210,P07-C00389,2025-01-30,Outpatient,High complexity,1.98,4802.38,2,0
+P07-E000211,P07-C00197,2025-09-29,Primary care,High complexity,5.0,818.71,3,0
+P07-E000212,P07-C00431,2024-04-16,Inpatient,Low complexity,0.0,1579.62,5,0
+P07-E000213,P07-C00109,2024-06-03,Outpatient,High complexity,3.99,1113.54,4,0
+P07-E000214,P07-C00105,2025-11-19,Inpatient,High complexity,4.3,2738.62,4,0
+P07-E000215,P07-C00294,2024-11-22,Primary care,Low complexity,2.85,250.88,3,0
+P07-E000216,P07-C00519,2024-03-16,Inpatient,Low complexity,0.45,451.94,2,0
+P07-E000217,P07-C00266,2025-01-03,Outpatient,Moderate complexity,6.13,82.17,3,0
+P07-E000218,P07-C00328,2025-07-20,Outpatient,Low complexity,5.14,1056.2,4,0
+P07-E000219,P07-C00342,2025-10-21,Specialty,Low complexity,0.83,1583.2,3,0
+P07-E000220,P07-C00019,2025-02-27,Outpatient,Low complexity,0.0,850.13,3,0
+P07-E000221,P07-C00168,2025-05-11,Emergency,Low complexity,0.0,1270.97,7,0
+P07-E000222,P07-C00510,2025-08-22,Outpatient,High complexity,0.0,669.78,4,0
+P07-E000223,P07-C00460,2025-07-12,Emergency,Low complexity,3.2,2395.26,4,0
+P07-E000224,P07-C00239,2024-01-01,Inpatient,High complexity,0.0,562.46,1,0
+P07-E000225,P07-C00227,2025-08-06,Emergency,High complexity,1.23,1572.07,1,1
+P07-E000226,P07-C00470,2024-06-01,Primary care,High complexity,1.49,2991.01,3,0
+P07-E000227,P07-C00452,2025-04-08,Specialty,Low complexity,1.88,982.99,3,1
+P07-E000228,P07-C00499,2025-04-21,Specialty,Low complexity,2.75,1179.83,2,1
+P07-E000229,P07-C00335,2024-07-16,Outpatient,Low complexity,2.16,1171.63,4,1
+P07-E000230,P07-C00053,2025-02-08,Inpatient,Moderate complexity,3.25,4023.29,2,0
+P07-E000231,P07-C00424,2024-01-18,Inpatient,Moderate complexity,3.35,1544.59,2,0
+P07-E000232,P07-C00222,2025-08-14,Outpatient,High complexity,3.43,113.87,1,0
+P07-E000233,P07-C00120,2024-06-04,Inpatient,Moderate complexity,3.34,2226.44,3,0
+P07-E000234,P07-C00024,2025-09-24,Outpatient,Low complexity,1.42,562.38,3,0
+P07-E000235,P07-C00005,2024-03-20,Outpatient,High complexity,1.84,2027.93,2,1
+P07-E000236,P07-C00481,2024-05-22,Specialty,High complexity,1.81,976.42,4,1
+P07-E000237,P07-C00245,2024-12-06,Inpatient,High complexity,6.95,536.94,2,1
+P07-E000238,P07-C00422,2025-11-21,Emergency,Moderate complexity,4.14,2238.03,6,0
+P07-E000239,P07-C00255,2024-10-08,Outpatient,Low complexity,5.2,1032.0,4,0
+P07-E000240,P07-C00316,2024-08-17,Outpatient,Low complexity,2.51,1035.14,3,0
+P07-E000241,P07-C00432,2025-10-07,Inpatient,Moderate complexity,3.52,474.27,1,1
+P07-E000242,P07-C00408,2025-05-04,Primary care,High complexity,5.59,1185.83,3,1
+P07-E000243,P07-C00245,2024-02-20,Specialty,Low complexity,6.06,998.47,3,0
+P07-E000244,P07-C00208,2024-05-15,Specialty,Low complexity,4.57,1061.26,3,0
+P07-E000245,P07-C00394,2024-05-10,Emergency,Low complexity,0.0,1256.24,2,0
+P07-E000246,P07-C00299,2024-01-06,Specialty,Low complexity,3.0,1567.03,5,0
+P07-E000247,P07-C00443,2024-06-04,Primary care,Low complexity,1.52,1023.7,4,0
+P07-E000248,P07-C00285,2024-03-16,Emergency,High complexity,8.61,4221.09,5,0
+P07-E000249,P07-C00408,2025-01-14,Primary care,Moderate complexity,0.0,682.38,3,0
+P07-E000250,P07-C00196,2024-07-06,Emergency,High complexity,0.27,1652.78,3,0
+P07-E000251,P07-C00423,2024-04-04,Outpatient,High complexity,1.17,2004.39,3,0
+P07-E000252,P07-C00094,2025-04-21,Emergency,High complexity,1.99,439.39,6,0
+P07-E000253,P07-C00297,2025-07-15,Primary care,High complexity,1.71,429.6,3,0
+P07-E000254,P07-C00137,2025-02-22,Emergency,Low complexity,7.23,439.42,3,0
+P07-E000255,P07-C00220,2025-09-17,Specialty,Low complexity,5.59,575.1,1,0
+P07-E000256,P07-C00171,2024-08-27,Outpatient,High complexity,3.73,4316.3,2,1
+P07-E000257,P07-C00002,2024-10-19,Primary care,High complexity,3.55,1031.16,1,0
+P07-E000258,P07-C00117,2024-12-21,Emergency,Moderate complexity,5.78,2580.5,3,1
+P07-E000259,P07-C00377,2024-04-10,Outpatient,High complexity,3.24,216.89,5,0
+P07-E000260,P07-C00163,2024-03-14,Inpatient,Low complexity,3.7,770.58,3,0
+P07-E000261,P07-C00167,2025-03-25,Emergency,Moderate complexity,5.68,749.83,4,0
+P07-E000262,P07-C00026,2025-05-21,Specialty,Moderate complexity,0.0,2272.12,2,0
+P07-E000263,P07-C00188,2025-12-23,Emergency,High complexity,5.39,817.31,2,0
+P07-E000264,P07-C00329,2024-12-02,Outpatient,Low complexity,6.24,374.46,5,0
+P07-E000265,P07-C00391,2024-01-25,Specialty,High complexity,2.69,765.55,3,0
+P07-E000266,P07-C00044,2025-01-16,Primary care,High complexity,2.81,492.92,1,0
+P07-E000267,P07-C00258,2024-01-22,Primary care,Moderate complexity,3.81,689.31,3,0
+P07-E000268,P07-C00016,2024-07-18,Outpatient,Low complexity,0.0,1846.26,2,0
+P07-E000269,P07-C00196,2024-08-11,Primary care,High complexity,1.91,1977.6,4,0
+P07-E000270,P07-C00113,2025-09-14,Emergency,Low complexity,6.48,770.17,5,0
+P07-E000271,P07-C00027,2024-05-03,Primary care,Low complexity,1.49,562.75,2,0
+P07-E000272,P07-C00095,2024-03-27,Primary care,High complexity,1.23,341.14,2,0
+P07-E000273,P07-C00378,2024-03-30,Outpatient,High complexity,4.26,666.9,1,1
+P07-E000274,P07-C00127,2024-11-08,Emergency,Moderate complexity,3.24,2059.41,4,0
+P07-E000275,P07-C00229,2024-11-22,Emergency,Moderate complexity,3.61,3412.0,4,0
+P07-E000276,P07-C00238,2025-07-19,Outpatient,High complexity,2.67,1332.97,2,1
+P07-E000277,P07-C00201,2024-07-28,Inpatient,High complexity,5.19,1113.54,3,0
+P07-E000278,P07-C00243,2025-11-02,Emergency,Low complexity,2.81,803.55,5,1
+P07-E000279,P07-C00194,2025-09-19,Primary care,Low complexity,3.7,553.73,3,0
+P07-E000280,P07-C00103,2024-02-13,Specialty,Moderate complexity,3.62,1049.62,5,1
+P07-E000281,P07-C00116,2024-04-01,Emergency,Low complexity,3.39,648.35,4,0
+P07-E000282,P07-C00003,2025-11-24,Specialty,Low complexity,5.54,672.73,6,0
+P07-E000283,P07-C00054,2025-06-19,Emergency,Low complexity,4.85,1812.69,2,1
+P07-E000284,P07-C00410,2025-01-14,Specialty,Low complexity,1.58,1354.32,2,1
+P07-E000285,P07-C00048,2025-06-20,Specialty,High complexity,2.85,1625.69,4,1
+P07-E000286,P07-C00386,2025-01-30,Inpatient,Low complexity,2.49,721.4,1,0
+P07-E000287,P07-C00385,2024-12-05,Inpatient,Low complexity,2.93,1422.86,3,0
+P07-E000288,P07-C00486,2025-11-09,Emergency,Moderate complexity,4.39,576.87,3,0
+P07-E000289,P07-C00431,2025-11-19,Emergency,Moderate complexity,2.3,419.76,4,0
+P07-E000290,P07-C00267,2025-11-13,Outpatient,High complexity,3.75,1326.84,1,0
+P07-E000291,P07-C00500,2024-01-21,Emergency,Moderate complexity,1.5,431.73,5,0
+P07-E000292,P07-C00252,2025-02-28,Inpatient,Moderate complexity,5.14,540.01,7,0
+P07-E000293,P07-C00298,2024-02-26,Inpatient,Low complexity,2.99,1466.39,4,0
+P07-E000294,P07-C00242,2025-09-08,Specialty,High complexity,4.76,662.17,8,1
+P07-E000295,P07-C00141,2024-08-14,Primary care,Low complexity,6.59,1005.19,5,0
+P07-E000296,P07-C00467,2024-10-05,Primary care,Low complexity,1.76,496.38,4,0
+P07-E000297,P07-C00362,2024-02-08,Inpatient,High complexity,0.86,715.86,1,0
+P07-E000298,P07-C00485,2024-05-05,Primary care,Low complexity,0.0,319.13,4,0
+P07-E000299,P07-C00053,2025-06-03,Primary care,Moderate complexity,3.54,813.54,5,0
+P07-E000300,P07-C00392,2025-01-26,Primary care,Moderate complexity,2.53,1961.99,2,0
+P07-E000301,P07-C00451,2025-11-18,Primary care,Low complexity,3.98,747.17,2,0
+P07-E000302,P07-C00286,2024-01-17,Emergency,Moderate complexity,0.68,346.14,4,0
+P07-E000303,P07-C00038,2025-02-06,Primary care,High complexity,1.47,1357.02,1,0
+P07-E000304,P07-C00174,2025-12-08,Outpatient,Moderate complexity,2.54,935.83,6,0
+P07-E000305,P07-C00163,2025-04-19,Primary care,High complexity,1.85,401.0,1,0
+P07-E000306,P07-C00303,2025-07-10,Specialty,Low complexity,2.11,2057.25,10,1
+P07-E000307,P07-C00342,2024-07-22,Primary care,High complexity,5.6,578.07,3,1
+P07-E000308,P07-C00095,2024-01-12,Emergency,High complexity,1.01,1951.36,2,0
+P07-E000309,P07-C00064,2025-12-17,Specialty,Low complexity,,577.04,5,0
+P07-E000310,P07-C00503,2025-11-24,Primary care,Low complexity,2.43,446.96,3,0
+P07-E000311,P07-C00517,2025-11-03,Outpatient,Moderate complexity,4.49,665.13,7,0
+P07-E000312,P07-C00463,2025-09-10,Specialty,Moderate complexity,2.97,963.32,3,0
+P07-E000313,P07-C00191,2024-09-23,Outpatient,Low complexity,3.84,163.19,4,0
+P07-E000314,P07-C00505,2024-09-12,Specialty,Low complexity,4.98,433.99,5,0
+P07-E000315,P07-C00139,2025-12-28,Outpatient,Low complexity,6.7,1536.81,4,1
+P07-E000316,P07-C00498,2025-10-03,Inpatient,Moderate complexity,2.76,568.82,1,0
+P07-E000317,P07-C00175,2024-10-05,Emergency,Moderate complexity,4.44,1303.89,5,0
+P07-E000318,P07-C00393,2024-08-15,Specialty,Low complexity,1.84,2906.36,6,0
+P07-E000319,P07-C00475,2024-02-22,Outpatient,High complexity,4.85,1598.42,2,0
+P07-E000320,P07-C00349,2025-01-28,Inpatient,Low complexity,4.95,805.1,2,0
+P07-E000321,P07-C00198,2024-04-22,Primary care,Moderate complexity,5.57,460.64,2,0
+P07-E000322,P07-C00353,2025-03-21,Inpatient,Low complexity,3.11,2614.17,6,0
+P07-E000323,P07-C00137,2025-06-09,Specialty,Low complexity,1.11,2070.78,4,0
+P07-E000324,P07-C00443,2025-02-06,Outpatient,High complexity,2.43,1418.26,3,0
+P07-E000325,P07-C00061,2025-10-12,Primary care,Moderate complexity,0.39,2079.68,2,0
+P07-E000326,P07-C00312,2025-01-29,Outpatient,Low complexity,6.16,652.83,3,0
+P07-E000327,P07-C00014,2025-08-03,Inpatient,Moderate complexity,1.16,1105.43,3,0
+P07-E000328,P07-C00489,2025-10-08,Emergency,Low complexity,0.68,1260.19,3,0
+P07-E000329,P07-C00267,2025-10-19,Emergency,Moderate complexity,4.72,2287.64,2,0
+P07-E000330,P07-C00490,2024-01-26,Inpatient,High complexity,3.51,1814.03,1,1
+P07-E000331,P07-C00455,2024-12-30,Primary care,Moderate complexity,0.71,2093.16,1,0
+P07-E000332,P07-C00290,2025-11-10,Inpatient,Low complexity,2.48,869.87,6,0
+P07-E000333,P07-C00024,2025-09-14,Primary care,Low complexity,1.39,1223.35,4,0
+P07-E000334,P07-C00519,2024-06-21,Primary care,High complexity,2.0,1000.01,1,0
+P07-E000335,P07-C00344,2024-02-09,Outpatient,High complexity,3.22,1542.17,4,0
+P07-E000336,P07-C00495,2024-10-10,Inpatient,Low complexity,1.94,1165.54,3,0
+P07-E000337,P07-C00118,2025-11-20,Inpatient,Moderate complexity,2.62,998.31,3,0
+P07-E000338,P07-C00153,2025-10-06,Specialty,Low complexity,4.89,1151.14,6,0
+P07-E000339,P07-C00017,2025-01-15,Outpatient,Low complexity,2.98,768.75,3,1
+P07-E000340,P07-C00482,2024-12-05,Inpatient,Low complexity,4.19,1249.39,5,0
+P07-E000341,P07-C00401,2025-02-03,Specialty,Moderate complexity,4.3,974.99,4,0
+P07-E000342,P07-C00432,2025-12-13,Primary care,High complexity,3.25,472.92,5,0
+P07-E000343,P07-C00434,2025-01-07,Inpatient,Moderate complexity,4.16,1569.94,3,0
+P07-E000344,P07-C00133,2024-05-03,Specialty,Low complexity,0.0,914.51,7,0
+P07-E000345,P07-C00520,2024-06-08,Primary care,High complexity,3.83,542.04,4,0
+P07-E000346,P07-C00137,2025-12-20,Specialty,Low complexity,2.39,775.02,5,0
+P07-E000347,P07-C00493,2025-01-19,Emergency,Low complexity,2.02,4404.76,3,0
+P07-E000348,P07-C00460,2025-05-24,Inpatient,Moderate complexity,5.43,388.83,4,0
+P07-E000349,P07-C00051,2025-12-13,Emergency,Low complexity,4.09,1082.16,5,1
+P07-E000350,P07-C00280,2024-04-06,Specialty,Moderate complexity,2.22,1062.26,3,1
+P07-E000351,P07-C00060,2025-07-16,Inpatient,Moderate complexity,0.51,717.07,3,0
+P07-E000352,P07-C00210,2025-09-04,Emergency,Low complexity,2.8,2366.94,6,0
+P07-E000353,P07-C00279,2025-02-25,Primary care,High complexity,1.59,2383.29,3,0
+P07-E000354,P07-C00477,2024-05-17,Specialty,High complexity,3.6,324.21,3,0
+P07-E000355,P07-C00064,2024-07-08,Inpatient,Low complexity,0.81,836.71,2,1
+P07-E000356,P07-C00118,2024-10-02,Emergency,Low complexity,2.86,492.46,2,0
+P07-E000357,P07-C00300,2025-12-21,Emergency,Moderate complexity,3.44,3109.09,1,0
+P07-E000358,P07-C00454,2024-12-29,Specialty,High complexity,3.78,642.53,3,0
+P07-E000359,P07-C00358,2025-02-11,Emergency,High complexity,5.14,1291.27,1,0
+P07-E000360,P07-C00339,2025-12-03,Outpatient,Low complexity,4.58,1613.45,3,0
+P07-E000361,P07-C00153,2025-11-04,Primary care,High complexity,4.16,3141.66,6,1
+P07-E000362,P07-C00096,2025-12-23,Primary care,High complexity,0.07,4630.65,3,1
+P07-E000363,P07-C00124,2025-12-28,Emergency,Moderate complexity,4.8,2875.4,2,1
+P07-E000364,P07-C00180,2024-10-09,Primary care,Low complexity,4.54,8013.32,3,0
+P07-E000365,P07-C00465,2025-01-13,Outpatient,High complexity,5.24,680.07,4,0
+P07-E000366,P07-C00048,2025-07-11,Outpatient,High complexity,5.68,2889.19,2,0
+P07-E000367,P07-C00388,2024-11-05,Specialty,High complexity,2.22,1300.4,5,0
+P07-E000368,P07-C00422,2024-08-05,Specialty,Low complexity,2.07,507.45,4,0
+P07-E000369,P07-C00142,2024-08-03,Inpatient,Low complexity,2.11,410.19,2,0
+P07-E000370,P07-C00128,2024-06-26,Inpatient,High complexity,2.08,452.35,7,0
+P07-E000371,P07-C00219,2025-05-17,Specialty,Low complexity,0.94,1442.39,4,0
+P07-E000372,P07-C00138,2025-05-02,Outpatient,High complexity,2.85,1055.96,6,0
+P07-E000373,P07-C00090,2024-03-21,Outpatient,High complexity,2.8,707.44,3,0
+P07-E000374,P07-C00318,2024-05-23,Specialty,Moderate complexity,5.01,2497.38,4,1
+P07-E000375,P07-C00102,2025-03-09,Inpatient,High complexity,0.03,984.09,2,0
+P07-E000376,P07-C00386,2024-03-30,Outpatient,High complexity,3.6,297.29,4,1
+P07-E000377,P07-C00307,2025-07-04,Inpatient,Low complexity,1.25,1518.99,3,0
+P07-E000378,P07-C00318,2024-03-22,Specialty,Low complexity,6.56,410.88,1,0
+P07-E000379,P07-C00289,2024-09-25,Primary care,Moderate complexity,2.16,679.43,1,0
+P07-E000380,P07-C00125,2025-11-27,Specialty,Moderate complexity,2.93,2835.03,4,1
+P07-E000381,P07-C00193,2024-06-21,Specialty,Moderate complexity,4.84,861.28,6,0
+P07-E000382,P07-C00438,2025-05-11,Outpatient,Moderate complexity,5.0,563.49,2,1
+P07-E000383,P07-C00225,2025-07-12,Inpatient,Moderate complexity,3.1,3149.18,3,0
+P07-E000384,P07-C00467,2024-10-12,Primary care,High complexity,2.51,459.93,2,0
+P07-E000385,P07-C00012,2025-05-03,Primary care,Moderate complexity,3.44,434.07,2,0
+P07-E000386,P07-C00031,2024-09-29,Inpatient,Low complexity,3.18,344.79,3,0
+P07-E000387,P07-C00379,2025-08-10,Inpatient,High complexity,4.85,1183.9,3,0
+P07-E000388,P07-C00194,2024-09-06,Outpatient,Moderate complexity,2.14,487.48,2,0
+P07-E000389,P07-C00090,2025-05-19,Emergency,Moderate complexity,3.41,467.22,3,0
+P07-E000390,P07-C00275,2025-09-26,Outpatient,Moderate complexity,1.92,903.55,3,1
+P07-E000391,P07-C00219,2025-10-17,Specialty,Moderate complexity,3.4,2395.78,2,0
+P07-E000392,P07-C00044,2024-01-17,Inpatient,Moderate complexity,,211.71,1,0
+P07-E000393,P07-C00072,2024-12-15,Specialty,Moderate complexity,4.97,1386.41,1,0
+P07-E000394,P07-C00340,2025-03-19,Specialty,Moderate complexity,2.78,2336.98,5,0
+P07-E000395,P07-C00418,2025-07-16,Outpatient,Low complexity,0.67,8161.61,3,0
+P07-E000396,P07-C00149,2025-04-04,Inpatient,High complexity,0.0,625.84,2,0
+P07-E000397,P07-C00498,2025-04-04,Inpatient,Moderate complexity,5.53,613.27,3,0
+P07-E000398,P07-C00355,2025-08-25,Outpatient,Moderate complexity,0.88,2853.58,2,1
+P07-E000399,P07-C00273,2024-06-04,Emergency,Low complexity,3.27,3095.08,1,1
+P07-E000400,P07-C00095,2024-03-05,Primary care,Low complexity,4.39,1555.11,2,0
+P07-E000401,P07-C00185,2024-11-17,Specialty,High complexity,6.67,773.56,4,0
+P07-E000402,P07-C00419,2025-11-16,Specialty,Low complexity,1.79,831.85,2,1
+P07-E000403,P07-C00056,2024-05-19,Emergency,Low complexity,3.98,1308.08,4,0
+P07-E000404,P07-C00241,2024-09-16,Outpatient,High complexity,0.99,4051.0,3,0
+P07-E000405,P07-C00329,2025-03-08,Primary care,High complexity,6.94,1168.56,3,0
+P07-E000406,P07-C00449,2024-12-13,Specialty,Moderate complexity,5.33,2801.44,9,0
+P07-E000407,P07-C00080,2024-07-22,Primary care,Low complexity,5.25,1308.22,1,0
+P07-E000408,P07-C00140,2025-01-24,Outpatient,High complexity,2.51,445.16,2,0
+P07-E000409,P07-C00436,2025-10-23,Primary care,Low complexity,4.11,996.14,2,0
+P07-E000410,P07-C00250,2025-04-16,Inpatient,Low complexity,3.43,476.25,2,0
+P07-E000411,P07-C00018,2024-10-23,Primary care,Moderate complexity,6.69,1803.18,1,0
+P07-E000412,P07-C00328,2025-12-13,Outpatient,Moderate complexity,2.35,260.14,4,0
+P07-E000413,P07-C00507,2025-10-20,Outpatient,Low complexity,0.42,1848.23,3,0
+P07-E000414,P07-C00288,2025-06-30,Specialty,High complexity,2.68,229.66,3,0
+P07-E000415,P07-C00275,2024-08-29,Specialty,Moderate complexity,2.97,802.76,4,0
+P07-E000416,P07-C00443,2025-01-22,Outpatient,Moderate complexity,3.07,922.33,2,0
+P07-E000417,P07-C00018,2024-09-24,Emergency,High complexity,0.5,740.44,6,1
+P07-E000418,P07-C00206,2025-01-21,Inpatient,High complexity,2.9,680.05,4,0
+P07-E000419,P07-C00198,2025-06-20,Emergency,High complexity,0.32,619.93,3,0
+P07-E000420,P07-C00423,2025-07-21,Primary care,High complexity,6.98,703.94,3,1
+P07-E000421,P07-C00510,2024-04-10,Specialty,Low complexity,3.62,448.11,9,0
+P07-E000422,P07-C00161,2025-06-15,Inpatient,Low complexity,1.04,2117.58,4,0
+P07-E000423,P07-C00031,2025-05-01,Specialty,High complexity,2.55,1655.84,2,0
+P07-E000424,P07-C00327,2025-03-19,Primary care,Moderate complexity,0.0,732.02,3,0
+P07-E000425,P07-C00068,2024-11-28,Specialty,Moderate complexity,0.0,578.39,8,0
+P07-E000426,P07-C00513,2024-03-18,Emergency,Low complexity,0.0,805.29,4,1
+P07-E000427,P07-C00179,2025-06-04,Inpatient,High complexity,9.42,971.96,3,0
+P07-E000428,P07-C00267,2025-09-04,Outpatient,Low complexity,5.77,556.6,4,1
+P07-E000429,P07-C00186,2025-04-27,Inpatient,Low complexity,4.09,1870.22,6,0
+P07-E000430,P07-C00280,2024-11-19,Emergency,Moderate complexity,6.86,854.39,5,0
+P07-E000431,P07-C00248,2024-11-30,Specialty,Moderate complexity,0.85,1275.4,3,1
+P07-E000432,P07-C00171,2025-08-29,Primary care,Low complexity,3.72,626.93,7,0
+P07-E000433,P07-C00340,2024-12-21,Outpatient,Moderate complexity,0.0,1085.28,5,0
+P07-E000434,P07-C00407,2025-11-15,Emergency,Moderate complexity,2.09,1380.97,2,1
+P07-E000435,P07-C00186,2024-07-04,Outpatient,Low complexity,5.14,932.27,3,1
+P07-E000436,P07-C00321,2025-07-28,Emergency,Moderate complexity,5.0,3399.21,2,0
+P07-E000437,P07-C00216,2024-06-16,Specialty,High complexity,5.91,4025.34,3,0
+P07-E000438,P07-C00309,2024-11-07,Specialty,Moderate complexity,3.99,833.19,5,0
+P07-E000439,P07-C00120,2024-12-10,Outpatient,Low complexity,0.99,924.68,2,0
+P07-E000440,P07-C00020,2025-07-30,Outpatient,Low complexity,3.32,1423.77,2,0
+P07-E000441,P07-C00493,2025-02-07,Inpatient,High complexity,3.23,651.79,3,0
+P07-E000442,P07-C00259,2025-05-15,Outpatient,High complexity,0.91,1630.56,4,0
+P07-E000443,P07-C00139,2024-12-28,Specialty,Low complexity,3.26,253.94,4,0
+P07-E000444,P07-C00491,2025-05-27,Inpatient,Moderate complexity,0.0,738.26,3,0
+P07-E000445,P07-C00114,2024-04-24,Emergency,Low complexity,3.87,586.66,2,0
+P07-E000446,P07-C00197,2024-07-03,Specialty,High complexity,0.19,2078.06,1,0
+P07-E000447,P07-C00181,2025-10-11,Emergency,Moderate complexity,3.48,653.32,3,0
+P07-E000448,P07-C00318,2025-02-06,Primary care,High complexity,0.39,902.44,2,0
+P07-E000449,P07-C00423,2025-12-28,Outpatient,Moderate complexity,2.34,3214.42,6,1
+P07-E000450,P07-C00344,2024-11-11,Emergency,Low complexity,1.49,565.23,3,0
+P07-E000451,P07-C00201,2025-04-22,Emergency,Low complexity,3.65,325.2,4,0
+P07-E000452,P07-C00027,2024-01-31,Emergency,Moderate complexity,4.23,1516.47,5,1
+P07-E000453,P07-C00459,2025-03-22,Outpatient,Moderate complexity,2.44,654.46,2,0
+P07-E000454,P07-C00032,2024-02-03,Specialty,Low complexity,3.8,1774.36,4,1
+P07-E000455,P07-C00457,2024-06-18,Outpatient,Low complexity,1.4,634.11,3,1
+P07-E000456,P07-C00313,2025-12-02,Specialty,Low complexity,2.99,826.69,6,0
+P07-E000457,P07-C00371,2024-05-29,Outpatient,High complexity,2.37,764.69,2,1
+P07-E000458,P07-C00051,2024-07-05,Outpatient,Low complexity,4.77,1812.42,3,1
+P07-E000459,P07-C00007,2024-03-05,Primary care,Low complexity,1.33,2006.69,2,0
+P07-E000460,P07-C00389,2024-01-10,Specialty,Low complexity,4.18,842.73,4,1
+P07-E000461,P07-C00445,2025-10-31,Outpatient,High complexity,3.22,438.65,5,0
+P07-E000462,P07-C00140,2024-06-04,Outpatient,Moderate complexity,1.83,1798.57,3,0
+P07-E000463,P07-C00036,2024-08-02,Specialty,Low complexity,0.15,2583.11,6,1
+P07-E000464,P07-C00288,2024-12-02,Primary care,Moderate complexity,2.2,1252.06,3,0
+P07-E000465,P07-C00237,2025-12-28,Primary care,Moderate complexity,1.89,1614.65,4,1
+P07-E000466,P07-C00244,2025-10-11,Inpatient,High complexity,5.83,1102.68,6,0
+P07-E000467,P07-C00326,2025-11-20,Outpatient,Moderate complexity,2.62,1063.41,6,1
+P07-E000468,P07-C00074,2024-11-24,Specialty,Moderate complexity,5.37,2048.58,7,1
+P07-E000469,P07-C00179,2025-03-21,Emergency,Low complexity,1.93,574.17,4,0
+P07-E000470,P07-C00027,2025-01-10,Primary care,Low complexity,3.29,833.81,1,0
+P07-E000471,P07-C00304,2024-08-26,Primary care,High complexity,2.26,2820.38,6,0
+P07-E000472,P07-C00507,2025-09-23,Inpatient,Moderate complexity,3.74,575.08,1,0
+P07-E000473,P07-C00423,2025-07-26,Primary care,Low complexity,5.82,3394.83,2,0
+P07-E000474,P07-C00372,2025-01-27,Primary care,Low complexity,4.29,1426.35,1,1
+P07-E000475,P07-C00356,2024-05-07,Primary care,Low complexity,4.83,1520.31,3,0
+P07-E000476,P07-C00388,2025-01-28,Specialty,High complexity,5.14,951.46,4,0
+P07-E000477,P07-C00145,2024-04-07,Primary care,High complexity,4.0,1148.09,5,0
+P07-E000478,P07-C00027,2025-01-28,Emergency,High complexity,0.49,5630.68,4,0
+P07-E000479,P07-C00316,2025-05-22,Emergency,Moderate complexity,2.69,270.67,3,0
+P07-E000480,P07-C00409,2025-07-04,Primary care,High complexity,0.18,1321.75,1,0
+P07-E000481,P07-C00217,2025-11-03,Primary care,High complexity,3.13,564.37,2,0
+P07-E000482,P07-C00449,2025-10-04,Primary care,Low complexity,1.02,2354.59,2,0
+P07-E000483,P07-C00326,2025-10-17,Outpatient,High complexity,0.0,926.22,2,1
+P07-E000484,P07-C00484,2025-09-23,Primary care,Low complexity,4.53,2435.18,3,0
+P07-E000485,P07-C00391,2024-12-29,Emergency,Low complexity,1.87,658.59,2,0
+P07-E000486,P07-C00140,2024-02-23,Emergency,Moderate complexity,2.43,503.69,2,0
+P07-E000487,P07-C00343,2024-03-07,Inpatient,High complexity,4.47,651.98,2,0
+P07-E000488,P07-C00517,2025-09-08,Specialty,High complexity,1.87,415.41,5,0
+P07-E000489,P07-C00064,2025-05-16,Outpatient,Moderate complexity,4.52,731.12,3,0
+P07-E000490,P07-C00069,2024-03-04,Emergency,Moderate complexity,0.99,727.74,4,0
+P07-E000491,P07-C00407,2024-01-07,Outpatient,High complexity,4.34,1613.39,3,1
+P07-E000492,P07-C00469,2024-06-18,Outpatient,High complexity,3.68,1231.76,2,0
+P07-E000493,P07-C00007,2024-12-22,Primary care,High complexity,2.6,1206.09,4,0
+P07-E000494,P07-C00393,2025-03-18,Specialty,Low complexity,3.7,651.16,3,0
+P07-E000495,P07-C00018,2024-11-03,Outpatient,Moderate complexity,3.32,2607.65,3,0
+P07-E000496,P07-C00094,2024-05-11,Inpatient,Low complexity,4.12,683.19,1,0
+P07-E000497,P07-C00437,2025-05-02,Inpatient,Low complexity,1.39,1068.34,4,0
+P07-E000498,P07-C00154,2025-07-20,Inpatient,Moderate complexity,0.73,458.53,2,0
+P07-E000499,P07-C00149,2025-06-18,Specialty,Low complexity,3.03,549.88,7,0
+P07-E000500,P07-C00287,2024-08-28,Primary care,High complexity,3.83,3910.05,1,1
+P07-E000501,P07-C00126,2025-03-05,Specialty,Low complexity,3.01,748.73,4,0
+P07-E000502,P07-C00287,2024-07-14,Emergency,Moderate complexity,4.86,438.94,5,0
+P07-E000503,P07-C00270,2025-05-12,Primary care,Low complexity,3.42,678.41,3,0
+P07-E000504,P07-C00499,2024-12-27,Specialty,Low complexity,3.62,1814.72,5,1
+P07-E000505,P07-C00144,2025-05-01,Emergency,Moderate complexity,4.31,1275.06,2,1
+P07-E000506,P07-C00227,2025-01-29,Inpatient,High complexity,0.0,640.95,4,0
+P07-E000507,P07-C00172,2024-02-05,Specialty,High complexity,4.5,1921.87,3,0
+P07-E000508,P07-C00124,2025-03-14,Outpatient,High complexity,1.79,2933.22,2,0
+P07-E000509,P07-C00259,2025-12-22,Specialty,Low complexity,1.96,1473.3,4,0
+P07-E000510,P07-C00478,2025-11-27,Specialty,Low complexity,2.16,277.48,6,0
+P07-E000511,P07-C00372,2024-06-25,Inpatient,Moderate complexity,5.09,3097.66,4,0
+P07-E000512,P07-C00301,2025-05-22,Specialty,High complexity,2.73,341.72,5,0
+P07-E000513,P07-C00264,2024-06-04,Specialty,Moderate complexity,5.68,1063.97,5,0
+P07-E000514,P07-C00330,2024-07-13,Inpatient,Moderate complexity,0.73,1128.93,3,0
+P07-E000515,P07-C00112,2024-06-27,Inpatient,Moderate complexity,4.89,208.28,4,1
+P07-E000516,P07-C00084,2025-10-19,Primary care,Low complexity,5.51,883.52,3,0
+P07-E000517,P07-C00041,2025-08-28,Emergency,High complexity,7.72,1583.52,3,0
+P07-E000518,P07-C00429,2025-10-07,Primary care,High complexity,4.25,1269.13,3,1
+P07-E000519,P07-C00060,2025-09-18,Outpatient,Moderate complexity,3.67,1468.96,3,0
+P07-E000520,P07-C00356,2024-08-16,Primary care,Low complexity,2.7,803.0,4,0
+P07-E000521,P07-C00315,2025-02-03,Emergency,Moderate complexity,1.65,653.82,5,0
+P07-E000522,P07-C00065,2024-03-06,Specialty,Moderate complexity,0.22,1995.2,3,1
+P07-E000523,P07-C00032,2024-08-06,Primary care,Moderate complexity,3.17,1179.31,4,0
+P07-E000524,P07-C00309,2025-01-09,Inpatient,High complexity,4.46,650.27,1,0
+P07-E000525,P07-C00264,2025-12-07,Primary care,Low complexity,1.73,1035.43,2,0
+P07-E000526,P07-C00233,2025-07-24,Emergency,High complexity,4.86,2212.1,3,0
+P07-E000527,P07-C00107,2024-02-11,Primary care,Low complexity,2.22,498.79,2,0
+P07-E000528,P07-C00150,2024-06-20,Primary care,Low complexity,0.0,918.43,2,0
+P07-E000529,P07-C00119,2024-09-13,Primary care,High complexity,4.43,359.66,3,0
+P07-E000530,P07-C00234,2024-12-08,Emergency,Moderate complexity,2.43,707.78,3,1
+P07-E000531,P07-C00361,2024-02-02,Primary care,Moderate complexity,2.16,1621.09,4,0
+P07-E000532,P07-C00186,2024-01-15,Emergency,Moderate complexity,1.2,965.27,5,0
+P07-E000533,P07-C00219,2025-11-10,Primary care,Low complexity,2.49,612.17,1,0
+P07-E000534,P07-C00244,2025-01-28,Inpatient,Moderate complexity,3.03,522.18,3,0
+P07-E000535,P07-C00152,2024-09-29,Inpatient,Moderate complexity,1.24,328.51,5,0
+P07-E000536,P07-C00366,2024-12-20,Inpatient,High complexity,5.58,1083.29,7,0
+P07-E000537,P07-C00060,2025-01-13,Emergency,Moderate complexity,2.56,1503.77,4,1
+P07-E000538,P07-C00110,2024-02-17,Emergency,High complexity,4.45,2414.61,4,0
+P07-E000539,P07-C00343,2024-02-22,Specialty,Low complexity,4.6,1068.81,7,0
+P07-E000540,P07-C00180,2025-03-29,Outpatient,High complexity,4.04,731.16,4,0
+P07-E000541,P07-C00321,2024-04-23,Outpatient,High complexity,1.25,2969.9,3,0
+P07-E000542,P07-C00307,2025-05-30,Specialty,High complexity,1.27,2834.53,2,0
+P07-E000543,P07-C00445,2025-08-26,Primary care,Low complexity,3.43,4282.01,3,1
+P07-E000544,P07-C00378,2025-11-14,Outpatient,Moderate complexity,1.1,880.86,4,0
+P07-E000545,P07-C00431,2024-05-05,Outpatient,Low complexity,3.83,345.81,2,0
+P07-E000546,P07-C00442,2024-12-02,Emergency,High complexity,4.95,4368.04,1,0
+P07-E000547,P07-C00399,2025-02-10,Emergency,High complexity,3.83,588.44,6,0
+P07-E000548,P07-C00089,2024-03-31,Outpatient,Low complexity,4.08,1285.48,2,0
+P07-E000549,P07-C00326,2024-06-28,Outpatient,Low complexity,2.91,375.85,1,0
+P07-E000550,P07-C00094,2024-05-07,Outpatient,Low complexity,0.31,962.55,2,0
+P07-E000551,P07-C00430,2024-06-29,Inpatient,Moderate complexity,4.11,1503.69,5,0
+P07-E000552,P07-C00359,2024-02-17,Outpatient,High complexity,3.09,5406.03,4,0
+P07-E000553,P07-C00177,2025-11-10,Outpatient,Moderate complexity,1.62,616.8,2,0
+P07-E000554,P07-C00195,2025-05-17,Emergency,High complexity,4.37,6170.05,2,0
+P07-E000555,P07-C00193,2024-10-04,Inpatient,Moderate complexity,1.4,1602.6,3,0
+P07-E000556,P07-C00134,2025-11-16,Primary care,Moderate complexity,0.66,892.38,2,0
+P07-E000557,P07-C00013,2024-12-11,Emergency,High complexity,2.44,573.52,5,0
+P07-E000558,P07-C00064,2024-05-24,Inpatient,High complexity,3.58,521.1,1,0
+P07-E000559,P07-C00136,2024-10-17,Inpatient,Low complexity,3.11,459.44,6,0
+P07-E000560,P07-C00167,2024-06-27,Specialty,Low complexity,3.98,1440.66,5,1
+P07-E000561,P07-C00061,2024-10-09,Specialty,Low complexity,3.98,926.77,4,0
+P07-E000562,P07-C00453,2025-05-28,Emergency,High complexity,0.69,2051.66,4,0
+P07-E000563,P07-C00043,2024-10-03,Specialty,Low complexity,4.32,634.13,4,0
+P07-E000564,P07-C00228,2024-12-02,Outpatient,Moderate complexity,0.0,660.25,7,0
+P07-E000565,P07-C00197,2025-10-13,Outpatient,High complexity,4.12,2426.7,4,0
+P07-E000566,P07-C00437,2024-09-03,Primary care,Moderate complexity,5.18,602.38,3,0
+P07-E000567,P07-C00153,2024-06-21,Emergency,Low complexity,3.62,862.59,3,0
+P07-E000568,P07-C00390,2024-07-06,Primary care,Moderate complexity,0.0,929.16,2,1
+P07-E000569,P07-C00183,2024-11-12,Specialty,Moderate complexity,1.08,975.34,4,0
+P07-E000570,P07-C00188,2024-03-11,Emergency,Moderate complexity,2.68,419.71,4,1
+P07-E000571,P07-C00517,2025-09-16,Primary care,High complexity,3.55,3917.62,2,0
+P07-E000572,P07-C00498,2024-06-17,Primary care,Low complexity,3.68,405.09,3,0
+P07-E000573,P07-C00108,2024-03-26,Inpatient,Moderate complexity,0.0,302.78,2,0
+P07-E000574,P07-C00257,2025-02-04,Outpatient,Moderate complexity,0.91,1031.26,3,0
+P07-E000575,P07-C00118,2025-07-03,Specialty,High complexity,3.56,1103.05,2,0
+P07-E000576,P07-C00183,2025-07-24,Inpatient,Low complexity,4.91,727.61,4,1
+P07-E000577,P07-C00099,2025-07-02,Inpatient,Moderate complexity,1.84,392.52,2,0
+P07-E000578,P07-C00338,2025-01-27,Emergency,Moderate complexity,,2214.07,2,0
+P07-E000579,P07-C00114,2025-04-07,Inpatient,High complexity,4.46,1217.36,2,1
+P07-E000580,P07-C00355,2024-03-02,Primary care,Low complexity,0.0,874.11,2,0
+P07-E000581,P07-C00516,2025-03-06,Specialty,Low complexity,2.33,2149.92,2,1
+P07-E000582,P07-C00334,2024-01-24,Specialty,Moderate complexity,4.0,3051.64,3,0
+P07-E000583,P07-C00435,2024-06-10,Primary care,High complexity,0.0,258.84,1,0
+P07-E000584,P07-C00032,2024-09-26,Specialty,Moderate complexity,3.93,1574.44,2,0
+P07-E000585,P07-C00447,2024-07-19,Outpatient,High complexity,2.2,349.1,2,0
+P07-E000586,P07-C00133,2024-02-11,Outpatient,High complexity,4.18,937.48,4,0
+P07-E000587,P07-C00296,2025-06-23,Specialty,High complexity,2.9,516.32,1,0
+P07-E000588,P07-C00506,2025-10-12,Outpatient,High complexity,4.46,1628.88,8,0
+P07-E000589,P07-C00336,2025-08-13,Primary care,High complexity,2.49,539.3,3,1
+P07-E000590,P07-C00071,2025-10-16,Specialty,Moderate complexity,0.41,4776.74,2,1
+P07-E000591,P07-C00257,2025-11-07,Inpatient,Moderate complexity,1.5,1059.01,6,0
+P07-E000592,P07-C00146,2024-03-28,Outpatient,High complexity,2.52,658.18,4,0
+P07-E000593,P07-C00038,2024-02-23,Primary care,Low complexity,1.14,390.83,4,0
+P07-E000594,P07-C00115,2025-04-29,Specialty,High complexity,8.34,461.16,3,1
+P07-E000595,P07-C00388,2024-05-01,Emergency,Moderate complexity,3.72,1448.85,5,1
+P07-E000596,P07-C00219,2024-01-03,Specialty,High complexity,2.28,1690.63,4,0
+P07-E000597,P07-C00504,2025-07-02,Emergency,Low complexity,4.26,2894.12,1,0
+P07-E000598,P07-C00155,2024-11-13,Specialty,Moderate complexity,3.52,722.78,5,0
+P07-E000599,P07-C00254,2025-03-15,Outpatient,High complexity,2.21,484.03,3,0
+P07-E000600,P07-C00096,2024-02-17,Specialty,High complexity,3.68,654.0,5,0
+P07-E000601,P07-C00312,2025-03-18,Specialty,Moderate complexity,5.35,1412.31,1,0
+P07-E000602,P07-C00252,2024-09-01,Inpatient,High complexity,5.59,2267.23,5,0
+P07-E000603,P07-C00255,2025-12-25,Outpatient,High complexity,1.22,2175.49,3,0
+P07-E000604,P07-C00025,2024-03-11,Emergency,High complexity,2.16,310.06,5,1
+P07-E000605,P07-C00128,2024-01-29,Inpatient,Moderate complexity,2.44,1551.74,3,0
+P07-E000606,P07-C00148,2024-07-06,Emergency,High complexity,2.82,2663.4,1,0
+P07-E000607,P07-C00385,2024-10-23,Emergency,High complexity,5.25,794.72,5,0
+P07-E000608,P07-C00117,2024-08-25,Primary care,Moderate complexity,3.22,661.46,2,0
+P07-E000609,P07-C00058,2025-02-20,Emergency,High complexity,1.05,965.15,7,0
+P07-E000610,P07-C00020,2024-08-15,Primary care,Low complexity,5.55,2209.54,2,0
+P07-E000611,P07-C00055,2024-09-18,Emergency,Moderate complexity,2.5,2867.26,2,0
+P07-E000612,P07-C00417,2025-03-07,Outpatient,Low complexity,3.39,753.97,3,1
+P07-E000613,P07-C00453,2024-04-21,Inpatient,Low complexity,0.9,352.88,3,0
+P07-E000614,P07-C00500,2025-12-08,Emergency,High complexity,2.74,1418.3,4,0
+P07-E000615,P07-C00230,2024-06-15,Emergency,Moderate complexity,4.65,3131.08,1,0
+P07-E000616,P07-C00519,2024-07-05,Primary care,Moderate complexity,3.72,703.49,3,0
+P07-E000617,P07-C00131,2025-01-21,Outpatient,High complexity,2.55,2840.81,2,0
+P07-E000618,P07-C00327,2025-04-05,Outpatient,Low complexity,3.22,393.82,4,0
+P07-E000619,P07-C00213,2025-08-09,Inpatient,High complexity,0.88,2084.99,1,0
+P07-E000620,P07-C00288,2024-03-01,Emergency,Moderate complexity,0.93,6337.7,3,1
+P07-E000621,P07-C00374,2025-09-24,Emergency,Moderate complexity,4.2,429.44,3,0
+P07-E000622,P07-C00269,2025-09-12,Inpatient,High complexity,3.05,525.31,2,0
+P07-E000623,P07-C00298,2025-04-09,Emergency,Moderate complexity,,399.54,2,0
+P07-E000624,P07-C00260,2025-07-24,Emergency,High complexity,1.61,1114.01,7,1
+P07-E000625,P07-C00366,2024-07-14,Specialty,Moderate complexity,1.22,661.79,6,0
+P07-E000626,P07-C00466,2025-02-21,Inpatient,High complexity,0.0,1615.12,4,0
+P07-E000627,P07-C00108,2024-11-28,Primary care,Low complexity,4.57,750.65,3,0
+P07-E000628,P07-C00513,2025-07-12,Outpatient,Low complexity,0.0,979.64,1,0
+P07-E000629,P07-C00408,2024-10-04,Emergency,Moderate complexity,2.82,188.57,4,0
+P07-E000630,P07-C00504,2024-06-29,Primary care,Low complexity,6.59,901.27,5,0
+P07-E000631,P07-C00301,2025-09-06,Outpatient,Moderate complexity,4.55,1768.98,2,0
+P07-E000632,P07-C00460,2024-09-13,Specialty,Low complexity,2.52,729.18,3,1
+P07-E000633,P07-C00174,2024-11-10,Primary care,Moderate complexity,2.58,818.62,6,0
+P07-E000634,P07-C00205,2025-07-29,Inpatient,Low complexity,1.03,1065.5,1,0
+P07-E000635,P07-C00346,2025-02-05,Specialty,Moderate complexity,4.31,821.11,2,0
+P07-E000636,P07-C00508,2025-08-12,Primary care,Low complexity,1.11,587.23,3,0
+P07-E000637,P07-C00281,2024-07-13,Inpatient,Low complexity,2.78,1987.26,4,0
+P07-E000638,P07-C00406,2024-04-01,Inpatient,Low complexity,3.81,309.59,3,0
+P07-E000639,P07-C00018,2025-08-21,Emergency,Low complexity,2.22,675.76,2,0
+P07-E000640,P07-C00194,2025-10-08,Inpatient,High complexity,4.4,1288.92,7,0
+P07-E000641,P07-C00051,2025-07-01,Outpatient,Moderate complexity,1.45,287.28,3,0
+P07-E000642,P07-C00310,2024-02-26,Primary care,Low complexity,2.52,684.84,4,0
+P07-E000643,P07-C00330,2025-02-11,Primary care,High complexity,4.76,553.64,7,0
+P07-E000644,P07-C00410,2024-08-27,Specialty,Moderate complexity,4.67,1177.44,2,0
+P07-E000645,P07-C00180,2024-02-16,Inpatient,Moderate complexity,3.92,1453.77,4,1
+P07-E000646,P07-C00269,2024-07-23,Primary care,Low complexity,2.48,153.28,2,0
+P07-E000647,P07-C00334,2025-07-25,Emergency,Moderate complexity,5.91,965.34,3,0
+P07-E000648,P07-C00104,2024-09-11,Emergency,Moderate complexity,5.28,746.27,5,0
+P07-E000649,P07-C00438,2024-09-26,Emergency,Moderate complexity,5.04,1173.47,4,1
+P07-E000650,P07-C00246,2024-09-06,Outpatient,Moderate complexity,5.74,415.48,4,0
+P07-E000651,P07-C00489,2025-08-29,Emergency,High complexity,2.98,1626.84,2,0
+P07-E000652,P07-C00380,2024-02-08,Inpatient,Low complexity,4.31,604.75,4,0
+P07-E000653,P07-C00110,2024-07-21,Primary care,Low complexity,3.53,2299.33,3,0
+P07-E000654,P07-C00513,2024-04-26,Emergency,High complexity,4.04,647.36,6,1
+P07-E000655,P07-C00419,2024-10-26,Emergency,Low complexity,3.12,1184.5,1,0
+P07-E000656,P07-C00130,2025-09-21,Primary care,Low complexity,2.65,1116.41,6,0
+P07-E000657,P07-C00374,2025-09-05,Primary care,High complexity,0.32,526.79,5,0
+P07-E000658,P07-C00287,2024-11-04,Emergency,Moderate complexity,5.47,402.97,2,0
+P07-E000659,P07-C00497,2025-01-27,Emergency,High complexity,3.95,829.56,4,0
+P07-E000660,P07-C00347,2024-07-23,Emergency,Low complexity,1.29,1447.54,4,1
+P07-E000661,P07-C00067,2025-07-10,Primary care,Moderate complexity,3.32,547.82,1,0
+P07-E000662,P07-C00319,2024-07-19,Outpatient,High complexity,3.81,178.48,2,0
+P07-E000663,P07-C00186,2024-05-25,Outpatient,Low complexity,0.76,1425.86,3,0
+P07-E000664,P07-C00250,2025-04-28,Inpatient,Low complexity,1.84,2131.65,3,0
+P07-E000665,P07-C00235,2024-05-26,Inpatient,Moderate complexity,3.78,710.87,4,0
+P07-E000666,P07-C00361,2025-09-16,Emergency,Low complexity,5.36,1186.79,3,1
+P07-E000667,P07-C00226,2024-05-25,Primary care,High complexity,4.05,2052.04,4,0
+P07-E000668,P07-C00369,2025-07-27,Primary care,Low complexity,,356.26,2,0
+P07-E000669,P07-C00403,2024-05-22,Primary care,High complexity,9.07,2256.16,2,0
+P07-E000670,P07-C00114,2025-07-14,Emergency,Moderate complexity,2.37,1007.17,3,0
+P07-E000671,P07-C00500,2025-07-28,Specialty,High complexity,6.03,1072.21,1,0
+P07-E000672,P07-C00341,2025-07-05,Emergency,High complexity,1.25,696.64,2,0
+P07-E000673,P07-C00056,2025-06-01,Inpatient,Low complexity,4.19,2309.79,3,0
+P07-E000674,P07-C00454,2025-03-12,Primary care,Moderate complexity,4.69,1296.85,7,0
+P07-E000675,P07-C00313,2025-10-05,Outpatient,High complexity,3.29,2714.62,3,0
+P07-E000676,P07-C00271,2024-02-17,Primary care,High complexity,1.2,770.79,3,0
+P07-E000677,P07-C00454,2024-07-04,Specialty,High complexity,2.45,2377.99,6,0
+P07-E000678,P07-C00240,2025-11-21,Emergency,Moderate complexity,3.36,1407.46,3,1
+P07-E000679,P07-C00060,2024-12-14,Primary care,High complexity,5.24,919.12,2,0
+P07-E000680,P07-C00228,2024-05-24,Emergency,High complexity,0.0,680.27,4,0
+P07-E000681,P07-C00203,2025-05-25,Emergency,Moderate complexity,4.17,427.34,2,0
+P07-E000682,P07-C00441,2025-07-29,Emergency,Moderate complexity,4.18,1191.65,3,0
+P07-E000683,P07-C00291,2024-09-03,Specialty,Low complexity,0.17,1659.86,4,0
+P07-E000684,P07-C00161,2024-02-08,Specialty,Moderate complexity,1.23,961.9,3,0
+P07-E000685,P07-C00030,2025-12-02,Specialty,Low complexity,4.64,3153.79,6,0
+P07-E000686,P07-C00493,2025-04-28,Primary care,High complexity,3.34,816.99,3,0
+P07-E000687,P07-C00104,2024-07-26,Inpatient,Moderate complexity,0.0,888.9,2,0
+P07-E000688,P07-C00048,2025-07-29,Primary care,Moderate complexity,2.12,1786.33,3,0
+P07-E000689,P07-C00251,2024-12-20,Inpatient,High complexity,4.71,346.34,1,0
+P07-E000690,P07-C00240,2024-07-12,Specialty,Low complexity,6.88,1806.33,4,1
+P07-E000691,P07-C00077,2025-02-23,Primary care,High complexity,5.3,2016.89,1,0
+P07-E000692,P07-C00083,2025-04-20,Primary care,High complexity,0.9,1209.04,5,0
+P07-E000693,P07-C00304,2025-10-09,Specialty,High complexity,5.34,3824.23,1,0
+P07-E000694,P07-C00365,2025-10-07,Primary care,Moderate complexity,6.99,3019.99,4,0
+P07-E000695,P07-C00497,2025-04-10,Outpatient,High complexity,6.21,1161.7,2,0
+P07-E000696,P07-C00368,2025-09-06,Primary care,High complexity,1.74,731.73,1,0
+P07-E000697,P07-C00518,2025-02-19,Inpatient,High complexity,3.2,1723.68,3,0
+P07-E000698,P07-C00222,2025-11-19,Outpatient,High complexity,2.0,235.74,2,0
+P07-E000699,P07-C00510,2024-11-22,Primary care,Low complexity,1.86,880.97,3,0
+P07-E000700,P07-C00218,2025-11-12,Outpatient,Low complexity,4.27,742.4,3,0
+P07-E000701,P07-C00138,2025-10-29,Specialty,High complexity,2.96,3658.3,6,1
+P07-E000702,P07-C00081,2024-03-06,Inpatient,Low complexity,0.57,1148.47,2,0
+P07-E000703,P07-C00127,2025-03-08,Primary care,Low complexity,6.39,1067.32,4,0
+P07-E000704,P07-C00410,2024-09-02,Inpatient,High complexity,3.75,962.87,2,0
+P07-E000705,P07-C00162,2024-02-25,Specialty,Low complexity,4.55,579.94,2,0
+P07-E000706,P07-C00177,2025-07-19,Primary care,High complexity,2.8,737.48,4,0
+P07-E000707,P07-C00012,2024-01-10,Emergency,Low complexity,2.38,318.7,1,0
+P07-E000708,P07-C00090,2024-10-04,Inpatient,High complexity,1.69,274.57,1,0
+P07-E000709,P07-C00129,2024-04-01,Emergency,Low complexity,3.49,602.19,3,0
+P07-E000710,P07-C00090,2024-08-04,Specialty,Low complexity,7.73,492.89,4,1
+P07-E000711,P07-C00505,2025-03-05,Outpatient,Moderate complexity,2.91,358.44,2,1
+P07-E000712,P07-C00344,2024-03-19,Primary care,Moderate complexity,1.92,1554.16,2,0
+P07-E000713,P07-C00465,2024-02-22,Specialty,Low complexity,5.55,1910.95,4,0
+P07-E000714,P07-C00252,2024-06-16,Outpatient,High complexity,1.82,1485.4,4,0
+P07-E000715,P07-C00183,2025-03-04,Outpatient,High complexity,0.0,484.12,2,0
+P07-E000716,P07-C00413,2024-09-17,Inpatient,Moderate complexity,3.95,1592.67,6,0
+P07-E000717,P07-C00033,2024-10-08,Outpatient,Low complexity,6.18,1452.94,3,1
+P07-E000718,P07-C00328,2024-09-05,Outpatient,High complexity,4.19,946.3,2,0
+P07-E000719,P07-C00209,2024-06-25,Inpatient,Moderate complexity,0.0,2151.6,3,0
+P07-E000720,P07-C00063,2025-11-25,Specialty,High complexity,3.05,2020.31,2,0
+P07-E000721,P07-C00259,2024-03-04,Outpatient,Low complexity,1.45,577.18,4,0
+P07-E000722,P07-C00418,2024-11-24,Outpatient,Moderate complexity,4.32,674.3,2,0
+P07-E000723,P07-C00382,2024-04-20,Outpatient,Moderate complexity,3.63,1899.1,4,0
+P07-E000724,P07-C00471,2025-01-15,Inpatient,High complexity,6.54,376.69,2,0
+P07-E000725,P07-C00068,2024-11-04,Outpatient,Moderate complexity,4.59,310.8,4,0
+P07-E000726,P07-C00378,2024-01-08,Primary care,Low complexity,1.68,164.28,2,0
+P07-E000727,P07-C00038,2025-11-26,Primary care,Moderate complexity,3.31,898.24,2,0
+P07-E000728,P07-C00387,2024-10-11,Specialty,Low complexity,4.52,770.3,4,0
+P07-E000729,P07-C00472,2024-12-21,Outpatient,Moderate complexity,3.86,801.93,3,0
+P07-E000730,P07-C00206,2024-03-07,Outpatient,High complexity,1.88,1377.69,2,1
+P07-E000731,P07-C00394,2025-06-03,Specialty,Low complexity,2.27,2938.34,3,0
+P07-E000732,P07-C00481,2025-04-30,Inpatient,Moderate complexity,3.78,1235.4,1,1
+P07-E000733,P07-C00166,2025-09-26,Specialty,High complexity,0.82,1047.81,5,1
+P07-E000734,P07-C00390,2024-04-15,Primary care,High complexity,1.67,747.37,2,0
+P07-E000735,P07-C00002,2024-04-09,Specialty,Moderate complexity,0.93,1956.28,3,0
+P07-E000736,P07-C00177,2025-06-30,Emergency,High complexity,7.53,1950.36,3,1
+P07-E000737,P07-C00383,2024-08-05,Specialty,High complexity,0.0,561.3,5,0
+P07-E000738,P07-C00142,2024-02-25,Primary care,Low complexity,3.23,231.08,1,0
+P07-E000739,P07-C00238,2024-05-14,Inpatient,Low complexity,0.67,635.04,3,1
+P07-E000740,P07-C00201,2025-12-07,Emergency,High complexity,1.7,1449.36,4,1
+P07-E000741,P07-C00210,2024-09-21,Emergency,High complexity,4.05,2468.44,3,0
+P07-E000742,P07-C00030,2024-01-13,Emergency,Low complexity,4.47,889.91,4,0
+P07-E000743,P07-C00432,2024-04-12,Outpatient,Low complexity,3.57,1055.69,3,0
+P07-E000744,P07-C00041,2025-10-29,Specialty,Moderate complexity,3.44,818.76,5,0
+P07-E000745,P07-C00276,2025-04-19,Outpatient,Low complexity,0.95,1472.45,5,0
+P07-E000746,P07-C00439,2025-09-03,Emergency,Low complexity,4.26,1067.77,3,0
+P07-E000747,P07-C00347,2025-03-02,Specialty,High complexity,0.98,614.17,4,0
+P07-E000748,P07-C00384,2025-03-21,Outpatient,Moderate complexity,5.63,1410.11,2,0
+P07-E000749,P07-C00161,2025-11-23,Inpatient,High complexity,5.27,743.9,4,0
+P07-E000750,P07-C00321,2025-11-28,Emergency,Moderate complexity,1.01,480.17,4,1
+P07-E000751,P07-C00173,2025-05-20,Inpatient,High complexity,0.88,696.05,2,0
+P07-E000752,P07-C00192,2024-12-04,Outpatient,Moderate complexity,3.83,1652.61,1,0
+P07-E000753,P07-C00204,2024-09-17,Inpatient,Low complexity,1.36,1367.83,4,0
+P07-E000754,P07-C00090,2024-06-18,Specialty,Low complexity,4.47,674.51,1,1
+P07-E000755,P07-C00020,2025-06-11,Inpatient,Low complexity,5.91,294.89,4,0
+P07-E000756,P07-C00139,2025-07-25,Outpatient,Moderate complexity,2.97,3370.83,3,1
+P07-E000757,P07-C00211,2025-01-21,Primary care,High complexity,2.15,1983.36,4,0
+P07-E000758,P07-C00256,2025-08-14,Outpatient,Moderate complexity,5.4,606.49,5,0
+P07-E000759,P07-C00311,2025-06-15,Specialty,Moderate complexity,3.88,533.19,5,0
+P07-E000760,P07-C00442,2024-01-15,Outpatient,Low complexity,0.56,399.53,5,0
+P07-E000761,P07-C00457,2024-03-07,Emergency,High complexity,2.0,674.04,2,1
+P07-E000762,P07-C00441,2025-04-04,Primary care,Low complexity,3.03,820.85,5,0
+P07-E000763,P07-C00427,2025-06-12,Specialty,High complexity,4.6,2203.36,3,0
+P07-E000764,P07-C00513,2025-02-13,Inpatient,Low complexity,5.09,1240.07,3,0
+P07-E000765,P07-C00474,2024-09-24,Inpatient,High complexity,4.16,1543.97,5,0
+P07-E000766,P07-C00230,2024-08-14,Specialty,Moderate complexity,2.02,608.31,6,0
+P07-E000767,P07-C00093,2024-12-01,Inpatient,Low complexity,2.36,4168.22,2,0
+P07-E000768,P07-C00232,2024-04-21,Emergency,High complexity,0.0,1764.83,2,0
+P07-E000769,P07-C00060,2025-09-26,Inpatient,High complexity,4.77,2026.65,3,0
+P07-E000770,P07-C00402,2025-09-10,Emergency,High complexity,2.41,2264.85,2,0
+P07-E000771,P07-C00382,2025-10-16,Primary care,High complexity,3.62,490.88,2,0
+P07-E000772,P07-C00288,2025-04-23,Inpatient,High complexity,2.36,1623.63,4,1
+P07-E000773,P07-C00201,2024-02-07,Primary care,Low complexity,6.24,1838.18,2,1
+P07-E000774,P07-C00420,2025-01-21,Primary care,Moderate complexity,0.36,2275.41,6,0
+P07-E000775,P07-C00009,2025-04-17,Outpatient,High complexity,2.38,1440.85,4,0
+P07-E000776,P07-C00454,2024-08-08,Primary care,Low complexity,2.68,1451.67,3,0
+P07-E000777,P07-C00514,2025-08-31,Primary care,High complexity,2.3,795.39,2,0
+P07-E000778,P07-C00508,2024-12-16,Outpatient,Low complexity,6.17,257.14,1,1
+P07-E000779,P07-C00002,2025-05-06,Inpatient,Moderate complexity,3.3,1784.95,1,0
+P07-E000780,P07-C00071,2025-10-24,Specialty,Moderate complexity,1.56,729.98,5,0
+P07-E000781,P07-C00121,2025-12-02,Inpatient,Low complexity,5.93,485.59,4,0
+P07-E000782,P07-C00152,2025-07-05,Primary care,Low complexity,2.25,293.37,3,1
+P07-E000783,P07-C00278,2025-05-18,Inpatient,High complexity,5.26,1459.63,3,0
+P07-E000784,P07-C00179,2024-01-05,Primary care,Moderate complexity,4.95,2538.88,4,0
+P07-E000785,P07-C00119,2024-11-28,Inpatient,Moderate complexity,4.53,850.48,2,1
+P07-E000786,P07-C00492,2025-06-10,Specialty,Low complexity,2.98,2803.91,1,0
+P07-E000787,P07-C00487,2024-09-20,Primary care,Low complexity,7.84,1146.25,6,0
+P07-E000788,P07-C00092,2025-08-17,Inpatient,Moderate complexity,5.11,408.67,4,0
+P07-E000789,P07-C00147,2024-07-11,Specialty,Moderate complexity,3.98,1807.46,6,1
+P07-E000790,P07-C00247,2024-03-29,Inpatient,Moderate complexity,6.17,786.84,2,0
+P07-E000791,P07-C00168,2024-01-03,Emergency,High complexity,4.35,1921.06,3,0
+P07-E000792,P07-C00307,2025-09-21,Specialty,Low complexity,1.24,704.6,5,0
+P07-E000793,P07-C00194,2025-01-19,Emergency,Moderate complexity,0.95,1355.43,3,0
+P07-E000794,P07-C00250,2024-11-23,Primary care,High complexity,4.36,854.03,4,0
+P07-E000795,P07-C00174,2025-04-17,Outpatient,Moderate complexity,0.91,843.61,2,0
+P07-E000796,P07-C00459,2025-12-03,Inpatient,Moderate complexity,4.65,1089.53,3,0
+P07-E000797,P07-C00074,2024-12-07,Primary care,Low complexity,2.62,1691.97,4,0
+P07-E000798,P07-C00452,2024-09-14,Inpatient,Low complexity,5.01,770.71,3,0
+P07-E000799,P07-C00423,2025-09-09,Emergency,High complexity,3.06,3988.1,3,0
+P07-E000800,P07-C00409,2024-04-28,Emergency,Moderate complexity,2.09,935.64,3,0
+P07-E000801,P07-C00148,2024-08-23,Primary care,Low complexity,1.69,5358.27,3,0
+P07-E000802,P07-C00340,2025-04-11,Primary care,Moderate complexity,0.0,1138.41,5,0
+P07-E000803,P07-C00108,2025-11-21,Inpatient,Low complexity,4.08,389.12,1,0
+P07-E000804,P07-C00378,2024-11-12,Emergency,High complexity,3.01,981.56,2,1
+P07-E000805,P07-C00217,2024-09-11,Outpatient,High complexity,0.62,1350.58,3,0
+P07-E000806,P07-C00153,2024-11-27,Primary care,High complexity,1.75,602.85,3,0
+P07-E000807,P07-C00182,2024-05-30,Specialty,High complexity,3.04,1535.77,5,0
+P07-E000808,P07-C00237,2024-02-28,Specialty,Low complexity,1.61,315.46,3,0
+P07-E000809,P07-C00044,2024-07-17,Emergency,High complexity,1.25,2182.92,2,0
+P07-E000810,P07-C00153,2025-02-07,Specialty,High complexity,6.04,1463.4,3,0
+P07-E000811,P07-C00113,2025-02-21,Outpatient,High complexity,3.93,904.03,1,0
+P07-E000812,P07-C00085,2024-10-14,Inpatient,Low complexity,0.0,1520.1,7,0
+P07-E000813,P07-C00083,2024-07-04,Emergency,Low complexity,6.65,914.99,2,1
+P07-E000814,P07-C00516,2024-06-26,Emergency,Moderate complexity,3.59,1134.0,7,1
+P07-E000815,P07-C00342,2025-02-20,Inpatient,Low complexity,,1261.02,3,0
+P07-E000816,P07-C00359,2024-02-15,Specialty,Low complexity,0.39,1677.29,4,0
+P07-E000817,P07-C00041,2024-04-17,Outpatient,Moderate complexity,1.5,1064.58,4,0
+P07-E000818,P07-C00201,2024-07-14,Primary care,High complexity,4.03,4263.38,3,0
+P07-E000819,P07-C00397,2025-09-29,Inpatient,Low complexity,1.82,401.6,1,0
+P07-E000820,P07-C00235,2024-06-04,Outpatient,Moderate complexity,3.09,1110.34,2,0
+P07-E000821,P07-C00442,2024-10-17,Specialty,High complexity,2.0,4061.54,1,0
+P07-E000822,P07-C00089,2024-01-27,Specialty,Low complexity,6.09,1752.23,6,0
+P07-E000823,P07-C00365,2024-02-25,Specialty,Moderate complexity,1.87,1664.9,2,0
+P07-E000824,P07-C00031,2025-09-26,Specialty,Low complexity,6.8,556.95,2,1
+P07-E000825,P07-C00084,2024-06-25,Primary care,Moderate complexity,1.75,523.38,4,0
+P07-E000826,P07-C00243,2025-02-15,Inpatient,Moderate complexity,0.37,553.88,3,0
+P07-E000827,P07-C00389,2025-01-01,Specialty,Moderate complexity,3.68,1269.17,3,1
+P07-E000828,P07-C00205,2025-07-18,Inpatient,Moderate complexity,1.07,414.26,4,0
+P07-E000829,P07-C00244,2025-10-26,Outpatient,Moderate complexity,0.8,1505.68,2,0
+P07-E000830,P07-C00491,2025-03-17,Specialty,High complexity,2.09,845.64,2,1
+P07-E000831,P07-C00025,2024-11-15,Primary care,Moderate complexity,4.64,703.66,6,1
+P07-E000832,P07-C00043,2025-08-25,Primary care,Moderate complexity,3.61,468.35,2,0
+P07-E000833,P07-C00505,2025-09-26,Emergency,High complexity,1.71,1885.01,3,0
+P07-E000834,P07-C00195,2025-05-11,Specialty,Moderate complexity,5.51,1062.02,3,0
+P07-E000835,P07-C00315,2025-11-19,Inpatient,Moderate complexity,2.69,2267.29,6,0
+P07-E000836,P07-C00401,2025-11-07,Inpatient,Moderate complexity,1.55,3116.47,4,1
+P07-E000837,P07-C00303,2024-12-10,Emergency,Low complexity,3.76,795.18,3,0
+P07-E000838,P07-C00293,2024-11-10,Emergency,High complexity,2.11,688.53,5,0
+P07-E000839,P07-C00025,2024-08-19,Inpatient,High complexity,8.45,1646.21,4,0
+P07-E000840,P07-C00148,2025-03-29,Emergency,Low complexity,1.23,3559.63,4,1
+P07-E000841,P07-C00320,2024-05-27,Specialty,Low complexity,3.16,1781.35,5,0
+P07-E000842,P07-C00158,2024-09-03,Specialty,High complexity,2.16,342.94,4,0
+P07-E000843,P07-C00309,2024-08-06,Specialty,Low complexity,5.53,1228.12,2,0
+P07-E000844,P07-C00171,2025-11-27,Specialty,Low complexity,1.1,1303.17,8,1
+P07-E000845,P07-C00441,2024-03-28,Outpatient,Low complexity,5.45,1464.05,3,0
+P07-E000846,P07-C00090,2025-10-05,Specialty,Low complexity,1.57,6266.92,3,0
+P07-E000847,P07-C00044,2025-01-20,Outpatient,Low complexity,0.0,730.77,2,0
+P07-E000848,P07-C00440,2024-11-10,Primary care,High complexity,6.99,656.67,2,0
+P07-E000849,P07-C00433,2025-08-24,Specialty,High complexity,4.21,2387.75,4,0
+P07-E000850,P07-C00176,2025-08-12,Primary care,Moderate complexity,0.16,546.96,3,0
+P07-E000851,P07-C00415,2024-12-30,Specialty,Low complexity,1.69,1368.87,4,1
+P07-E000852,P07-C00279,2024-08-30,Inpatient,High complexity,3.54,588.88,3,0
+P07-E000853,P07-C00079,2025-04-23,Emergency,Low complexity,6.66,822.04,3,1
+P07-E000854,P07-C00254,2025-09-30,Primary care,Moderate complexity,5.12,2056.25,3,0
+P07-E000855,P07-C00407,2025-02-07,Outpatient,High complexity,6.27,1219.0,4,0
+P07-E000856,P07-C00415,2024-06-06,Inpatient,Moderate complexity,1.19,719.65,4,1
+P07-E000857,P07-C00167,2025-05-14,Emergency,Moderate complexity,3.78,2341.04,1,0
+P07-E000858,P07-C00399,2024-02-22,Specialty,Moderate complexity,1.79,1230.49,5,0
+P07-E000859,P07-C00066,2025-04-20,Primary care,Moderate complexity,3.44,416.94,1,0
+P07-E000860,P07-C00300,2025-08-10,Inpatient,Low complexity,4.6,242.46,1,0
+P07-E000861,P07-C00270,2025-12-25,Emergency,Moderate complexity,4.27,482.17,6,0
+P07-E000862,P07-C00197,2024-03-26,Outpatient,Moderate complexity,3.74,5506.17,3,1
+P07-E000863,P07-C00293,2024-04-06,Emergency,Moderate complexity,5.71,1347.32,4,0
+P07-E000864,P07-C00021,2024-12-08,Emergency,Low complexity,2.2,945.02,1,0
+P07-E000865,P07-C00161,2024-07-05,Outpatient,Moderate complexity,2.58,1866.37,2,0
+P07-E000866,P07-C00024,2024-01-29,Specialty,High complexity,2.56,347.64,4,0
+P07-E000867,P07-C00187,2024-07-25,Primary care,Moderate complexity,4.87,486.86,2,0
+P07-E000868,P07-C00073,2025-07-15,Outpatient,Moderate complexity,5.32,1579.48,5,0
+P07-E000869,P07-C00215,2025-01-04,Outpatient,High complexity,2.76,2183.75,5,1
+P07-E000870,P07-C00182,2024-02-09,Emergency,Low complexity,0.08,939.81,3,1
+P07-E000871,P07-C00426,2024-01-12,Primary care,Low complexity,1.41,852.08,2,0
+P07-E000872,P07-C00507,2025-08-11,Inpatient,Moderate complexity,0.0,3099.35,2,0
+P07-E000873,P07-C00075,2024-08-26,Emergency,Low complexity,4.54,459.44,1,0
+P07-E000874,P07-C00387,2025-07-12,Primary care,Low complexity,1.03,538.83,5,0
+P07-E000875,P07-C00434,2025-01-31,Outpatient,Moderate complexity,2.38,2937.44,2,1
+P07-E000876,P07-C00023,2025-10-24,Specialty,High complexity,0.48,1201.69,5,1
+P07-E000877,P07-C00058,2025-01-27,Primary care,High complexity,1.11,2606.51,3,0
+P07-E000878,P07-C00393,2025-07-13,Inpatient,Low complexity,4.99,712.76,1,0
+P07-E000879,P07-C00081,2025-02-02,Outpatient,Moderate complexity,2.0,2264.32,1,0
+P07-E000880,P07-C00204,2025-06-05,Outpatient,High complexity,1.57,783.27,5,1
+P07-E000881,P07-C00077,2024-09-03,Outpatient,Moderate complexity,2.27,801.18,6,0
+P07-E000882,P07-C00294,2025-05-11,Inpatient,Moderate complexity,4.22,566.27,2,0
+P07-E000883,P07-C00336,2024-01-30,Inpatient,High complexity,4.22,1215.73,3,1
+P07-E000884,P07-C00408,2025-10-14,Specialty,High complexity,5.5,1813.06,6,0
+P07-E000885,P07-C00009,2025-07-15,Inpatient,High complexity,5.97,3105.34,2,0
+P07-E000886,P07-C00360,2025-10-17,Primary care,Moderate complexity,2.81,693.94,3,0
+P07-E000887,P07-C00136,2025-06-06,Outpatient,Moderate complexity,2.13,723.66,1,0
+P07-E000888,P07-C00173,2024-08-04,Primary care,Moderate complexity,4.79,1710.12,3,0
+P07-E000889,P07-C00495,2025-05-28,Specialty,Moderate complexity,1.81,1436.66,5,0
+P07-E000890,P07-C00513,2025-05-20,Emergency,Low complexity,5.07,966.58,5,1
+P07-E000891,P07-C00433,2025-02-20,Specialty,Moderate complexity,3.07,297.29,3,1
+P07-E000892,P07-C00499,2025-07-14,Outpatient,High complexity,4.45,1500.53,4,0
+P07-E000893,P07-C00263,2025-08-15,Emergency,Low complexity,2.77,4807.25,3,0
+P07-E000894,P07-C00454,2025-11-04,Primary care,High complexity,3.93,2261.56,3,0
+P07-E000895,P07-C00071,2025-11-02,Primary care,Low complexity,5.36,310.5,2,0
+P07-E000896,P07-C00056,2025-05-24,Primary care,High complexity,1.62,974.43,1,0
+P07-E000897,P07-C00187,2024-06-05,Inpatient,Low complexity,1.81,209.73,2,0
+P07-E000898,P07-C00346,2025-04-21,Emergency,High complexity,3.58,1464.73,6,1
+P07-E000899,P07-C00488,2024-12-04,Emergency,Low complexity,2.63,537.74,4,0
+P07-E000900,P07-C00097,2025-11-09,Inpatient,High complexity,0.61,1014.01,3,0
+P07-E000901,P07-C00104,2024-12-31,Inpatient,Low complexity,3.14,1039.57,3,0
+P07-E000902,P07-C00067,2024-05-17,Primary care,High complexity,0.01,516.45,2,0
+P07-E000903,P07-C00141,2025-02-19,Primary care,Moderate complexity,0.0,1117.78,1,0
+P07-E000904,P07-C00456,2025-03-04,Emergency,Moderate complexity,1.46,1134.1,6,0
+P07-E000905,P07-C00073,2025-04-11,Primary care,Low complexity,4.03,920.53,1,0
+P07-E000906,P07-C00222,2024-09-24,Primary care,Low complexity,2.28,696.68,2,0
+P07-E000907,P07-C00508,2025-07-16,Specialty,Low complexity,2.89,1285.5,1,0
+P07-E000908,P07-C00093,2024-05-13,Inpatient,Low complexity,3.55,324.37,2,0
+P07-E000909,P07-C00452,2024-03-27,Emergency,Moderate complexity,3.4,692.66,1,0
+P07-E000910,P07-C00480,2025-12-18,Specialty,High complexity,2.12,277.46,4,1
+P07-E000911,P07-C00420,2025-02-17,Outpatient,Moderate complexity,2.07,718.31,6,0
+P07-E000912,P07-C00055,2024-11-15,Emergency,Low complexity,1.56,1154.57,1,0
+P07-E000913,P07-C00314,2024-04-28,Primary care,High complexity,0.04,548.23,4,0
+P07-E000914,P07-C00361,2024-11-27,Emergency,Moderate complexity,0.0,517.11,2,0
+P07-E000915,P07-C00408,2025-12-08,Outpatient,Moderate complexity,4.81,1303.08,2,0
+P07-E000916,P07-C00170,2025-12-21,Outpatient,Low complexity,2.76,807.38,3,0
+P07-E000917,P07-C00262,2024-11-13,Emergency,High complexity,2.39,808.39,4,0
+P07-E000918,P07-C00358,2025-06-18,Outpatient,High complexity,3.07,1156.04,5,0
+P07-E000919,P07-C00199,2025-06-04,Outpatient,Low complexity,0.0,6984.8,3,1
+P07-E000920,P07-C00157,2025-12-13,Primary care,Low complexity,5.48,896.0,1,0
+P07-E000921,P07-C00142,2025-02-18,Outpatient,Low complexity,3.45,976.38,4,1
+P07-E000922,P07-C00467,2025-03-02,Outpatient,Low complexity,0.71,829.77,1,0
+P07-E000923,P07-C00054,2024-08-29,Emergency,High complexity,6.21,1503.85,8,0
+P07-E000924,P07-C00261,2025-02-05,Outpatient,Low complexity,1.67,1539.95,4,0
+P07-E000925,P07-C00439,2025-07-10,Primary care,High complexity,1.45,701.2,5,0
+P07-E000926,P07-C00239,2025-08-28,Emergency,Moderate complexity,0.0,343.63,5,1
+P07-E000927,P07-C00377,2024-12-21,Emergency,Moderate complexity,2.24,744.74,5,0
+P07-E000928,P07-C00369,2024-05-13,Specialty,High complexity,4.27,1477.9,5,1
+P07-E000929,P07-C00372,2024-07-17,Primary care,Low complexity,3.91,149.39,3,0
+P07-E000930,P07-C00094,2025-10-22,Inpatient,Moderate complexity,3.3,796.42,5,0
+P07-E000931,P07-C00171,2024-05-07,Emergency,Moderate complexity,4.29,1006.92,1,0
+P07-E000932,P07-C00426,2024-11-14,Inpatient,Moderate complexity,3.93,1110.64,4,0
+P07-E000933,P07-C00251,2025-01-16,Specialty,Moderate complexity,0.0,321.08,2,0
+P07-E000934,P07-C00423,2025-06-09,Outpatient,Moderate complexity,2.48,926.99,3,0
+P07-E000935,P07-C00098,2024-08-19,Inpatient,Low complexity,2.1,639.55,2,0
+P07-E000936,P07-C00153,2024-09-26,Primary care,High complexity,3.18,985.52,2,1
+P07-E000937,P07-C00209,2024-07-01,Inpatient,Low complexity,4.49,235.75,6,1
+P07-E000938,P07-C00019,2025-04-27,Inpatient,Moderate complexity,2.68,2015.92,2,0
+P07-E000939,P07-C00157,2024-06-10,Primary care,High complexity,5.02,1666.99,2,0
+P07-E000940,P07-C00432,2024-09-05,Inpatient,High complexity,2.58,1324.93,3,1
+P07-E000941,P07-C00235,2025-12-28,Inpatient,Moderate complexity,0.53,1255.55,4,0
+P07-E000942,P07-C00057,2025-10-15,Emergency,Moderate complexity,2.49,964.38,6,1
+P07-E000943,P07-C00028,2025-02-22,Specialty,High complexity,1.08,714.29,3,0
+P07-E000944,P07-C00175,2024-05-22,Emergency,Low complexity,4.33,998.79,5,0
+P07-E000945,P07-C00327,2024-08-12,Primary care,Moderate complexity,1.81,931.93,4,0
+P07-E000946,P07-C00503,2025-05-06,Primary care,High complexity,2.89,1577.42,3,0
+P07-E000947,P07-C00193,2025-12-03,Emergency,Moderate complexity,3.03,922.3,6,0
+P07-E000948,P07-C00470,2024-01-29,Emergency,Moderate complexity,2.73,437.89,1,0
+P07-E000949,P07-C00217,2025-10-18,Outpatient,Low complexity,0.0,266.2,2,0
+P07-E000950,P07-C00315,2024-06-26,Primary care,Moderate complexity,6.56,1214.22,5,0
+P07-E000951,P07-C00407,2025-08-13,Primary care,Low complexity,4.62,545.41,5,0
+P07-E000952,P07-C00458,2024-09-06,Emergency,Low complexity,3.13,746.91,1,0
+P07-E000953,P07-C00173,2024-05-27,Specialty,Moderate complexity,2.8,582.12,3,0
+P07-E000954,P07-C00014,2024-04-21,Outpatient,Low complexity,4.48,1994.66,6,1
+P07-E000955,P07-C00507,2025-09-12,Outpatient,High complexity,5.66,2784.4,4,0
+P07-E000956,P07-C00241,2024-08-22,Emergency,Low complexity,2.24,1068.48,2,0
+P07-E000957,P07-C00422,2025-01-26,Specialty,Moderate complexity,2.63,1153.89,1,0
+P07-E000958,P07-C00368,2024-10-11,Outpatient,Low complexity,3.99,941.67,4,0
+P07-E000959,P07-C00246,2024-03-21,Emergency,Moderate complexity,1.8,940.81,4,0
+P07-E000960,P07-C00340,2025-10-01,Specialty,Moderate complexity,2.3,2344.1,1,0
+P07-E000961,P07-C00382,2024-12-18,Outpatient,Moderate complexity,2.93,1739.68,2,0
+P07-E000962,P07-C00471,2025-06-08,Specialty,Low complexity,4.0,9560.53,6,1
+P07-E000963,P07-C00409,2025-05-15,Emergency,Moderate complexity,2.68,262.7,2,0
+P07-E000964,P07-C00334,2024-01-07,Outpatient,Moderate complexity,3.83,1078.83,4,0
+P07-E000965,P07-C00503,2025-09-27,Emergency,High complexity,3.87,512.88,3,0
+P07-E000966,P07-C00034,2025-03-09,Specialty,Low complexity,4.02,517.59,3,1
+P07-E000967,P07-C00209,2025-02-20,Specialty,Low complexity,2.15,778.84,3,1
+P07-E000968,P07-C00005,2024-11-30,Emergency,High complexity,8.4,1186.72,4,1
+P07-E000969,P07-C00484,2024-10-12,Emergency,High complexity,4.0,1172.54,4,0
+P07-E000970,P07-C00274,2024-11-21,Specialty,Low complexity,1.97,1172.32,4,1
+P07-E000971,P07-C00346,2025-09-30,Primary care,High complexity,3.1,1692.76,2,0
+P07-E000972,P07-C00056,2025-03-26,Primary care,Moderate complexity,1.87,752.63,4,0
+P07-E000973,P07-C00091,2024-07-01,Emergency,High complexity,3.06,562.54,3,0
+P07-E000974,P07-C00180,2024-03-13,Emergency,Low complexity,4.34,1062.23,4,0
+P07-E000975,P07-C00177,2025-08-28,Emergency,Low complexity,3.31,3365.26,5,0
+P07-E000976,P07-C00499,2025-11-09,Primary care,Low complexity,4.39,1247.2,4,0
+P07-E000977,P07-C00463,2025-01-18,Outpatient,Moderate complexity,1.88,624.61,3,1
+P07-E000978,P07-C00485,2025-12-14,Outpatient,High complexity,1.63,1149.63,1,0
+P07-E000979,P07-C00066,2025-06-23,Inpatient,Moderate complexity,3.82,504.35,3,0
+P07-E000980,P07-C00422,2025-02-19,Inpatient,Low complexity,2.66,706.02,5,0
+P07-E000981,P07-C00497,2024-02-17,Specialty,Low complexity,2.18,679.72,4,1
+P07-E000982,P07-C00388,2024-09-17,Inpatient,Low complexity,1.67,1796.23,3,0
+P07-E000983,P07-C00464,2024-09-11,Inpatient,High complexity,3.62,3833.52,3,0
+P07-E000984,P07-C00473,2025-08-16,Outpatient,Moderate complexity,5.1,931.52,5,0
+P07-E000985,P07-C00162,2024-12-24,Primary care,Low complexity,4.75,543.67,1,0
+P07-E000986,P07-C00427,2024-01-07,Primary care,High complexity,5.05,847.84,3,0
+P07-E000987,P07-C00505,2025-12-19,Outpatient,Low complexity,0.0,1841.59,5,0
+P07-E000988,P07-C00318,2024-04-17,Emergency,Moderate complexity,4.03,3080.44,4,0
+P07-E000989,P07-C00036,2024-03-09,Inpatient,Moderate complexity,0.95,1071.27,5,0
+P07-E000990,P07-C00453,2025-04-06,Inpatient,Moderate complexity,2.43,842.11,4,0
+P07-E000991,P07-C00187,2025-09-22,Primary care,Moderate complexity,3.6,394.51,1,0
+P07-E000992,P07-C00195,2024-03-24,Specialty,Low complexity,1.78,1248.05,6,1
+P07-E000993,P07-C00095,2024-11-05,Specialty,Moderate complexity,0.0,2879.52,5,0
+P07-E000994,P07-C00475,2024-03-26,Specialty,Low complexity,4.75,374.14,3,0
+P07-E000995,P07-C00148,2025-11-09,Inpatient,Low complexity,0.57,471.53,3,1
+P07-E000996,P07-C00114,2025-08-30,Inpatient,High complexity,5.13,585.25,4,0
+P07-E000997,P07-C00426,2025-11-26,Primary care,High complexity,4.98,547.23,3,0
+P07-E000998,P07-C00030,2024-04-23,Emergency,High complexity,5.13,3321.08,3,1
+P07-E000999,P07-C00473,2025-11-02,Specialty,Moderate complexity,5.76,634.5,4,1
+P07-E001000,P07-C00178,2024-07-20,Specialty,High complexity,2.3,822.11,2,0
+P07-E001001,P07-C00419,2024-09-05,Specialty,Low complexity,0.0,455.67,4,0
+P07-E001002,P07-C00393,2024-06-19,Inpatient,Moderate complexity,0.63,1497.85,3,0
+P07-E001003,P07-C00173,2025-12-26,Specialty,High complexity,3.46,774.99,5,0
+P07-E001004,P07-C00015,2025-07-04,Outpatient,Moderate complexity,8.53,393.71,5,0
+P07-E001005,P07-C00439,2025-02-23,Specialty,Low complexity,4.46,997.74,4,1
+P07-E001006,P07-C00512,2025-12-13,Primary care,High complexity,0.95,201.79,2,0
+P07-E001007,P07-C00146,2024-01-02,Inpatient,Moderate complexity,4.34,679.0,4,0
+P07-E001008,P07-C00292,2024-01-13,Primary care,High complexity,2.41,4737.94,6,1
+P07-E001009,P07-C00089,2025-04-05,Primary care,Moderate complexity,1.61,901.55,2,1
+P07-E001010,P07-C00187,2024-12-29,Primary care,Low complexity,6.56,1101.11,5,0
+P07-E001011,P07-C00287,2025-01-15,Outpatient,Low complexity,2.97,1766.09,2,0
+P07-E001012,P07-C00079,2025-06-30,Outpatient,High complexity,3.76,930.62,6,0
+P07-E001013,P07-C00315,2024-04-09,Emergency,High complexity,6.48,1157.71,5,0
+P07-E001014,P07-C00350,2025-01-27,Outpatient,High complexity,3.44,1665.2,5,0
+P07-E001015,P07-C00129,2025-05-04,Primary care,Low complexity,2.26,843.55,2,0
+P07-E001016,P07-C00036,2025-06-10,Inpatient,High complexity,5.56,1170.86,8,1
+P07-E001017,P07-C00284,2025-10-03,Specialty,High complexity,1.97,3499.7,8,1
+P07-E001018,P07-C00192,2024-02-16,Inpatient,Low complexity,2.6,442.17,1,0
+P07-E001019,P07-C00179,2025-07-30,Inpatient,Moderate complexity,0.7,985.62,2,0
+P07-E001020,P07-C00263,2024-09-14,Specialty,Low complexity,1.82,303.45,4,0
+P07-E001021,P07-C00243,2024-09-14,Inpatient,Moderate complexity,1.69,2587.8,2,0
+P07-E001022,P07-C00379,2025-01-05,Primary care,Low complexity,3.95,341.85,4,0
+P07-E001023,P07-C00110,2025-04-09,Primary care,Low complexity,4.5,1573.61,4,0
+P07-E001024,P07-C00211,2025-06-12,Inpatient,Low complexity,1.75,912.28,4,0
+P07-E001025,P07-C00078,2024-07-17,Emergency,Low complexity,2.11,755.24,1,0
+P07-E001026,P07-C00337,2025-02-02,Primary care,High complexity,0.71,1810.73,3,0
+P07-E001027,P07-C00269,2024-09-13,Emergency,Low complexity,5.68,1425.59,3,0
+P07-E001028,P07-C00154,2025-04-04,Outpatient,Moderate complexity,6.3,774.01,4,1
+P07-E001029,P07-C00137,2025-05-06,Primary care,Low complexity,2.92,588.3,2,0
+P07-E001030,P07-C00514,2024-05-30,Specialty,Moderate complexity,1.78,630.94,4,1
+P07-E001031,P07-C00488,2025-03-22,Specialty,High complexity,3.12,2763.23,3,1
+P07-E001032,P07-C00505,2025-11-02,Specialty,Low complexity,1.04,702.66,6,0
+P07-E001033,P07-C00373,2025-05-24,Primary care,High complexity,3.04,786.39,4,0
+P07-E001034,P07-C00005,2024-12-30,Specialty,Low complexity,5.01,1064.5,2,0
+P07-E001035,P07-C00217,2024-02-29,Specialty,Moderate complexity,1.08,1732.34,2,1
+P07-E001036,P07-C00505,2024-03-02,Specialty,High complexity,5.48,1094.28,4,0
+P07-E001037,P07-C00485,2025-05-02,Inpatient,Moderate complexity,4.27,420.73,4,0
+P07-E001038,P07-C00041,2025-08-22,Specialty,Moderate complexity,2.9,933.38,3,0
+P07-E001039,P07-C00342,2025-08-20,Primary care,Moderate complexity,1.5,448.65,2,0
+P07-E001040,P07-C00460,2025-04-27,Inpatient,High complexity,3.95,231.53,5,0
+P07-E001041,P07-C00065,2025-01-04,Primary care,Low complexity,0.0,1934.5,1,0
+P07-E001042,P07-C00352,2025-05-31,Emergency,Low complexity,4.85,669.23,6,1
+P07-E001043,P07-C00141,2025-10-03,Inpatient,Moderate complexity,6.03,1311.18,3,0
+P07-E001044,P07-C00069,2024-08-12,Primary care,Moderate complexity,0.66,1994.98,5,0
+P07-E001045,P07-C00185,2025-01-15,Inpatient,Low complexity,2.64,146.74,2,0
+P07-E001046,P07-C00149,2024-02-18,Inpatient,Low complexity,2.15,331.5,4,0
+P07-E001047,P07-C00244,2025-10-05,Outpatient,Low complexity,0.83,2366.62,9,1
+P07-E001048,P07-C00252,2025-06-25,Inpatient,Moderate complexity,1.23,798.3,6,0
+P07-E001049,P07-C00462,2024-08-18,Inpatient,High complexity,4.07,1397.64,3,1
+P07-E001050,P07-C00316,2025-10-30,Emergency,Moderate complexity,1.36,683.15,5,0
+P07-E001051,P07-C00448,2025-11-29,Inpatient,High complexity,3.87,2105.01,5,0
+P07-E001052,P07-C00004,2025-04-08,Primary care,Low complexity,5.17,1333.61,1,0
+P07-E001053,P07-C00308,2025-12-18,Emergency,Low complexity,5.98,622.59,5,1
+P07-E001054,P07-C00101,2024-10-13,Emergency,Low complexity,1.65,216.13,3,0
+P07-E001055,P07-C00355,2025-12-02,Outpatient,Low complexity,4.78,1537.9,4,0
+P07-E001056,P07-C00192,2024-06-23,Specialty,High complexity,2.51,1014.16,4,0
+P07-E001057,P07-C00230,2025-01-05,Outpatient,Low complexity,0.85,273.6,2,0
+P07-E001058,P07-C00080,2025-09-08,Emergency,High complexity,3.74,783.04,2,0
+P07-E001059,P07-C00211,2025-02-02,Inpatient,Moderate complexity,4.17,397.02,4,0
+P07-E001060,P07-C00267,2025-05-08,Emergency,Low complexity,2.08,2529.0,2,1
+P07-E001061,P07-C00472,2025-12-25,Outpatient,Moderate complexity,4.64,685.31,5,0
+P07-E001062,P07-C00500,2025-10-02,Specialty,Moderate complexity,4.3,1198.96,4,1
+P07-E001063,P07-C00302,2024-04-20,Emergency,High complexity,2.89,548.79,5,0
+P07-E001064,P07-C00109,2025-08-01,Outpatient,Moderate complexity,4.89,1100.59,3,0
+P07-E001065,P07-C00218,2025-07-12,Primary care,High complexity,4.67,379.41,3,0
+P07-E001066,P07-C00471,2024-07-03,Inpatient,Moderate complexity,2.47,130.5,1,0
+P07-E001067,P07-C00345,2024-08-28,Emergency,Moderate complexity,1.65,1662.2,6,0
+P07-E001068,P07-C00381,2025-11-21,Primary care,High complexity,1.77,1074.27,5,0
+P07-E001069,P07-C00004,2024-11-19,Emergency,Moderate complexity,3.75,636.85,3,0
+P07-E001070,P07-C00496,2024-10-22,Primary care,Moderate complexity,5.54,2702.71,4,0
+P07-E001071,P07-C00423,2025-10-13,Inpatient,Moderate complexity,5.72,433.88,5,0
+P07-E001072,P07-C00278,2025-01-11,Emergency,High complexity,1.62,867.46,3,1
+P07-E001073,P07-C00165,2025-02-28,Outpatient,High complexity,4.8,1006.39,5,0
+P07-E001074,P07-C00003,2025-12-20,Inpatient,High complexity,3.43,673.37,3,0
+P07-E001075,P07-C00271,2024-07-27,Outpatient,Moderate complexity,4.79,873.97,3,0
+P07-E001076,P07-C00410,2025-06-10,Primary care,Moderate complexity,4.92,440.15,5,0
+P07-E001077,P07-C00141,2025-01-24,Emergency,Moderate complexity,1.93,4944.6,2,0
+P07-E001078,P07-C00233,2025-05-13,Inpatient,Moderate complexity,4.31,782.06,1,0
+P07-E001079,P07-C00301,2025-04-09,Inpatient,Low complexity,4.2,472.67,3,0
+P07-E001080,P07-C00131,2024-10-20,Inpatient,Low complexity,4.91,1009.32,1,0
+P07-E001081,P07-C00120,2025-05-15,Emergency,Low complexity,0.0,865.72,6,0
+P07-E001082,P07-C00166,2024-10-25,Emergency,High complexity,0.0,1500.41,3,0
+P07-E001083,P07-C00401,2024-07-12,Specialty,Moderate complexity,4.6,1579.32,3,0
+P07-E001084,P07-C00379,2024-02-19,Specialty,Low complexity,3.74,522.23,3,0
+P07-E001085,P07-C00447,2025-03-17,Inpatient,High complexity,1.5,675.26,2,0
+P07-E001086,P07-C00213,2024-10-10,Primary care,High complexity,4.46,474.24,3,0
+P07-E001087,P07-C00481,2024-12-16,Inpatient,High complexity,6.25,520.47,4,0
+P07-E001088,P07-C00201,2025-06-07,Outpatient,High complexity,2.07,2339.12,7,0
+P07-E001089,P07-C00039,2024-03-06,Primary care,Moderate complexity,1.81,801.59,1,0
+P07-E001090,P07-C00007,2024-12-11,Emergency,Low complexity,6.91,467.64,4,0
+P07-E001091,P07-C00167,2024-03-04,Outpatient,Moderate complexity,3.04,3784.35,3,0
+P07-E001092,P07-C00244,2025-03-26,Specialty,Low complexity,0.0,1297.67,4,1
+P07-E001093,P07-C00151,2024-05-20,Inpatient,High complexity,0.0,5214.77,4,0
+P07-E001094,P07-C00093,2025-10-17,Outpatient,Moderate complexity,2.06,3471.99,2,0
+P07-E001095,P07-C00165,2024-12-30,Inpatient,Moderate complexity,2.95,1951.78,4,0
+P07-E001096,P07-C00447,2024-09-13,Specialty,Low complexity,3.22,696.49,5,0
+P07-E001097,P07-C00057,2025-08-28,Specialty,Low complexity,2.91,2070.91,4,0
+P07-E001098,P07-C00329,2024-11-23,Emergency,High complexity,4.35,2659.97,3,1
+P07-E001099,P07-C00054,2025-11-16,Inpatient,Low complexity,1.02,279.62,4,1
+P07-E001100,P07-C00295,2024-01-09,Outpatient,High complexity,3.96,319.65,2,0
+P07-E001101,P07-C00295,2025-03-22,Primary care,High complexity,1.24,812.03,5,0
+P07-E001102,P07-C00486,2025-02-15,Specialty,Moderate complexity,0.0,415.49,3,0
+P07-E001103,P07-C00146,2024-05-03,Outpatient,Moderate complexity,2.19,2023.1,3,1
+P07-E001104,P07-C00255,2025-07-18,Inpatient,Low complexity,5.49,572.78,4,0
+P07-E001105,P07-C00264,2025-12-14,Specialty,High complexity,3.65,2389.14,2,0
+P07-E001106,P07-C00295,2025-07-02,Inpatient,Moderate complexity,4.94,825.22,2,0
+P07-E001107,P07-C00168,2024-10-16,Emergency,Low complexity,3.98,1059.68,6,1
+P07-E001108,P07-C00100,2024-06-29,Primary care,Moderate complexity,5.32,1293.81,3,0
+P07-E001109,P07-C00106,2025-02-16,Emergency,Moderate complexity,1.73,1750.51,1,1
+P07-E001110,P07-C00368,2025-02-27,Emergency,Low complexity,4.75,3552.4,1,0
+P07-E001111,P07-C00012,2025-06-22,Inpatient,Moderate complexity,1.68,1333.03,3,0
+P07-E001112,P07-C00397,2025-09-29,Outpatient,Moderate complexity,2.06,404.39,5,0
+P07-E001113,P07-C00512,2024-05-20,Outpatient,High complexity,2.03,1510.55,3,1
+P07-E001114,P07-C00002,2025-09-17,Outpatient,Low complexity,0.0,2771.68,2,0
+P07-E001115,P07-C00012,2024-10-17,Inpatient,High complexity,0.2,347.34,1,0
+P07-E001116,P07-C00411,2024-09-08,Outpatient,Low complexity,1.23,1322.3,3,0
+P07-E001117,P07-C00479,2024-03-02,Emergency,Moderate complexity,4.24,904.03,3,1
+P07-E001118,P07-C00324,2024-05-17,Outpatient,High complexity,1.23,622.44,2,0
+P07-E001119,P07-C00517,2024-08-29,Inpatient,Moderate complexity,0.96,400.6,3,0
+P07-E001120,P07-C00023,2024-12-31,Inpatient,Low complexity,3.27,1156.79,2,0
+P07-E001121,P07-C00116,2024-04-22,Outpatient,Low complexity,6.26,1036.91,3,0
+P07-E001122,P07-C00092,2024-05-08,Inpatient,Moderate complexity,2.46,712.28,3,1
+P07-E001123,P07-C00020,2025-06-12,Emergency,High complexity,4.45,1155.11,4,0
+P07-E001124,P07-C00041,2024-08-28,Specialty,High complexity,4.32,590.47,4,0
+P07-E001125,P07-C00118,2024-03-23,Inpatient,High complexity,3.93,440.28,1,0
+P07-E001126,P07-C00452,2024-09-23,Primary care,High complexity,1.8,122.97,4,0
+P07-E001127,P07-C00115,2025-09-26,Specialty,Moderate complexity,1.9,726.69,2,1
+P07-E001128,P07-C00434,2025-06-29,Outpatient,Low complexity,0.0,273.73,5,0
+P07-E001129,P07-C00421,2024-11-07,Outpatient,High complexity,3.54,592.43,2,0
+P07-E001130,P07-C00397,2024-07-29,Specialty,Moderate complexity,5.6,1490.48,6,0
+P07-E001131,P07-C00059,2024-11-04,Emergency,High complexity,4.98,2916.46,5,0
+P07-E001132,P07-C00060,2025-02-08,Primary care,Low complexity,3.12,1377.98,2,0
+P07-E001133,P07-C00050,2025-09-22,Primary care,Low complexity,6.49,766.83,4,0
+P07-E001134,P07-C00168,2025-08-04,Emergency,Moderate complexity,2.34,1806.05,3,0
+P07-E001135,P07-C00373,2024-12-07,Outpatient,Moderate complexity,4.22,313.34,4,0
+P07-E001136,P07-C00247,2024-08-29,Outpatient,High complexity,1.83,592.62,2,0
+P07-E001137,P07-C00110,2025-06-25,Emergency,Low complexity,5.61,583.19,4,0
+P07-E001138,P07-C00484,2024-02-03,Inpatient,High complexity,2.64,1035.25,5,0
+P07-E001139,P07-C00041,2024-12-17,Inpatient,High complexity,0.0,868.8,2,0
+P07-E001140,P07-C00378,2025-05-25,Inpatient,High complexity,2.86,393.89,3,0
+P07-E001141,P07-C00234,2025-05-22,Primary care,Low complexity,5.82,1311.73,2,0
+P07-E001142,P07-C00203,2024-10-12,Outpatient,Low complexity,1.04,2181.96,2,0
+P07-E001143,P07-C00330,2024-09-20,Primary care,Low complexity,3.35,1496.08,1,1
+P07-E001144,P07-C00509,2025-01-30,Outpatient,High complexity,0.63,1228.73,5,0
+P07-E001145,P07-C00022,2025-12-25,Inpatient,Moderate complexity,1.25,1907.59,2,0
+P07-E001146,P07-C00284,2025-11-07,Emergency,High complexity,0.0,772.61,4,0
+P07-E001147,P07-C00438,2024-10-04,Specialty,Low complexity,4.51,1199.57,6,1
+P07-E001148,P07-C00278,2024-01-16,Outpatient,Low complexity,2.83,281.67,6,0
+P07-E001149,P07-C00111,2025-03-12,Outpatient,Low complexity,5.94,538.78,6,0
+P07-E001150,P07-C00307,2025-05-26,Primary care,Moderate complexity,2.8,404.2,3,0
+P07-E001151,P07-C00362,2024-11-29,Specialty,Low complexity,5.63,902.24,4,0
+P07-E001152,P07-C00245,2025-04-03,Specialty,High complexity,3.61,994.72,4,0
+P07-E001153,P07-C00218,2024-02-05,Specialty,High complexity,2.17,842.48,5,0
+P07-E001154,P07-C00153,2025-11-15,Primary care,High complexity,1.75,1018.25,2,0
+P07-E001155,P07-C00144,2025-07-10,Inpatient,Moderate complexity,2.24,837.02,3,0
+P07-E001156,P07-C00159,2024-10-25,Specialty,Moderate complexity,2.95,201.52,3,0
+P07-E001157,P07-C00160,2025-11-22,Specialty,High complexity,1.85,477.32,3,0
+P07-E001158,P07-C00307,2025-09-03,Specialty,Moderate complexity,2.43,760.35,4,0
+P07-E001159,P07-C00052,2025-12-04,Primary care,Low complexity,0.0,1354.96,4,0
+P07-E001160,P07-C00249,2024-11-06,Outpatient,Moderate complexity,4.27,715.84,3,1
+P07-E001161,P07-C00492,2025-07-13,Specialty,Low complexity,3.3,1317.92,4,1
+P07-E001162,P07-C00341,2025-09-02,Primary care,High complexity,3.41,2685.56,1,0
+P07-E001163,P07-C00214,2025-01-20,Primary care,Moderate complexity,3.31,7019.18,2,0
+P07-E001164,P07-C00172,2024-10-01,Inpatient,Low complexity,2.12,933.78,1,0
+P07-E001165,P07-C00095,2024-05-17,Primary care,High complexity,2.76,1569.27,2,0
+P07-E001166,P07-C00471,2025-04-22,Primary care,Moderate complexity,3.64,372.23,2,1
+P07-E001167,P07-C00475,2024-11-10,Inpatient,Moderate complexity,5.29,635.04,2,0
+P07-E001168,P07-C00374,2024-03-18,Specialty,Moderate complexity,3.72,755.68,2,1
+P07-E001169,P07-C00244,2024-05-18,Outpatient,High complexity,4.52,613.05,5,0
+P07-E001170,P07-C00203,2025-06-12,Specialty,Low complexity,2.35,205.89,2,0
+P07-E001171,P07-C00175,2025-04-12,Specialty,Moderate complexity,2.42,4409.38,2,1
+P07-E001172,P07-C00211,2025-02-13,Primary care,High complexity,2.68,597.04,1,0
+P07-E001173,P07-C00065,2025-07-31,Primary care,High complexity,0.58,1308.7,3,0
+P07-E001174,P07-C00489,2025-04-08,Outpatient,Moderate complexity,3.67,2772.78,3,1
+P07-E001175,P07-C00149,2025-08-06,Outpatient,Moderate complexity,2.5,379.53,3,0
+P07-E001176,P07-C00110,2025-06-06,Inpatient,Low complexity,3.87,1587.83,6,0
+P07-E001177,P07-C00387,2024-08-09,Emergency,Moderate complexity,6.18,1139.26,6,0
+P07-E001178,P07-C00337,2024-10-19,Outpatient,Moderate complexity,4.4,1119.74,2,0
+P07-E001179,P07-C00200,2025-02-06,Inpatient,Moderate complexity,3.98,1589.9,3,0
+P07-E001180,P07-C00326,2025-02-11,Specialty,Low complexity,4.43,834.35,3,0
+P07-E001181,P07-C00275,2024-10-24,Emergency,High complexity,0.0,5166.98,6,0
+P07-E001182,P07-C00066,2025-01-20,Emergency,High complexity,1.63,3447.9,4,1
+P07-E001183,P07-C00401,2025-11-26,Inpatient,Moderate complexity,5.11,494.9,3,0
+P07-E001184,P07-C00187,2024-01-05,Inpatient,Moderate complexity,1.47,1286.35,3,0
+P07-E001185,P07-C00240,2024-10-02,Inpatient,Moderate complexity,2.6,2429.12,2,1
+P07-E001186,P07-C00067,2024-07-27,Inpatient,Moderate complexity,0.38,784.38,5,0
+P07-E001187,P07-C00416,2025-02-26,Primary care,High complexity,5.22,1143.87,3,0
+P07-E001188,P07-C00375,2025-10-06,Primary care,High complexity,3.08,421.85,4,1
+P07-E001189,P07-C00036,2025-05-20,Emergency,Moderate complexity,1.67,434.57,4,0
+P07-E001190,P07-C00384,2024-12-04,Primary care,High complexity,3.4,214.89,2,0
+P07-E001191,P07-C00033,2025-03-21,Outpatient,High complexity,2.69,340.85,4,0
+P07-E001192,P07-C00063,2025-01-02,Primary care,Low complexity,,826.32,2,0
+P07-E001193,P07-C00117,2024-01-28,Specialty,Low complexity,2.78,2379.38,5,1
+P07-E001194,P07-C00024,2024-01-18,Outpatient,Low complexity,5.52,669.99,4,0
+P07-E001195,P07-C00208,2025-01-10,Emergency,High complexity,6.52,417.4,4,0
+P07-E001196,P07-C00271,2025-02-20,Emergency,High complexity,0.15,808.04,6,1
+P07-E001197,P07-C00200,2025-04-15,Emergency,Low complexity,3.88,602.05,3,1
+P07-E001198,P07-C00081,2025-12-12,Emergency,Moderate complexity,5.53,1528.54,2,0
+P07-E001199,P07-C00431,2024-03-31,Primary care,Low complexity,1.42,576.63,4,0
+P07-E001200,P07-C00456,2025-01-01,Outpatient,Low complexity,4.72,2132.62,1,0
+P07-E001201,P07-C00095,2024-04-29,Primary care,Low complexity,2.06,760.35,2,0
+P07-E001202,P07-C00098,2024-10-11,Primary care,Low complexity,2.59,1635.41,2,0
+P07-E001203,P07-C00117,2025-04-14,Inpatient,Moderate complexity,1.69,1310.73,1,1
+P07-E001204,P07-C00366,2025-01-11,Specialty,High complexity,5.1,661.83,1,0
+P07-E001205,P07-C00118,2025-03-10,Outpatient,Low complexity,3.51,1697.71,3,0
+P07-E001206,P07-C00466,2024-07-23,Emergency,Low complexity,1.08,2935.19,5,0
+P07-E001207,P07-C00004,2025-10-31,Specialty,Low complexity,1.45,478.46,3,1
+P07-E001208,P07-C00353,2024-04-05,Primary care,Low complexity,3.98,6263.95,5,0
+P07-E001209,P07-C00003,2024-06-05,Specialty,High complexity,3.12,1588.66,3,0
+P07-E001210,P07-C00432,2025-08-25,Inpatient,Low complexity,1.28,417.67,1,0
+P07-E001211,P07-C00384,2024-04-26,Outpatient,High complexity,4.91,1737.96,3,0
+P07-E001212,P07-C00340,2024-03-25,Outpatient,Moderate complexity,1.83,488.55,2,0
+P07-E001213,P07-C00024,2024-01-19,Primary care,High complexity,4.73,1294.85,3,0
+P07-E001214,P07-C00200,2025-08-15,Emergency,Moderate complexity,1.97,638.5,2,0
+P07-E001215,P07-C00011,2024-06-29,Emergency,High complexity,2.54,1095.32,3,0
+P07-E001216,P07-C00471,2024-10-27,Emergency,Moderate complexity,7.75,738.36,2,0
+P07-E001217,P07-C00173,2025-10-02,Specialty,Moderate complexity,2.77,1120.88,5,0
+P07-E001218,P07-C00458,2024-02-24,Primary care,Moderate complexity,0.75,784.86,4,0
+P07-E001219,P07-C00383,2024-10-19,Emergency,Moderate complexity,0.0,425.15,6,0
+P07-E001220,P07-C00498,2024-04-15,Specialty,Low complexity,2.89,946.47,3,0
+P07-E001221,P07-C00119,2025-08-11,Outpatient,Moderate complexity,0.99,326.94,3,0
+P07-E001222,P07-C00187,2024-02-10,Outpatient,Low complexity,0.87,471.32,3,0
+P07-E001223,P07-C00261,2025-10-04,Outpatient,Moderate complexity,0.0,939.67,1,0
+P07-E001224,P07-C00196,2025-10-22,Specialty,Low complexity,6.25,2585.08,3,1
+P07-E001225,P07-C00507,2024-07-10,Specialty,High complexity,3.93,923.14,1,0
+P07-E001226,P07-C00436,2024-10-24,Specialty,Moderate complexity,0.07,2171.47,2,0
+P07-E001227,P07-C00046,2025-04-11,Inpatient,High complexity,1.94,1859.55,2,0
+P07-E001228,P07-C00065,2024-08-02,Specialty,High complexity,2.22,1366.36,1,0
+P07-E001229,P07-C00160,2025-05-23,Outpatient,Low complexity,3.03,939.08,5,1
+P07-E001230,P07-C00280,2025-05-15,Inpatient,Moderate complexity,1.63,260.7,2,0
+P07-E001231,P07-C00326,2024-11-02,Emergency,Low complexity,0.88,461.67,5,0
+P07-E001232,P07-C00144,2025-04-29,Emergency,High complexity,3.44,1002.74,4,1
+P07-E001233,P07-C00389,2024-12-22,Inpatient,High complexity,6.74,1614.13,4,0
+P07-E001234,P07-C00435,2024-12-12,Outpatient,High complexity,0.98,582.52,2,0
+P07-E001235,P07-C00109,2025-11-28,Inpatient,Moderate complexity,4.6,2064.38,1,0
+P07-E001236,P07-C00496,2024-07-13,Primary care,High complexity,6.13,1935.66,2,1
+P07-E001237,P07-C00399,2025-12-07,Outpatient,High complexity,2.29,2902.47,4,0
+P07-E001238,P07-C00427,2025-10-22,Outpatient,High complexity,2.1,612.52,2,0
+P07-E001239,P07-C00058,2025-06-10,Primary care,High complexity,3.7,424.82,3,0
+P07-E001240,P07-C00263,2024-01-12,Inpatient,Low complexity,5.32,547.56,2,0
+P07-E001241,P07-C00171,2024-04-05,Primary care,Low complexity,2.62,354.5,2,0
+P07-E001242,P07-C00444,2025-03-11,Specialty,High complexity,5.56,836.24,4,0
+P07-E001243,P07-C00376,2025-03-15,Outpatient,Low complexity,1.15,3584.34,2,1
+P07-E001244,P07-C00443,2024-05-16,Primary care,High complexity,2.45,704.8,3,0
+P07-E001245,P07-C00138,2025-02-14,Primary care,Low complexity,6.31,912.39,2,0
+P07-E001246,P07-C00267,2025-06-01,Outpatient,Moderate complexity,3.98,1199.07,3,0
+P07-E001247,P07-C00349,2024-09-14,Specialty,Low complexity,0.0,2146.54,3,0
+P07-E001248,P07-C00157,2025-08-21,Specialty,Low complexity,1.07,1768.27,6,0
+P07-E001249,P07-C00485,2025-12-17,Specialty,Low complexity,3.06,1352.27,8,1
+P07-E001250,P07-C00444,2024-07-22,Outpatient,High complexity,0.0,6099.52,2,0
+P07-E001251,P07-C00453,2025-11-18,Primary care,Moderate complexity,5.78,1774.4,6,1
+P07-E001252,P07-C00040,2024-02-29,Outpatient,High complexity,4.86,1653.08,4,0
+P07-E001253,P07-C00424,2024-08-17,Inpatient,High complexity,1.92,1279.69,3,0
+P07-E001254,P07-C00310,2024-03-27,Emergency,Moderate complexity,1.34,591.56,3,0
+P07-E001255,P07-C00518,2025-12-25,Specialty,Moderate complexity,3.58,447.67,4,0
+P07-E001256,P07-C00289,2024-05-31,Emergency,Moderate complexity,2.08,544.56,5,1
+P07-E001257,P07-C00204,2025-11-02,Outpatient,Moderate complexity,0.32,511.96,2,0
+P07-E001258,P07-C00064,2025-09-16,Outpatient,Moderate complexity,4.23,302.61,2,1
+P07-E001259,P07-C00291,2025-09-21,Inpatient,High complexity,1.65,866.21,2,0
+P07-E001260,P07-C00387,2025-12-01,Specialty,High complexity,3.51,1174.21,4,1
+P07-E001261,P07-C00363,2024-03-24,Outpatient,Low complexity,0.41,1933.06,1,0
+P07-E001262,P07-C00157,2024-07-30,Emergency,Low complexity,6.92,1049.56,2,0
+P07-E001263,P07-C00323,2024-07-21,Outpatient,Moderate complexity,3.96,1627.71,3,0
+P07-E001264,P07-C00496,2025-11-22,Outpatient,Low complexity,1.75,1772.76,3,1
+P07-E001265,P07-C00238,2024-12-19,Specialty,Moderate complexity,2.26,1211.29,6,0
+P07-E001266,P07-C00198,2025-02-27,Inpatient,Low complexity,0.0,470.08,5,1
+P07-E001267,P07-C00045,2025-05-12,Inpatient,High complexity,4.09,1055.54,5,0
+P07-E001268,P07-C00246,2024-12-20,Specialty,Moderate complexity,1.59,844.76,4,1
+P07-E001269,P07-C00209,2024-01-24,Inpatient,Low complexity,5.22,342.15,3,0
+P07-E001270,P07-C00184,2024-07-04,Primary care,High complexity,5.13,1920.83,2,1
+P07-E001271,P07-C00512,2025-11-06,Inpatient,Moderate complexity,2.22,787.85,2,0
+P07-E001272,P07-C00296,2024-01-14,Inpatient,Moderate complexity,6.74,2253.79,3,0
+P07-E001273,P07-C00108,2024-09-27,Emergency,Moderate complexity,4.73,644.25,6,0
+P07-E001274,P07-C00158,2025-11-08,Primary care,Low complexity,2.06,998.24,4,0
+P07-E001275,P07-C00128,2024-09-13,Emergency,High complexity,4.36,1162.09,2,0
+P07-E001276,P07-C00292,2025-02-10,Primary care,High complexity,0.33,451.36,2,0
+P07-E001277,P07-C00045,2025-05-12,Primary care,High complexity,4.75,2775.46,2,0
+P07-E001278,P07-C00289,2025-02-12,Primary care,Low complexity,3.42,1274.77,2,1
+P07-E001279,P07-C00303,2025-07-28,Inpatient,High complexity,3.65,1313.82,3,1
+P07-E001280,P07-C00392,2025-02-28,Primary care,High complexity,4.76,883.48,2,0
+P07-E001281,P07-C00514,2024-07-08,Emergency,High complexity,5.82,1782.44,2,1
+P07-E001282,P07-C00399,2024-12-12,Primary care,Low complexity,3.53,2835.61,4,0
+P07-E001283,P07-C00405,2024-04-30,Inpatient,High complexity,0.86,405.94,3,0
+P07-E001284,P07-C00330,2025-05-05,Specialty,Moderate complexity,2.67,1045.93,2,0
+P07-E001285,P07-C00271,2024-01-04,Inpatient,Moderate complexity,4.77,1002.54,5,0
+P07-E001286,P07-C00150,2025-04-03,Primary care,Low complexity,5.44,816.29,2,1
+P07-E001287,P07-C00161,2024-06-06,Specialty,Low complexity,4.98,2027.33,3,0
+P07-E001288,P07-C00454,2024-06-22,Outpatient,Moderate complexity,5.38,1723.38,2,0
+P07-E001289,P07-C00485,2025-07-25,Specialty,Low complexity,3.17,420.43,4,0
+P07-E001290,P07-C00414,2024-09-12,Outpatient,Moderate complexity,1.44,4162.79,1,0
+P07-E001291,P07-C00020,2025-11-04,Outpatient,High complexity,2.43,599.5,5,1
+P07-E001292,P07-C00455,2025-09-14,Inpatient,Moderate complexity,1.05,2703.81,4,0
+P07-E001293,P07-C00131,2024-07-26,Inpatient,Moderate complexity,0.91,395.88,3,0
+P07-E001294,P07-C00484,2024-05-21,Specialty,High complexity,1.26,1461.88,3,0
+P07-E001295,P07-C00028,2025-06-24,Specialty,Moderate complexity,0.0,1022.42,4,0
+P07-E001296,P07-C00164,2024-06-04,Inpatient,Low complexity,2.3,2104.72,4,0
+P07-E001297,P07-C00431,2025-09-04,Primary care,Moderate complexity,0.3,322.7,2,0
+P07-E001298,P07-C00266,2024-07-02,Outpatient,High complexity,4.4,2477.0,2,0
+P07-E001299,P07-C00186,2025-11-08,Outpatient,Moderate complexity,2.81,2265.1,4,0
+P07-E001300,P07-C00253,2024-12-30,Emergency,Moderate complexity,2.79,4557.17,4,1
+P07-E001301,P07-C00473,2025-12-21,Inpatient,Low complexity,3.45,575.07,2,1
+P07-E001302,P07-C00173,2025-02-01,Outpatient,High complexity,4.21,868.72,4,0
+P07-E001303,P07-C00180,2025-09-28,Primary care,High complexity,3.86,1935.83,2,0
+P07-E001304,P07-C00119,2024-10-12,Inpatient,Moderate complexity,2.1,562.26,3,0
+P07-E001305,P07-C00196,2025-05-07,Specialty,High complexity,0.55,337.27,6,0
+P07-E001306,P07-C00181,2025-05-10,Outpatient,High complexity,3.46,313.65,2,0
+P07-E001307,P07-C00221,2025-11-21,Inpatient,Low complexity,3.17,1145.5,3,0
+P07-E001308,P07-C00357,2025-03-02,Outpatient,Moderate complexity,0.84,1574.07,2,0
+P07-E001309,P07-C00074,2025-09-23,Inpatient,Low complexity,2.52,410.1,4,0
+P07-E001310,P07-C00164,2025-03-29,Emergency,High complexity,3.2,2473.17,4,0
+P07-E001311,P07-C00382,2024-08-06,Specialty,Low complexity,1.75,649.42,8,0
+P07-E001312,P07-C00033,2024-07-25,Emergency,High complexity,3.12,2535.64,3,0
+P07-E001313,P07-C00369,2024-12-21,Primary care,High complexity,0.0,540.74,1,0
+P07-E001314,P07-C00340,2024-08-06,Inpatient,Low complexity,4.93,824.88,3,0
+P07-E001315,P07-C00067,2025-10-04,Outpatient,Moderate complexity,0.0,1783.2,4,1
+P07-E001316,P07-C00018,2024-03-19,Primary care,Moderate complexity,2.47,1201.54,1,1
+P07-E001317,P07-C00289,2025-06-10,Specialty,Low complexity,5.41,533.2,4,0
+P07-E001318,P07-C00154,2025-05-13,Inpatient,High complexity,5.73,1183.01,2,0
+P07-E001319,P07-C00259,2025-11-29,Emergency,Low complexity,0.0,7284.44,3,0
+P07-E001320,P07-C00432,2025-06-18,Primary care,Low complexity,4.91,1570.61,2,0
+P07-E001321,P07-C00305,2025-10-04,Emergency,Moderate complexity,0.0,874.13,1,0
+P07-E001322,P07-C00257,2024-12-06,Specialty,High complexity,2.85,1748.61,2,0
+P07-E001323,P07-C00516,2025-01-18,Outpatient,Moderate complexity,2.86,1200.97,3,0
+P07-E001324,P07-C00508,2025-07-07,Inpatient,Low complexity,3.43,415.02,5,0
+P07-E001325,P07-C00326,2025-04-27,Primary care,Low complexity,4.55,365.46,3,0
+P07-E001326,P07-C00202,2025-12-29,Emergency,High complexity,4.22,2038.91,3,0
+P07-E001327,P07-C00412,2024-12-04,Primary care,Moderate complexity,4.82,3372.52,1,0
+P07-E001328,P07-C00409,2025-01-18,Primary care,Moderate complexity,0.51,6404.41,3,0
+P07-E001329,P07-C00101,2024-03-24,Emergency,Moderate complexity,5.65,413.52,5,0
+P07-E001330,P07-C00068,2025-12-02,Emergency,Low complexity,2.87,2917.61,3,0
+P07-E001331,P07-C00144,2024-12-07,Specialty,High complexity,0.0,447.12,3,0
+P07-E001332,P07-C00085,2024-03-26,Outpatient,Low complexity,2.36,690.94,3,0
+P07-E001333,P07-C00351,2024-01-25,Specialty,High complexity,2.61,630.6,5,0
+P07-E001334,P07-C00366,2025-05-11,Primary care,Low complexity,3.75,869.84,5,0
+P07-E001335,P07-C00033,2025-10-24,Primary care,High complexity,1.25,1500.69,3,0
+P07-E001336,P07-C00052,2025-04-14,Specialty,Low complexity,1.21,915.14,5,0
+P07-E001337,P07-C00420,2024-04-19,Specialty,High complexity,4.38,9750.3,1,0
+P07-E001338,P07-C00100,2025-03-01,Inpatient,Low complexity,2.44,180.94,4,0
+P07-E001339,P07-C00411,2024-03-26,Specialty,High complexity,5.49,636.68,4,0
+P07-E001340,P07-C00324,2025-10-08,Specialty,Moderate complexity,2.05,949.89,7,1
+P07-E001341,P07-C00123,2024-02-16,Primary care,High complexity,4.85,666.42,5,0
+P07-E001342,P07-C00426,2025-04-18,Emergency,Low complexity,2.91,1325.43,3,0
+P07-E001343,P07-C00127,2024-12-20,Outpatient,Moderate complexity,2.34,527.45,3,0
+P07-E001344,P07-C00070,2025-03-23,Outpatient,Low complexity,5.94,347.61,2,1
+P07-E001345,P07-C00299,2025-11-03,Specialty,Moderate complexity,2.32,2510.68,5,0
+P07-E001346,P07-C00364,2025-09-06,Specialty,High complexity,3.88,1441.87,7,1
+P07-E001347,P07-C00264,2025-06-28,Primary care,Moderate complexity,5.65,297.23,2,0
+P07-E001348,P07-C00283,2024-03-04,Inpatient,Low complexity,0.95,1133.57,2,0
+P07-E001349,P07-C00456,2024-10-04,Outpatient,Moderate complexity,0.1,4228.48,2,0
+P07-E001350,P07-C00158,2024-11-09,Specialty,Moderate complexity,0.91,654.29,4,0
+P07-E001351,P07-C00398,2025-10-25,Primary care,High complexity,3.72,1481.65,7,0
+P07-E001352,P07-C00414,2025-07-30,Specialty,Moderate complexity,1.03,439.54,3,0
+P07-E001353,P07-C00373,2024-11-28,Specialty,Low complexity,0.0,2543.97,5,0
+P07-E001354,P07-C00078,2025-04-14,Emergency,High complexity,3.67,1813.14,3,0
+P07-E001355,P07-C00235,2025-02-01,Emergency,Low complexity,2.53,630.04,6,0
+P07-E001356,P07-C00512,2025-05-21,Inpatient,Moderate complexity,2.86,1004.5,2,0
+P07-E001357,P07-C00151,2024-09-17,Inpatient,High complexity,3.14,504.67,3,0
+P07-E001358,P07-C00152,2025-11-14,Inpatient,Moderate complexity,0.0,905.28,1,0
+P07-E001359,P07-C00390,2024-11-13,Primary care,Moderate complexity,2.68,1685.91,3,0
+P07-E001360,P07-C00035,2024-10-15,Specialty,High complexity,3.03,681.81,3,0
+P07-E001361,P07-C00507,2025-12-01,Outpatient,Moderate complexity,0.08,1032.27,1,0
+P07-E001362,P07-C00462,2024-07-20,Outpatient,High complexity,2.28,246.13,4,0
+P07-E001363,P07-C00300,2024-07-27,Primary care,High complexity,4.22,2004.89,6,0
+P07-E001364,P07-C00137,2024-06-22,Inpatient,Low complexity,6.95,1342.51,4,0
+P07-E001365,P07-C00342,2025-07-20,Outpatient,Moderate complexity,3.68,455.09,4,0
+P07-E001366,P07-C00499,2025-03-21,Outpatient,High complexity,2.15,1899.09,1,0
+P07-E001367,P07-C00406,2024-03-24,Specialty,Moderate complexity,1.07,1913.11,2,1
+P07-E001368,P07-C00015,2024-07-22,Specialty,Moderate complexity,7.3,441.74,3,1
+P07-E001369,P07-C00192,2025-08-03,Outpatient,Moderate complexity,0.0,1821.47,1,1
+P07-E001370,P07-C00007,2024-01-20,Primary care,High complexity,2.5,1837.58,2,0
+P07-E001371,P07-C00399,2025-06-14,Outpatient,Low complexity,1.1,674.35,2,0
+P07-E001372,P07-C00225,2024-02-01,Emergency,Low complexity,3.0,326.67,4,0
+P07-E001373,P07-C00365,2025-05-19,Emergency,Moderate complexity,4.56,1141.58,5,1
+P07-E001374,P07-C00141,2024-06-27,Outpatient,Low complexity,2.64,691.13,2,0
+P07-E001375,P07-C00480,2024-03-18,Specialty,Moderate complexity,2.84,372.13,2,1
+P07-E001376,P07-C00177,2025-07-15,Outpatient,Low complexity,0.0,886.06,3,0
+P07-E001377,P07-C00105,2025-03-16,Specialty,High complexity,5.93,724.59,3,1
+P07-E001378,P07-C00519,2024-06-18,Inpatient,Low complexity,3.77,1103.41,4,0
+P07-E001379,P07-C00044,2024-10-14,Primary care,Moderate complexity,7.31,637.03,11,0
+P07-E001380,P07-C00085,2025-02-24,Inpatient,High complexity,3.09,1875.84,1,0
+P07-E001381,P07-C00273,2025-09-04,Primary care,Moderate complexity,0.0,215.33,6,0
+P07-E001382,P07-C00226,2024-11-09,Outpatient,Low complexity,3.89,315.8,1,0
+P07-E001383,P07-C00315,2024-08-20,Emergency,Moderate complexity,1.91,912.07,3,0
+P07-E001384,P07-C00500,2025-07-01,Specialty,Moderate complexity,0.0,446.58,6,0
+P07-E001385,P07-C00305,2024-07-11,Inpatient,High complexity,1.76,9195.93,4,0
+P07-E001386,P07-C00201,2025-01-28,Emergency,Low complexity,0.0,1741.0,2,1
+P07-E001387,P07-C00157,2024-09-02,Outpatient,High complexity,0.72,733.79,2,0
+P07-E001388,P07-C00352,2024-01-30,Inpatient,Moderate complexity,3.6,2507.46,5,0
+P07-E001389,P07-C00349,2025-08-03,Primary care,Low complexity,2.57,1578.68,3,0
+P07-E001390,P07-C00115,2025-04-17,Specialty,Moderate complexity,0.87,790.03,4,1
+P07-E001391,P07-C00375,2024-05-01,Specialty,Moderate complexity,5.07,996.81,5,1
+P07-E001392,P07-C00309,2024-03-30,Emergency,Moderate complexity,2.65,628.33,3,1
+P07-E001393,P07-C00513,2025-02-21,Specialty,Low complexity,4.55,821.88,2,0
+P07-E001394,P07-C00281,2024-02-09,Outpatient,Low complexity,0.0,847.68,2,0
+P07-E001395,P07-C00287,2024-04-28,Specialty,Moderate complexity,5.05,568.03,2,0
+P07-E001396,P07-C00308,2024-03-19,Inpatient,Moderate complexity,2.3,2519.18,1,0
+P07-E001397,P07-C00491,2025-11-17,Inpatient,High complexity,5.62,1462.41,6,0
+P07-E001398,P07-C00439,2024-09-10,Inpatient,Moderate complexity,4.2,2532.73,2,0
+P07-E001399,P07-C00126,2025-12-30,Emergency,Low complexity,8.25,1335.43,1,0
+P07-E001400,P07-C00229,2024-01-31,Primary care,Low complexity,3.89,335.65,2,0
+P07-E001401,P07-C00473,2024-05-24,Primary care,Low complexity,4.41,1100.19,3,0
+P07-E001402,P07-C00009,2025-02-05,Specialty,High complexity,3.58,2427.24,3,1
+P07-E001403,P07-C00128,2025-03-12,Emergency,High complexity,1.93,1075.38,4,0
+P07-E001404,P07-C00295,2024-01-24,Emergency,Moderate complexity,4.93,433.34,3,0
+P07-E001405,P07-C00432,2024-02-27,Emergency,High complexity,3.51,5666.67,2,0
+P07-E001406,P07-C00376,2025-07-04,Outpatient,Low complexity,6.48,2238.56,1,0
+P07-E001407,P07-C00168,2024-10-07,Inpatient,Low complexity,2.05,1984.92,3,0
+P07-E001408,P07-C00092,2024-06-02,Specialty,Low complexity,1.86,662.66,2,0
+P07-E001409,P07-C00134,2024-12-20,Outpatient,High complexity,5.93,1132.06,3,0
+P07-E001410,P07-C00092,2024-05-05,Inpatient,Low complexity,4.42,201.52,2,0
+P07-E001411,P07-C00170,2025-04-07,Outpatient,High complexity,3.74,764.91,2,1
+P07-E001412,P07-C00358,2025-04-07,Inpatient,Low complexity,6.98,3121.57,3,0
+P07-E001413,P07-C00328,2025-11-12,Specialty,Low complexity,6.26,1214.63,5,1
+P07-E001414,P07-C00240,2025-07-19,Specialty,Low complexity,0.98,996.42,4,0
+P07-E001415,P07-C00301,2025-04-24,Primary care,Moderate complexity,0.75,1862.18,1,0
+P07-E001416,P07-C00291,2024-11-24,Outpatient,Moderate complexity,0.0,4578.14,3,0
+P07-E001417,P07-C00032,2024-12-18,Primary care,Moderate complexity,1.66,423.16,3,0
+P07-E001418,P07-C00338,2024-07-17,Emergency,Moderate complexity,5.05,2134.98,3,0
+P07-E001419,P07-C00235,2024-02-04,Emergency,Moderate complexity,2.31,1053.77,2,0
+P07-E001420,P07-C00497,2024-10-25,Specialty,Low complexity,0.65,612.15,5,0
+P07-E001421,P07-C00001,2025-01-24,Primary care,Moderate complexity,0.48,1114.22,5,0
+P07-E001422,P07-C00310,2025-06-21,Specialty,Moderate complexity,2.01,2273.82,1,0
+P07-E001423,P07-C00076,2024-08-03,Specialty,Low complexity,4.03,1639.87,5,0
+P07-E001424,P07-C00058,2024-03-24,Primary care,Moderate complexity,3.92,1483.44,1,0
+P07-E001425,P07-C00430,2024-05-18,Specialty,Low complexity,6.09,2469.63,3,0
+P07-E001426,P07-C00286,2024-02-24,Specialty,Moderate complexity,1.8,2734.04,5,0
+P07-E001427,P07-C00028,2024-01-11,Emergency,Moderate complexity,4.86,3534.08,6,0
+P07-E001428,P07-C00258,2024-06-17,Outpatient,Moderate complexity,0.31,1366.3,2,0
+P07-E001429,P07-C00461,2024-03-24,Specialty,Low complexity,2.72,792.79,2,1
+P07-E001430,P07-C00300,2025-01-03,Emergency,Low complexity,3.38,1603.82,3,0
+P07-E001431,P07-C00154,2025-10-05,Inpatient,Low complexity,6.52,274.86,3,0
+P07-E001432,P07-C00167,2025-05-28,Emergency,High complexity,4.02,823.7,4,0
+P07-E001433,P07-C00279,2024-06-12,Specialty,Moderate complexity,3.66,1377.98,6,0
+P07-E001434,P07-C00209,2024-12-30,Specialty,Moderate complexity,1.83,1174.15,2,0
+P07-E001435,P07-C00035,2025-11-06,Primary care,High complexity,7.53,2739.72,4,0
+P07-E001436,P07-C00168,2024-10-12,Specialty,High complexity,3.01,687.67,4,1
+P07-E001437,P07-C00229,2025-06-09,Primary care,Low complexity,2.9,603.65,4,0
+P07-E001438,P07-C00040,2025-11-09,Outpatient,Low complexity,2.74,8764.53,5,0
+P07-E001439,P07-C00252,2024-06-09,Inpatient,High complexity,0.4,736.8,2,0
+P07-E001440,P07-C00434,2025-01-06,Specialty,Moderate complexity,0.78,3395.92,2,0
+P07-E001441,P07-C00049,2025-11-03,Outpatient,Low complexity,3.86,2768.3,4,0
+P07-E001442,P07-C00016,2024-06-19,Emergency,Moderate complexity,,2661.8,4,0
+P07-E001443,P07-C00148,2024-09-16,Outpatient,High complexity,2.03,324.68,2,1
+P07-E001444,P07-C00186,2024-07-07,Emergency,Moderate complexity,1.29,1586.4,4,0
+P07-E001445,P07-C00015,2025-09-15,Specialty,High complexity,3.47,1081.91,2,0
+P07-E001446,P07-C00020,2024-11-13,Outpatient,High complexity,0.88,885.2,4,0
+P07-E001447,P07-C00441,2025-06-28,Outpatient,High complexity,5.83,884.89,4,0
+P07-E001448,P07-C00087,2025-06-16,Inpatient,Moderate complexity,1.65,489.67,2,0
+P07-E001449,P07-C00443,2025-08-17,Specialty,Low complexity,3.93,2943.15,3,0
+P07-E001450,P07-C00448,2024-09-05,Inpatient,Low complexity,0.0,375.36,3,0
+P07-E001451,P07-C00093,2024-09-04,Outpatient,Moderate complexity,2.84,887.85,3,0
+P07-E001452,P07-C00111,2024-08-21,Emergency,Low complexity,1.42,325.27,6,0
+P07-E001453,P07-C00498,2025-07-21,Emergency,High complexity,2.2,601.83,5,1
+P07-E001454,P07-C00065,2025-12-19,Primary care,High complexity,0.87,1881.75,1,0
+P07-E001455,P07-C00004,2024-06-30,Specialty,Moderate complexity,4.85,4346.22,2,0
+P07-E001456,P07-C00239,2025-11-28,Inpatient,Low complexity,3.37,730.08,5,1
+P07-E001457,P07-C00069,2024-05-09,Primary care,High complexity,4.46,655.0,3,0
+P07-E001458,P07-C00099,2024-04-15,Outpatient,Low complexity,6.85,629.69,7,0
+P07-E001459,P07-C00080,2025-06-18,Specialty,Moderate complexity,1.51,972.32,1,0
+P07-E001460,P07-C00381,2024-04-24,Primary care,High complexity,4.32,623.54,2,0
+P07-E001461,P07-C00407,2024-01-10,Specialty,Moderate complexity,2.95,172.22,2,0
+P07-E001462,P07-C00305,2025-02-19,Outpatient,Moderate complexity,2.82,738.7,4,0
+P07-E001463,P07-C00097,2024-11-06,Emergency,Low complexity,5.21,5127.76,5,1
+P07-E001464,P07-C00007,2025-06-10,Emergency,Moderate complexity,3.11,280.94,6,0
+P07-E001465,P07-C00138,2025-01-06,Outpatient,Low complexity,4.8,709.59,2,0
+P07-E001466,P07-C00185,2024-05-15,Emergency,High complexity,0.0,1177.89,7,1
+P07-E001467,P07-C00231,2024-01-27,Primary care,Moderate complexity,4.36,648.1,2,0
+P07-E001468,P07-C00137,2025-09-27,Specialty,High complexity,0.04,874.58,3,0
+P07-E001469,P07-C00150,2025-05-29,Emergency,Moderate complexity,0.0,861.04,4,0
+P07-E001470,P07-C00265,2024-03-25,Emergency,High complexity,4.28,433.8,4,1
+P07-E001471,P07-C00154,2024-09-19,Emergency,High complexity,2.85,595.71,3,0
+P07-E001472,P07-C00493,2025-06-06,Outpatient,Moderate complexity,3.41,569.07,3,0
+P07-E001473,P07-C00352,2025-02-28,Inpatient,Low complexity,1.3,672.3,3,0
+P07-E001474,P07-C00372,2025-11-01,Specialty,Moderate complexity,2.21,991.67,4,0
+P07-E001475,P07-C00352,2025-07-19,Emergency,Moderate complexity,3.77,1229.69,4,1
+P07-E001476,P07-C00152,2025-07-27,Specialty,High complexity,1.95,583.55,2,0
+P07-E001477,P07-C00398,2024-05-10,Inpatient,Moderate complexity,0.0,1480.24,2,0
+P07-E001478,P07-C00468,2024-12-07,Emergency,High complexity,5.74,946.64,4,0
+P07-E001479,P07-C00113,2024-10-16,Specialty,Moderate complexity,4.38,765.64,5,0
+P07-E001480,P07-C00262,2025-01-24,Emergency,High complexity,5.04,2113.71,5,0
+P07-E001481,P07-C00175,2024-09-04,Specialty,Low complexity,2.35,350.27,5,0
+P07-E001482,P07-C00129,2025-12-13,Emergency,Low complexity,2.92,766.09,2,0
+P07-E001483,P07-C00260,2024-05-31,Specialty,High complexity,2.83,785.36,4,1
+P07-E001484,P07-C00451,2025-02-07,Outpatient,Moderate complexity,4.74,593.69,3,0
+P07-E001485,P07-C00322,2024-06-23,Inpatient,Low complexity,4.96,1994.21,3,0
+P07-E001486,P07-C00419,2025-09-10,Outpatient,Moderate complexity,0.99,2842.43,4,1
+P07-E001487,P07-C00465,2025-03-12,Primary care,High complexity,2.26,1625.9,6,1
+P07-E001488,P07-C00251,2024-05-25,Inpatient,Low complexity,4.87,456.83,4,0
+P07-E001489,P07-C00511,2025-10-27,Specialty,Low complexity,2.92,790.13,4,1
+P07-E001490,P07-C00213,2025-01-02,Primary care,High complexity,3.65,513.52,1,0
+P07-E001491,P07-C00432,2024-09-12,Emergency,Moderate complexity,5.66,1352.86,3,1
+P07-E001492,P07-C00399,2025-10-04,Primary care,Moderate complexity,7.05,355.11,4,0
+P07-E001493,P07-C00111,2025-10-16,Specialty,High complexity,2.53,4744.34,3,1
+P07-E001494,P07-C00451,2025-12-13,Outpatient,High complexity,3.41,1067.94,2,0
+P07-E001495,P07-C00058,2025-08-25,Outpatient,Low complexity,5.12,1029.47,4,0
+P07-E001496,P07-C00113,2025-04-21,Specialty,Moderate complexity,3.59,468.21,3,0
+P07-E001497,P07-C00399,2024-03-02,Inpatient,Low complexity,2.97,1170.49,3,0
+P07-E001498,P07-C00167,2024-06-20,Primary care,Low complexity,3.78,325.41,4,0
+P07-E001499,P07-C00460,2024-03-20,Emergency,High complexity,1.77,1499.84,3,0
+P07-E001500,P07-C00190,2024-02-02,Emergency,Low complexity,2.84,641.07,4,0
+P07-E001501,P07-C00100,2024-09-08,Inpatient,High complexity,7.01,888.06,2,0
+P07-E001502,P07-C00306,2024-10-25,Specialty,Low complexity,0.0,6720.62,1,1
+P07-E001503,P07-C00356,2024-04-07,Specialty,High complexity,1.44,1036.62,4,0
+P07-E001504,P07-C00211,2025-07-28,Specialty,Low complexity,5.46,1366.53,4,0
+P07-E001505,P07-C00226,2024-05-11,Emergency,Moderate complexity,5.78,1290.99,9,0
+P07-E001506,P07-C00458,2025-07-07,Inpatient,Low complexity,4.74,4018.92,2,1
+P07-E001507,P07-C00271,2025-01-12,Emergency,Moderate complexity,4.39,935.69,4,0
+P07-E001508,P07-C00407,2025-05-11,Inpatient,Moderate complexity,5.44,2089.44,1,0
+P07-E001509,P07-C00058,2024-04-01,Emergency,Moderate complexity,3.83,470.32,3,0
+P07-E001510,P07-C00425,2025-09-17,Specialty,Low complexity,3.94,1308.71,2,0
+P07-E001511,P07-C00276,2025-07-28,Inpatient,Low complexity,1.45,1843.67,4,0
+P07-E001512,P07-C00420,2024-12-11,Inpatient,Low complexity,3.06,1411.72,3,0
+P07-E001513,P07-C00360,2024-10-23,Primary care,Low complexity,3.61,869.97,3,0
+P07-E001514,P07-C00210,2024-02-26,Outpatient,Low complexity,0.0,276.75,2,0
+P07-E001515,P07-C00023,2025-02-01,Outpatient,High complexity,4.09,1219.25,7,0
+P07-E001516,P07-C00196,2024-10-02,Emergency,High complexity,0.65,929.78,5,0
+P07-E001517,P07-C00279,2025-08-04,Outpatient,Low complexity,3.89,373.8,3,1
+P07-E001518,P07-C00271,2024-12-28,Inpatient,High complexity,4.31,1665.78,2,0
+P07-E001519,P07-C00289,2025-10-15,Emergency,Low complexity,5.1,1514.23,1,0
+P07-E001520,P07-C00306,2024-10-05,Primary care,Moderate complexity,2.23,1787.26,3,0
+P07-E001521,P07-C00383,2025-02-07,Outpatient,Moderate complexity,1.93,997.04,2,0
+P07-E001522,P07-C00133,2025-09-10,Emergency,Low complexity,1.72,383.92,4,0
+P07-E001523,P07-C00137,2025-04-09,Outpatient,High complexity,5.27,863.07,3,1
+P07-E001524,P07-C00041,2025-07-11,Primary care,Low complexity,4.98,243.42,3,0
+P07-E001525,P07-C00151,2025-06-18,Outpatient,High complexity,3.22,3716.57,2,0
+P07-E001526,P07-C00228,2024-08-18,Outpatient,Low complexity,,257.47,1,0
+P07-E001527,P07-C00363,2025-08-19,Emergency,Moderate complexity,4.11,847.14,1,0
+P07-E001528,P07-C00265,2025-05-15,Inpatient,Low complexity,2.43,1536.06,2,0
+P07-E001529,P07-C00112,2024-09-25,Emergency,Moderate complexity,3.17,1307.01,4,0
+P07-E001530,P07-C00497,2025-10-07,Emergency,Low complexity,0.01,837.79,2,0
+P07-E001531,P07-C00079,2024-06-16,Specialty,Moderate complexity,1.72,864.61,6,0
+P07-E001532,P07-C00186,2024-07-31,Inpatient,Low complexity,3.45,3849.33,3,1
+P07-E001533,P07-C00184,2024-02-29,Emergency,Moderate complexity,4.07,595.12,2,0
+P07-E001534,P07-C00048,2024-08-28,Primary care,Low complexity,0.2,1317.22,2,0
+P07-E001535,P07-C00126,2024-05-26,Emergency,Moderate complexity,3.24,392.92,4,0
+P07-E001536,P07-C00464,2025-09-21,Inpatient,Low complexity,4.95,504.94,3,1
+P07-E001537,P07-C00152,2025-02-14,Inpatient,Moderate complexity,0.98,881.11,6,0
+P07-E001538,P07-C00259,2025-09-22,Emergency,Low complexity,0.16,1041.58,3,0
+P07-E001539,P07-C00479,2025-12-18,Outpatient,High complexity,4.58,617.18,1,1
+P07-E001540,P07-C00050,2025-07-23,Outpatient,High complexity,5.01,2143.29,3,0
+P07-E001541,P07-C00515,2025-03-05,Emergency,Moderate complexity,1.7,933.57,1,0
+P07-E001542,P07-C00326,2025-05-28,Outpatient,Moderate complexity,2.84,619.62,2,1
+P07-E001543,P07-C00307,2025-11-30,Emergency,Low complexity,1.99,263.3,1,0
+P07-E001544,P07-C00419,2024-04-26,Emergency,Moderate complexity,0.0,328.58,4,0
+P07-E001545,P07-C00019,2024-08-06,Primary care,Low complexity,2.45,720.56,2,0
+P07-E001546,P07-C00332,2024-10-25,Outpatient,Moderate complexity,5.38,1677.04,6,0
+P07-E001547,P07-C00370,2024-01-27,Outpatient,Moderate complexity,6.38,521.7,5,1
+P07-E001548,P07-C00443,2025-06-05,Primary care,Low complexity,0.0,1741.88,1,0
+P07-E001549,P07-C00413,2024-12-18,Emergency,High complexity,4.8,380.47,4,0
+P07-E001550,P07-C00097,2025-05-25,Emergency,High complexity,2.5,3241.64,5,0
+P07-E001551,P07-C00315,2024-07-20,Outpatient,High complexity,1.83,944.69,3,0
+P07-E001552,P07-C00073,2025-04-03,Primary care,High complexity,3.18,523.77,3,0
+P07-E001553,P07-C00109,2025-01-04,Outpatient,Low complexity,2.08,497.76,3,0
+P07-E001554,P07-C00066,2024-11-23,Specialty,Low complexity,0.89,1782.58,5,0
+P07-E001555,P07-C00267,2024-11-02,Outpatient,High complexity,0.0,2081.11,1,0
+P07-E001556,P07-C00203,2025-07-18,Inpatient,Low complexity,2.51,1063.63,1,0
+P07-E001557,P07-C00315,2025-08-02,Primary care,Low complexity,6.33,915.07,2,0
+P07-E001558,P07-C00366,2024-10-31,Inpatient,High complexity,1.58,3220.72,2,0
+P07-E001559,P07-C00068,2024-11-24,Specialty,Low complexity,5.24,2865.61,2,1
+P07-E001560,P07-C00469,2024-07-19,Emergency,Moderate complexity,5.18,604.59,3,0
+P07-E001561,P07-C00182,2024-05-07,Specialty,Moderate complexity,1.79,2058.97,2,0
+P07-E001562,P07-C00384,2024-04-09,Specialty,High complexity,1.67,1349.01,4,1
+P07-E001563,P07-C00460,2024-10-08,Primary care,High complexity,2.6,1762.94,3,0
+P07-E001564,P07-C00378,2025-04-13,Specialty,Moderate complexity,2.96,834.04,3,0
+P07-E001565,P07-C00166,2024-12-19,Emergency,High complexity,3.09,308.6,4,0
+P07-E001566,P07-C00433,2024-06-07,Primary care,High complexity,4.36,741.32,2,0
+P07-E001567,P07-C00037,2024-07-05,Inpatient,Moderate complexity,1.15,585.47,3,1
+P07-E001568,P07-C00375,2024-10-21,Specialty,High complexity,0.69,1912.16,1,0
+P07-E001569,P07-C00467,2024-07-12,Emergency,High complexity,4.15,650.53,3,0
+P07-E001570,P07-C00504,2025-11-26,Primary care,Low complexity,1.92,315.19,4,0
+P07-E001571,P07-C00175,2024-03-02,Specialty,High complexity,4.34,329.41,8,1
+P07-E001572,P07-C00237,2025-07-17,Emergency,Low complexity,4.61,524.84,1,1
+P07-E001573,P07-C00204,2025-12-06,Inpatient,Low complexity,5.64,2797.58,3,0
+P07-E001574,P07-C00240,2024-03-13,Emergency,Low complexity,0.55,2596.03,6,0
+P07-E001575,P07-C00387,2024-07-23,Specialty,Moderate complexity,5.03,515.2,4,1
+P07-E001576,P07-C00291,2025-02-05,Specialty,Moderate complexity,2.18,1685.29,4,0
+P07-E001577,P07-C00514,2024-10-14,Primary care,Moderate complexity,1.75,242.75,2,0
+P07-E001578,P07-C00277,2025-04-08,Primary care,High complexity,6.1,1805.46,2,0
+P07-E001579,P07-C00049,2025-12-22,Primary care,Low complexity,4.59,1822.27,3,0
+P07-E001580,P07-C00225,2025-11-15,Emergency,High complexity,4.36,336.13,2,0
+P07-E001581,P07-C00084,2024-09-21,Outpatient,High complexity,0.35,505.44,3,0
+P07-E001582,P07-C00068,2024-11-16,Primary care,Moderate complexity,0.51,3882.84,1,1
+P07-E001583,P07-C00139,2025-09-02,Primary care,Moderate complexity,0.98,877.73,2,0
+P07-E001584,P07-C00429,2025-06-10,Emergency,Low complexity,4.38,1148.7,2,0
+P07-E001585,P07-C00287,2024-03-04,Emergency,Low complexity,8.08,726.18,2,0
+P07-E001586,P07-C00422,2025-02-03,Primary care,Moderate complexity,5.29,3939.03,2,0
+P07-E001587,P07-C00010,2025-12-08,Specialty,High complexity,6.85,798.95,1,0
+P07-E001588,P07-C00239,2025-12-27,Emergency,Moderate complexity,2.07,619.99,3,1
+P07-E001589,P07-C00294,2025-10-10,Primary care,Low complexity,2.12,449.26,1,0
+P07-E001590,P07-C00041,2024-04-21,Primary care,High complexity,4.26,745.98,1,0
+P07-E001591,P07-C00512,2024-09-20,Outpatient,Low complexity,1.64,1717.51,4,0
+P07-E001592,P07-C00107,2025-12-09,Emergency,High complexity,2.9,1607.83,4,0
+P07-E001593,P07-C00174,2025-01-20,Outpatient,Low complexity,6.2,792.95,2,0
+P07-E001594,P07-C00219,2025-07-19,Specialty,High complexity,2.72,1012.79,2,0
+P07-E001595,P07-C00076,2025-08-03,Specialty,Low complexity,0.0,6074.47,1,0
+P07-E001596,P07-C00140,2025-11-15,Inpatient,Low complexity,3.44,517.08,2,0
+P07-E001597,P07-C00342,2025-05-29,Emergency,Low complexity,4.62,645.75,2,0
+P07-E001598,P07-C00241,2025-12-21,Specialty,Moderate complexity,6.13,2555.28,3,0
+P07-E001599,P07-C00123,2025-01-30,Primary care,High complexity,0.0,3402.17,4,0
+P07-E001600,P07-C00145,2024-02-16,Inpatient,Moderate complexity,6.16,585.79,5,0
+P07-E001601,P07-C00483,2025-06-12,Primary care,Moderate complexity,2.25,919.94,2,0
+P07-E001602,P07-C00355,2025-05-25,Inpatient,Moderate complexity,3.07,297.34,2,0
+P07-E001603,P07-C00352,2025-07-05,Specialty,Low complexity,5.04,2607.85,3,0
+P07-E001604,P07-C00368,2025-04-19,Emergency,Low complexity,1.69,808.83,2,0
+P07-E001605,P07-C00117,2024-10-27,Specialty,Moderate complexity,2.07,2361.83,4,1
+P07-E001606,P07-C00490,2025-03-03,Inpatient,Moderate complexity,2.02,1562.87,5,0
+P07-E001607,P07-C00202,2024-07-30,Emergency,Low complexity,3.04,362.98,3,1
+P07-E001608,P07-C00114,2024-05-06,Emergency,High complexity,3.06,2560.85,4,1
+P07-E001609,P07-C00287,2025-03-12,Outpatient,High complexity,1.97,2161.71,4,0
+P07-E001610,P07-C00276,2025-02-16,Primary care,High complexity,0.0,990.75,4,0
+P07-E001611,P07-C00002,2025-07-25,Primary care,Low complexity,0.97,486.83,2,0
+P07-E001612,P07-C00163,2024-03-07,Inpatient,Moderate complexity,2.76,1000.87,2,0
+P07-E001613,P07-C00298,2025-03-11,Inpatient,Low complexity,0.0,3629.22,4,0
+P07-E001614,P07-C00255,2024-11-06,Outpatient,Moderate complexity,1.59,1345.37,3,0
+P07-E001615,P07-C00450,2024-07-08,Emergency,Low complexity,1.34,1252.69,2,1
+P07-E001616,P07-C00152,2025-07-17,Inpatient,Low complexity,2.04,824.9,4,0
+P07-E001617,P07-C00415,2024-07-03,Specialty,Low complexity,5.71,1019.27,7,1
+P07-E001618,P07-C00400,2025-03-07,Outpatient,Moderate complexity,1.71,1631.43,5,0
+P07-E001619,P07-C00029,2025-01-10,Outpatient,Low complexity,2.06,873.81,3,0
+P07-E001620,P07-C00303,2024-10-17,Specialty,Moderate complexity,4.2,576.43,6,0
+P07-E001621,P07-C00125,2025-05-08,Emergency,High complexity,4.97,1930.94,2,1
+P07-E001622,P07-C00062,2024-04-17,Specialty,Low complexity,3.55,736.57,6,0
+P07-E001623,P07-C00166,2025-05-25,Specialty,Low complexity,5.73,303.93,5,0
+P07-E001624,P07-C00096,2024-07-02,Outpatient,Low complexity,4.13,836.5,3,0
+P07-E001625,P07-C00232,2025-08-14,Specialty,Moderate complexity,6.03,1750.52,4,0
+P07-E001626,P07-C00450,2025-04-30,Primary care,High complexity,2.7,3017.26,3,0
+P07-E001627,P07-C00042,2024-04-25,Primary care,High complexity,7.15,781.87,4,0
+P07-E001628,P07-C00091,2025-07-22,Primary care,High complexity,2.98,1068.84,2,1
+P07-E001629,P07-C00472,2024-07-10,Inpatient,Low complexity,4.5,309.05,7,1
+P07-E001630,P07-C00336,2025-09-04,Outpatient,Moderate complexity,1.21,534.12,3,0
+P07-E001631,P07-C00359,2025-09-15,Specialty,Moderate complexity,0.57,7710.17,3,0
+P07-E001632,P07-C00463,2024-02-10,Primary care,High complexity,3.74,302.06,4,0
+P07-E001633,P07-C00487,2024-08-01,Inpatient,High complexity,1.42,797.88,2,0
+P07-E001634,P07-C00485,2025-08-07,Outpatient,Low complexity,3.67,402.85,2,0
+P07-E001635,P07-C00032,2024-04-04,Primary care,Low complexity,2.06,784.9,1,1
+P07-E001636,P07-C00167,2025-08-06,Primary care,High complexity,4.01,3790.14,3,1
+P07-E001637,P07-C00023,2024-02-16,Outpatient,High complexity,2.75,1669.87,3,0
+P07-E001638,P07-C00492,2025-04-26,Primary care,Moderate complexity,2.95,4634.46,2,1
+P07-E001639,P07-C00288,2025-04-02,Emergency,Moderate complexity,0.0,1466.47,3,1
+P07-E001640,P07-C00117,2025-10-04,Outpatient,High complexity,1.0,1355.66,4,1
+P07-E001641,P07-C00012,2024-05-10,Emergency,Moderate complexity,5.26,693.9,1,0
+P07-E001642,P07-C00022,2025-07-16,Primary care,Moderate complexity,1.95,1898.98,4,0
+P07-E001643,P07-C00239,2024-10-23,Specialty,High complexity,4.28,1074.22,4,0
+P07-E001644,P07-C00453,2024-09-29,Primary care,Low complexity,4.52,1336.35,1,1
+P07-E001645,P07-C00197,2024-08-12,Inpatient,Low complexity,0.0,771.44,2,0
+P07-E001646,P07-C00256,2024-04-24,Emergency,High complexity,2.2,602.41,2,0
+P07-E001647,P07-C00503,2024-01-11,Primary care,Low complexity,6.23,305.93,1,0
+P07-E001648,P07-C00009,2025-12-02,Primary care,High complexity,0.03,531.31,4,0
+P07-E001649,P07-C00247,2025-08-07,Primary care,Moderate complexity,0.35,322.41,4,1
+P07-E001650,P07-C00184,2024-03-10,Primary care,Low complexity,1.84,1825.85,4,0
+P07-E001651,P07-C00360,2024-09-26,Inpatient,Moderate complexity,0.0,1260.87,2,0
+P07-E001652,P07-C00299,2024-05-02,Emergency,Low complexity,0.0,1162.41,3,0
+P07-E001653,P07-C00434,2025-05-06,Specialty,Moderate complexity,1.82,160.12,2,0
+P07-E001654,P07-C00459,2025-01-02,Primary care,Moderate complexity,3.16,629.18,3,1
+P07-E001655,P07-C00387,2024-04-25,Specialty,Moderate complexity,1.9,920.02,3,0
+P07-E001656,P07-C00427,2024-09-13,Specialty,Moderate complexity,0.82,843.96,7,0
+P07-E001657,P07-C00511,2024-04-21,Outpatient,Moderate complexity,6.23,1569.98,4,0
+P07-E001658,P07-C00380,2025-10-23,Specialty,High complexity,3.05,1254.75,6,0
+P07-E001659,P07-C00290,2025-03-22,Emergency,High complexity,4.08,759.98,9,0
+P07-E001660,P07-C00446,2024-10-14,Inpatient,Low complexity,0.0,2312.22,4,0
+P07-E001661,P07-C00048,2024-05-14,Specialty,High complexity,3.83,2368.29,4,0
+P07-E001662,P07-C00402,2025-10-09,Outpatient,High complexity,3.77,722.36,5,0
+P07-E001663,P07-C00425,2024-06-14,Outpatient,Low complexity,0.39,1369.92,6,0
+P07-E001664,P07-C00396,2025-05-30,Specialty,Low complexity,0.0,452.45,2,0
+P07-E001665,P07-C00017,2025-10-20,Emergency,High complexity,3.26,492.42,4,1
+P07-E001666,P07-C00298,2025-08-09,Specialty,Moderate complexity,2.13,674.28,5,1
+P07-E001667,P07-C00221,2025-08-24,Emergency,High complexity,2.17,781.28,3,0
+P07-E001668,P07-C00096,2024-10-06,Primary care,High complexity,1.12,822.13,2,0
+P07-E001669,P07-C00436,2024-04-24,Inpatient,Moderate complexity,2.68,1108.71,2,0
+P07-E001670,P07-C00404,2025-02-02,Primary care,Low complexity,5.0,418.52,2,1
+P07-E001671,P07-C00487,2024-06-06,Specialty,Moderate complexity,2.43,831.35,3,0
+P07-E001672,P07-C00103,2025-12-29,Emergency,High complexity,3.12,1075.01,5,0
+P07-E001673,P07-C00048,2025-06-07,Emergency,Low complexity,3.15,1179.8,2,0
+P07-E001674,P07-C00315,2024-05-15,Primary care,Low complexity,1.34,466.63,2,0
+P07-E001675,P07-C00472,2025-11-15,Outpatient,High complexity,3.16,2690.34,2,1
+P07-E001676,P07-C00317,2025-11-19,Inpatient,Moderate complexity,0.0,972.47,2,1
+P07-E001677,P07-C00248,2025-10-28,Specialty,Moderate complexity,3.6,1685.2,4,0
+P07-E001678,P07-C00250,2024-05-19,Primary care,Moderate complexity,5.33,885.54,3,0
+P07-E001679,P07-C00306,2025-11-08,Primary care,Low complexity,0.89,711.52,1,0
+P07-E001680,P07-C00178,2024-07-05,Inpatient,Moderate complexity,2.11,647.41,4,0
+P07-E001681,P07-C00514,2025-05-14,Specialty,Low complexity,1.57,2029.2,3,0
+P07-E001682,P07-C00256,2025-11-15,Specialty,High complexity,0.45,1689.73,7,0
+P07-E001683,P07-C00234,2024-01-12,Primary care,Moderate complexity,4.55,715.06,2,0
+P07-E001684,P07-C00203,2025-09-02,Outpatient,High complexity,1.23,965.62,3,0
+P07-E001685,P07-C00276,2025-05-02,Primary care,Moderate complexity,3.89,591.98,4,0
+P07-E001686,P07-C00323,2024-05-15,Inpatient,Moderate complexity,1.37,1208.2,2,1
+P07-E001687,P07-C00205,2025-01-08,Outpatient,Low complexity,2.19,670.75,7,0
+P07-E001688,P07-C00060,2024-09-21,Inpatient,Moderate complexity,3.35,423.77,4,0
+P07-E001689,P07-C00500,2025-07-29,Outpatient,High complexity,3.91,904.49,1,0
+P07-E001690,P07-C00150,2025-04-03,Specialty,Low complexity,4.06,386.46,4,0
+P07-E001691,P07-C00139,2024-04-21,Outpatient,High complexity,3.55,1329.74,2,0
+P07-E001692,P07-C00246,2024-04-25,Inpatient,High complexity,2.02,2484.63,1,0
+P07-E001693,P07-C00193,2024-06-13,Primary care,Moderate complexity,0.83,622.76,1,0
+P07-E001694,P07-C00494,2025-11-22,Primary care,Low complexity,3.12,518.82,5,0
+P07-E001695,P07-C00269,2025-09-28,Primary care,Moderate complexity,2.35,193.15,1,0
+P07-E001696,P07-C00396,2025-08-25,Primary care,Moderate complexity,4.59,349.9,6,0
+P07-E001697,P07-C00057,2025-09-01,Primary care,Moderate complexity,1.52,5613.41,5,0
+P07-E001698,P07-C00373,2024-02-16,Emergency,High complexity,2.34,1128.65,2,0
+P07-E001699,P07-C00198,2025-12-07,Primary care,Moderate complexity,5.42,259.01,1,0
+P07-E001700,P07-C00058,2024-07-18,Emergency,Low complexity,1.91,863.8,4,0
+P07-E001701,P07-C00033,2024-12-26,Primary care,Low complexity,2.79,1038.1,2,0
+P07-E001702,P07-C00410,2025-04-18,Primary care,Low complexity,3.06,645.68,1,0
+P07-E001703,P07-C00363,2024-10-28,Primary care,Low complexity,0.0,419.84,3,1
+P07-E001704,P07-C00116,2025-08-26,Primary care,Moderate complexity,0.0,1368.9,2,1
+P07-E001705,P07-C00231,2024-01-13,Outpatient,Moderate complexity,0.29,246.49,5,0
+P07-E001706,P07-C00259,2024-01-31,Primary care,Moderate complexity,2.03,949.18,2,0
+P07-E001707,P07-C00105,2025-05-13,Emergency,Moderate complexity,1.62,374.02,3,0
+P07-E001708,P07-C00351,2024-04-17,Outpatient,Low complexity,3.04,1157.76,2,0
+P07-E001709,P07-C00459,2025-12-03,Primary care,Low complexity,2.05,472.81,3,0
+P07-E001710,P07-C00048,2024-03-18,Inpatient,Low complexity,1.17,307.42,5,0
+P07-E001711,P07-C00486,2024-02-13,Primary care,Low complexity,4.07,361.8,1,0
+P07-E001712,P07-C00377,2024-06-19,Inpatient,High complexity,4.09,1130.65,3,0
+P07-E001713,P07-C00369,2024-04-22,Specialty,High complexity,3.59,3121.78,3,0
+P07-E001714,P07-C00294,2024-12-27,Emergency,Low complexity,1.55,1560.59,1,0
+P07-E001715,P07-C00354,2025-03-20,Outpatient,High complexity,1.12,633.82,3,0
+P07-E001716,P07-C00442,2025-04-14,Outpatient,High complexity,0.0,1442.69,3,0
+P07-E001717,P07-C00151,2024-03-03,Emergency,Moderate complexity,3.1,320.2,3,0
+P07-E001718,P07-C00285,2025-04-21,Emergency,Moderate complexity,2.81,847.36,2,0
+P07-E001719,P07-C00415,2024-01-09,Emergency,High complexity,4.45,516.29,4,0
+P07-E001720,P07-C00371,2024-01-18,Outpatient,Low complexity,1.26,1512.61,7,0
+P07-E001721,P07-C00301,2024-09-21,Outpatient,Low complexity,2.68,1109.03,2,0
+P07-E001722,P07-C00443,2025-04-27,Primary care,Moderate complexity,0.96,4472.69,4,1
+P07-E001723,P07-C00300,2024-04-25,Emergency,Low complexity,4.1,263.18,2,0
+P07-E001724,P07-C00061,2025-01-19,Primary care,Low complexity,3.79,718.3,5,0
+P07-E001725,P07-C00103,2024-05-12,Specialty,Low complexity,6.42,754.25,2,0
+P07-E001726,P07-C00430,2025-12-03,Inpatient,Low complexity,2.08,1092.2,6,0
+P07-E001727,P07-C00507,2025-07-30,Inpatient,Moderate complexity,0.0,558.96,4,0
+P07-E001728,P07-C00439,2025-09-22,Outpatient,Low complexity,5.28,491.81,3,0
+P07-E001729,P07-C00506,2024-06-04,Inpatient,Low complexity,2.97,1249.65,2,0
+P07-E001730,P07-C00050,2024-08-08,Primary care,High complexity,3.23,1440.38,3,0
+P07-E001731,P07-C00351,2025-10-15,Specialty,Low complexity,3.59,1017.97,4,0
+P07-E001732,P07-C00495,2024-04-20,Inpatient,Moderate complexity,7.18,614.6,4,0
+P07-E001733,P07-C00189,2025-10-07,Inpatient,Low complexity,0.0,835.25,3,0
+P07-E001734,P07-C00476,2024-11-15,Emergency,Moderate complexity,3.18,465.86,3,1
+P07-E001735,P07-C00512,2024-04-22,Inpatient,High complexity,8.02,4009.54,3,1
+P07-E001736,P07-C00288,2025-12-02,Outpatient,Moderate complexity,0.0,449.14,6,0
+P07-E001737,P07-C00400,2025-08-27,Specialty,Low complexity,2.25,1327.66,1,0
+P07-E001738,P07-C00385,2025-08-22,Emergency,High complexity,2.23,557.73,3,1
+P07-E001739,P07-C00232,2024-02-13,Outpatient,High complexity,3.88,612.38,5,1
+P07-E001740,P07-C00129,2024-05-31,Inpatient,Low complexity,1.62,1267.99,1,0
+P07-E001741,P07-C00064,2024-12-05,Emergency,Moderate complexity,3.81,584.9,5,0
+P07-E001742,P07-C00520,2025-09-19,Inpatient,Low complexity,2.68,532.43,4,1
+P07-E001743,P07-C00211,2024-09-07,Emergency,Low complexity,3.02,735.81,1,0
+P07-E001744,P07-C00195,2024-06-17,Outpatient,Moderate complexity,3.32,2121.23,5,0
+P07-E001745,P07-C00386,2024-03-28,Specialty,Moderate complexity,1.05,1032.23,5,0
+P07-E001746,P07-C00440,2024-09-14,Primary care,Low complexity,3.47,358.29,5,0
+P07-E001747,P07-C00512,2024-12-19,Emergency,Low complexity,2.81,371.01,5,0
+P07-E001748,P07-C00363,2025-11-05,Outpatient,Low complexity,0.0,1478.0,2,0
+P07-E001749,P07-C00003,2024-01-07,Specialty,Low complexity,4.05,958.0,2,1
+P07-E001750,P07-C00156,2025-09-06,Specialty,High complexity,1.93,1097.78,2,0
+P07-E001751,P07-C00367,2025-11-04,Emergency,Moderate complexity,2.27,720.42,4,0
+P07-E001752,P07-C00100,2024-11-02,Outpatient,Moderate complexity,7.7,4060.86,2,0
+P07-E001753,P07-C00274,2025-10-11,Specialty,High complexity,2.86,774.92,4,0
+P07-E001754,P07-C00367,2025-08-13,Specialty,High complexity,2.04,362.59,2,0
+P07-E001755,P07-C00092,2025-06-11,Emergency,High complexity,4.69,2992.07,5,1
+P07-E001756,P07-C00076,2024-04-04,Primary care,Low complexity,3.72,314.36,2,0
+P07-E001757,P07-C00515,2024-06-20,Emergency,Low complexity,8.41,2012.92,7,1
+P07-E001758,P07-C00050,2024-08-24,Specialty,Moderate complexity,0.0,644.49,5,1
+P07-E001759,P07-C00386,2024-05-13,Inpatient,High complexity,1.47,329.1,3,0
+P07-E001760,P07-C00265,2025-03-26,Outpatient,High complexity,1.16,187.21,5,1
+P07-E001761,P07-C00337,2024-04-21,Primary care,Moderate complexity,4.21,1574.07,2,0
+P07-E001762,P07-C00293,2025-05-10,Inpatient,High complexity,2.25,843.46,3,0
+P07-E001763,P07-C00385,2025-04-22,Primary care,Low complexity,6.92,993.17,6,0
+P07-E001764,P07-C00458,2024-03-04,Inpatient,Moderate complexity,0.0,1488.67,4,0
+P07-E001765,P07-C00240,2024-05-31,Primary care,High complexity,6.0,1225.83,2,0
+P07-E001766,P07-C00449,2024-09-26,Primary care,Moderate complexity,2.03,697.74,5,0
+P07-E001767,P07-C00182,2025-08-06,Primary care,Low complexity,3.06,1001.19,4,0
+P07-E001768,P07-C00457,2025-02-28,Emergency,Moderate complexity,1.52,120.79,2,1
+P07-E001769,P07-C00276,2024-10-17,Inpatient,Moderate complexity,3.9,214.42,2,0
+P07-E001770,P07-C00047,2024-03-27,Outpatient,Low complexity,4.51,915.46,4,0
+P07-E001771,P07-C00177,2024-09-03,Outpatient,Low complexity,1.28,1096.66,2,0
+P07-E001772,P07-C00261,2024-06-14,Primary care,Low complexity,1.1,460.9,2,0
+P07-E001773,P07-C00060,2025-02-21,Inpatient,Moderate complexity,3.27,461.27,5,0
+P07-E001774,P07-C00201,2024-09-13,Emergency,Low complexity,0.23,3566.64,3,0
+P07-E001775,P07-C00024,2025-03-30,Outpatient,Low complexity,1.55,143.43,4,0
+P07-E001776,P07-C00033,2025-09-21,Primary care,High complexity,2.94,673.89,3,0
+P07-E001777,P07-C00452,2025-07-03,Inpatient,Moderate complexity,4.25,455.06,6,0
+P07-E001778,P07-C00240,2025-05-15,Emergency,High complexity,3.09,982.89,5,1
+P07-E001779,P07-C00279,2024-09-09,Primary care,Low complexity,3.01,1560.59,2,0
+P07-E001780,P07-C00375,2024-06-12,Outpatient,Low complexity,2.08,635.8,3,0
+P07-E001781,P07-C00231,2024-06-01,Specialty,Low complexity,1.23,1229.6,3,0
+P07-E001782,P07-C00340,2024-04-08,Inpatient,Low complexity,1.39,1123.03,4,0
+P07-E001783,P07-C00448,2025-01-14,Emergency,High complexity,0.28,731.87,4,0
+P07-E001784,P07-C00295,2025-07-22,Outpatient,High complexity,7.83,3416.12,3,0
+P07-E001785,P07-C00376,2025-12-24,Inpatient,Moderate complexity,2.95,537.39,2,0
+P07-E001786,P07-C00251,2024-12-13,Inpatient,Moderate complexity,3.43,3546.75,4,0
+P07-E001787,P07-C00457,2024-11-07,Emergency,Moderate complexity,2.82,1381.23,2,0
+P07-E001788,P07-C00038,2024-05-18,Primary care,Low complexity,5.85,1007.23,3,1
+P07-E001789,P07-C00388,2025-06-05,Outpatient,High complexity,0.0,462.86,4,0
+P07-E001790,P07-C00072,2025-08-07,Specialty,Moderate complexity,3.77,1161.14,3,0
+P07-E001791,P07-C00058,2024-02-04,Specialty,Low complexity,5.29,1029.36,4,0
+P07-E001792,P07-C00481,2025-11-18,Inpatient,Moderate complexity,0.78,259.1,3,0
+P07-E001793,P07-C00288,2024-06-14,Primary care,Moderate complexity,5.16,672.61,1,0
+P07-E001794,P07-C00182,2024-05-10,Specialty,High complexity,1.12,4758.43,5,0
+P07-E001795,P07-C00344,2025-03-05,Inpatient,Low complexity,0.3,1322.81,2,0
+P07-E001796,P07-C00091,2025-12-13,Specialty,Moderate complexity,4.29,3952.35,6,0
+P07-E001797,P07-C00014,2025-01-27,Inpatient,Moderate complexity,6.3,1113.34,6,0
+P07-E001798,P07-C00334,2024-04-17,Specialty,High complexity,4.54,1996.08,4,0
+P07-E001799,P07-C00337,2025-10-11,Emergency,Low complexity,6.09,2058.33,3,0
+P07-E001800,P07-C00393,2024-09-05,Emergency,High complexity,3.38,1515.9,4,0
+P07-E001801,P07-C00484,2025-10-25,Specialty,High complexity,2.15,1010.54,4,0
+P07-E001802,P07-C00106,2024-04-04,Primary care,High complexity,7.61,806.39,1,0
+P07-E001803,P07-C00362,2024-11-11,Inpatient,Moderate complexity,3.47,1095.99,1,0
+P07-E001804,P07-C00168,2025-11-24,Primary care,Moderate complexity,0.61,1219.72,2,0
+P07-E001805,P07-C00061,2025-08-13,Outpatient,Low complexity,1.22,155.41,1,0
+P07-E001806,P07-C00485,2024-11-22,Outpatient,Moderate complexity,2.36,1325.47,1,1
+P07-E001807,P07-C00333,2024-12-11,Primary care,Low complexity,3.96,1370.61,2,0
+P07-E001808,P07-C00117,2024-07-23,Primary care,Moderate complexity,1.07,500.98,3,1
+P07-E001809,P07-C00258,2024-03-22,Inpatient,Low complexity,3.65,791.5,1,0
+P07-E001810,P07-C00115,2024-02-24,Primary care,Moderate complexity,0.59,1213.14,3,1
+P07-E001811,P07-C00099,2024-05-31,Primary care,High complexity,4.83,730.41,2,0
+P07-E001812,P07-C00474,2025-06-12,Primary care,Low complexity,6.8,1227.66,3,0
+P07-E001813,P07-C00466,2025-03-12,Emergency,Moderate complexity,3.0,341.64,6,0
+P07-E001814,P07-C00208,2024-11-24,Specialty,High complexity,1.81,934.25,4,0
+P07-E001815,P07-C00474,2025-03-01,Outpatient,Moderate complexity,5.38,4729.95,7,0
+P07-E001816,P07-C00394,2024-03-25,Primary care,Moderate complexity,2.56,618.42,3,1
+P07-E001817,P07-C00198,2025-12-19,Emergency,High complexity,0.18,562.15,1,0
+P07-E001818,P07-C00381,2025-09-02,Specialty,Low complexity,4.58,778.5,5,0
+P07-E001819,P07-C00047,2025-09-04,Emergency,Low complexity,1.57,1404.62,5,1
+P07-E001820,P07-C00074,2024-09-09,Outpatient,Moderate complexity,6.88,498.84,6,0
+P07-E001821,P07-C00165,2024-08-25,Primary care,Moderate complexity,3.34,511.41,4,0
+P07-E001822,P07-C00487,2025-05-05,Inpatient,Low complexity,4.21,618.58,3,0
+P07-E001823,P07-C00112,2025-01-21,Outpatient,High complexity,2.54,2496.47,3,0
+P07-E001824,P07-C00139,2025-11-22,Specialty,Moderate complexity,3.58,2259.77,5,1
+P07-E001825,P07-C00046,2024-03-05,Specialty,Moderate complexity,5.21,460.49,3,0
+P07-E001826,P07-C00033,2024-05-17,Specialty,High complexity,7.39,1701.31,3,0
+P07-E001827,P07-C00412,2025-08-15,Emergency,High complexity,5.92,1132.97,1,0
+P07-E001828,P07-C00494,2024-10-31,Primary care,Moderate complexity,0.93,1414.36,2,1
+P07-E001829,P07-C00473,2025-11-22,Specialty,Low complexity,3.76,349.8,3,0
+P07-E001830,P07-C00481,2025-04-25,Specialty,Low complexity,2.68,2101.67,1,0
+P07-E001831,P07-C00385,2024-11-08,Outpatient,Moderate complexity,1.95,777.92,3,0
+P07-E001832,P07-C00459,2024-06-27,Primary care,Moderate complexity,0.09,900.17,1,0
+P07-E001833,P07-C00257,2025-01-26,Emergency,Moderate complexity,4.04,811.29,2,1
+P07-E001834,P07-C00520,2025-07-10,Emergency,High complexity,3.21,1067.08,4,0
+P07-E001835,P07-C00300,2025-06-08,Inpatient,Moderate complexity,3.38,2645.42,2,0
+P07-E001836,P07-C00070,2024-10-03,Primary care,Low complexity,6.48,3334.42,4,0
+P07-E001837,P07-C00001,2025-08-11,Specialty,Moderate complexity,0.82,1955.04,8,0
+P07-E001838,P07-C00017,2025-12-10,Emergency,Moderate complexity,,453.88,5,0
+P07-E001839,P07-C00058,2024-09-16,Primary care,High complexity,1.55,733.99,4,0
+P07-E001840,P07-C00042,2024-01-17,Inpatient,Moderate complexity,3.06,492.44,3,1
+P07-E001841,P07-C00129,2025-05-24,Primary care,Low complexity,2.06,759.89,5,0
+P07-E001842,P07-C00455,2025-02-06,Emergency,Moderate complexity,1.8,3009.96,3,0
+P07-E001843,P07-C00049,2024-07-07,Emergency,High complexity,7.38,1773.45,4,1
+P07-E001844,P07-C00431,2024-09-06,Inpatient,Moderate complexity,2.54,805.41,1,0
+P07-E001845,P07-C00336,2024-07-28,Inpatient,Low complexity,3.43,68.53,4,1
+P07-E001846,P07-C00084,2025-05-04,Inpatient,Moderate complexity,3.59,4490.72,1,0
+P07-E001847,P07-C00085,2024-03-28,Primary care,Low complexity,3.82,772.27,8,0
+P07-E001848,P07-C00229,2025-06-10,Inpatient,High complexity,0.0,1364.68,3,0
+P07-E001849,P07-C00210,2025-03-05,Outpatient,Moderate complexity,0.16,459.65,3,0
+P07-E001850,P07-C00274,2025-03-04,Outpatient,Moderate complexity,4.44,488.23,5,1
+P07-E001851,P07-C00163,2025-01-08,Inpatient,Moderate complexity,1.39,340.02,4,0
+P07-E001852,P07-C00450,2024-12-02,Outpatient,Moderate complexity,2.13,1456.52,3,0
+P07-E001853,P07-C00270,2025-04-18,Inpatient,Low complexity,5.53,1149.67,3,0
+P07-E001854,P07-C00431,2025-03-26,Primary care,Low complexity,4.01,480.57,2,1
+P07-E001855,P07-C00359,2025-02-25,Outpatient,Moderate complexity,0.48,3403.94,3,0
+P07-E001856,P07-C00035,2024-12-16,Specialty,Moderate complexity,2.68,14345.16,4,0
+P07-E001857,P07-C00077,2024-12-19,Emergency,Moderate complexity,2.76,2897.3,8,1
+P07-E001858,P07-C00372,2025-07-09,Inpatient,Low complexity,3.15,2373.9,3,1
+P07-E001859,P07-C00064,2024-12-26,Outpatient,High complexity,4.32,992.31,3,1
+P07-E001860,P07-C00374,2024-08-30,Primary care,Moderate complexity,5.64,863.72,3,1
+P07-E001861,P07-C00344,2025-03-12,Emergency,Low complexity,5.25,1201.41,5,0
+P07-E001862,P07-C00313,2025-04-21,Emergency,High complexity,3.59,2756.31,3,1
+P07-E001863,P07-C00255,2024-01-31,Primary care,Low complexity,3.98,603.85,5,1
+P07-E001864,P07-C00392,2024-11-04,Emergency,High complexity,4.07,1417.05,4,0
+P07-E001865,P07-C00401,2025-09-13,Primary care,High complexity,3.65,1543.58,4,1
+P07-E001866,P07-C00520,2025-10-29,Primary care,Moderate complexity,5.9,1111.52,2,1
+P07-E001867,P07-C00311,2025-01-31,Primary care,Low complexity,1.61,707.15,2,0
+P07-E001868,P07-C00099,2025-04-01,Inpatient,High complexity,5.44,1685.44,3,0
+P07-E001869,P07-C00370,2025-08-01,Outpatient,High complexity,3.11,793.99,4,0
+P07-E001870,P07-C00105,2024-08-10,Specialty,High complexity,2.58,1474.8,4,0
+P07-E001871,P07-C00024,2024-09-01,Inpatient,Moderate complexity,1.39,689.88,7,0
+P07-E001872,P07-C00289,2024-12-09,Primary care,High complexity,4.29,820.23,2,0
+P07-E001873,P07-C00139,2025-08-20,Emergency,Moderate complexity,5.48,436.46,3,0
+P07-E001874,P07-C00058,2025-05-21,Outpatient,Moderate complexity,0.38,1138.8,4,0
+P07-E001875,P07-C00514,2024-06-18,Primary care,Low complexity,1.87,346.76,1,0
+P07-E001876,P07-C00346,2024-09-05,Specialty,Moderate complexity,4.67,600.16,6,0
+P07-E001877,P07-C00189,2025-11-30,Inpatient,Moderate complexity,4.08,907.64,4,0
+P07-E001878,P07-C00194,2024-01-26,Specialty,High complexity,2.35,1478.17,2,0
+P07-E001879,P07-C00230,2024-04-25,Specialty,High complexity,3.25,1479.41,3,1
+P07-E001880,P07-C00017,2024-02-22,Inpatient,High complexity,0.0,1981.98,4,0
+P07-E001881,P07-C00140,2025-06-05,Specialty,High complexity,4.03,464.85,4,0
+P07-E001882,P07-C00194,2024-12-08,Inpatient,Moderate complexity,0.49,289.26,5,0
+P07-E001883,P07-C00469,2024-11-22,Inpatient,High complexity,6.83,911.98,2,0
+P07-E001884,P07-C00380,2024-02-10,Primary care,Moderate complexity,5.48,1411.56,2,0
+P07-E001885,P07-C00472,2024-09-21,Outpatient,Moderate complexity,,1902.3,5,0
+P07-E001886,P07-C00459,2025-04-07,Primary care,High complexity,0.0,635.25,3,0
+P07-E001887,P07-C00436,2024-05-19,Outpatient,Moderate complexity,4.59,964.15,4,0
+P07-E001888,P07-C00066,2024-02-05,Emergency,Low complexity,3.57,868.63,4,1
+P07-E001889,P07-C00035,2025-10-26,Emergency,Low complexity,1.71,2466.55,2,1
+P07-E001890,P07-C00511,2024-06-09,Outpatient,High complexity,1.67,336.9,6,0
+P07-E001891,P07-C00140,2024-10-01,Emergency,Moderate complexity,2.74,690.91,3,0
+P07-E001892,P07-C00394,2024-05-18,Primary care,Moderate complexity,1.18,2835.87,5,0
+P07-E001893,P07-C00128,2024-02-14,Outpatient,Moderate complexity,2.67,1231.3,5,0
+P07-E001894,P07-C00091,2025-07-07,Inpatient,High complexity,0.29,1730.94,1,0
+P07-E001895,P07-C00228,2024-06-19,Primary care,Low complexity,3.73,491.18,1,0
+P07-E001896,P07-C00029,2025-05-04,Outpatient,Moderate complexity,0.06,1199.51,2,1
+P07-E001897,P07-C00067,2024-06-04,Primary care,Low complexity,1.08,425.47,3,0
+P07-E001898,P07-C00037,2025-10-10,Inpatient,Low complexity,2.99,163.42,3,0
+P07-E001899,P07-C00359,2024-05-12,Specialty,Low complexity,2.07,587.88,1,0
+P07-E001900,P07-C00145,2024-11-17,Emergency,High complexity,6.95,1093.08,4,0
+P07-E001901,P07-C00140,2025-06-26,Specialty,Low complexity,5.36,1665.18,4,0
+P07-E001902,P07-C00180,2025-10-28,Primary care,Low complexity,1.05,674.74,4,0
+P07-E001903,P07-C00040,2025-02-28,Specialty,High complexity,5.54,234.68,5,1
+P07-E001904,P07-C00459,2025-10-16,Inpatient,Moderate complexity,3.04,861.7,5,1
+P07-E001905,P07-C00420,2025-09-02,Emergency,Low complexity,2.79,1868.25,4,0
+P07-E001906,P07-C00318,2025-03-05,Emergency,High complexity,5.82,1060.9,3,0
+P07-E001907,P07-C00131,2024-08-17,Specialty,Low complexity,0.0,1320.18,3,0
+P07-E001908,P07-C00050,2024-02-10,Specialty,Low complexity,1.91,282.11,9,0
+P07-E001909,P07-C00273,2024-05-20,Specialty,High complexity,4.71,648.66,4,1
+P07-E001910,P07-C00048,2024-10-08,Inpatient,Low complexity,2.99,1892.86,3,0
+P07-E001911,P07-C00215,2024-04-02,Outpatient,Moderate complexity,1.32,501.26,2,0
+P07-E001912,P07-C00463,2024-09-17,Specialty,Low complexity,2.4,840.41,7,1
+P07-E001913,P07-C00465,2024-05-16,Outpatient,High complexity,4.6,936.85,2,0
+P07-E001914,P07-C00499,2025-06-28,Outpatient,Low complexity,1.12,2381.25,3,0
+P07-E001915,P07-C00389,2024-11-25,Emergency,Moderate complexity,3.24,526.66,5,0
+P07-E001916,P07-C00472,2024-04-22,Specialty,Moderate complexity,2.65,1261.46,3,1
+P07-E001917,P07-C00366,2025-08-28,Inpatient,Low complexity,3.87,416.03,3,0
+P07-E001918,P07-C00362,2025-12-23,Emergency,High complexity,4.3,3331.09,3,1
+P07-E001919,P07-C00233,2024-04-30,Specialty,High complexity,5.31,1758.89,7,0
+P07-E001920,P07-C00004,2024-12-05,Inpatient,High complexity,0.0,185.63,1,1
+P07-E001921,P07-C00137,2025-05-20,Specialty,Moderate complexity,3.41,2490.41,3,0
+P07-E001922,P07-C00104,2024-08-07,Primary care,Low complexity,1.66,4566.68,1,0
+P07-E001923,P07-C00279,2024-03-22,Specialty,Moderate complexity,3.38,1254.06,3,1
+P07-E001924,P07-C00065,2025-03-27,Specialty,Moderate complexity,4.22,924.98,3,1
+P07-E001925,P07-C00193,2024-06-10,Primary care,Moderate complexity,0.62,960.72,2,0
+P07-E001926,P07-C00146,2025-07-29,Emergency,High complexity,1.89,1469.15,3,0
+P07-E001927,P07-C00314,2024-12-04,Emergency,Low complexity,3.46,1197.44,5,0
+P07-E001928,P07-C00288,2025-08-02,Emergency,Low complexity,5.16,1630.8,6,0
+P07-E001929,P07-C00022,2024-03-17,Outpatient,Low complexity,2.9,962.72,4,0
+P07-E001930,P07-C00314,2025-10-29,Primary care,Low complexity,2.58,997.45,5,1
+P07-E001931,P07-C00124,2024-10-31,Specialty,High complexity,2.36,595.02,5,0
+P07-E001932,P07-C00284,2024-07-26,Specialty,Moderate complexity,2.24,948.84,1,0
+P07-E001933,P07-C00442,2024-09-26,Specialty,Low complexity,2.1,1785.33,1,0
+P07-E001934,P07-C00146,2024-04-13,Inpatient,Low complexity,0.0,427.96,3,0
+P07-E001935,P07-C00127,2025-12-19,Specialty,Low complexity,1.35,1896.83,2,0
+P07-E001936,P07-C00313,2025-03-23,Emergency,Low complexity,3.21,2269.96,4,0
+P07-E001937,P07-C00060,2025-10-30,Inpatient,Moderate complexity,1.38,3808.95,3,0
+P07-E001938,P07-C00178,2025-02-04,Outpatient,High complexity,2.79,997.67,3,0
+P07-E001939,P07-C00068,2024-07-28,Outpatient,Moderate complexity,2.51,401.57,5,0
+P07-E001940,P07-C00494,2025-08-29,Outpatient,Low complexity,3.32,1378.99,1,0
+P07-E001941,P07-C00181,2025-06-17,Specialty,Low complexity,4.52,7043.94,4,0
+P07-E001942,P07-C00414,2024-09-11,Outpatient,Moderate complexity,2.68,760.23,2,0
+P07-E001943,P07-C00194,2024-02-07,Specialty,Low complexity,0.0,993.44,2,0
+P07-E001944,P07-C00133,2024-07-02,Specialty,Moderate complexity,4.45,1006.21,3,0
+P07-E001945,P07-C00291,2024-01-18,Outpatient,Moderate complexity,0.0,504.2,3,0
+P07-E001946,P07-C00138,2025-02-10,Specialty,Low complexity,,1039.75,2,0
+P07-E001947,P07-C00225,2025-02-14,Emergency,High complexity,2.83,4344.97,3,0
+P07-E001948,P07-C00255,2024-10-03,Emergency,High complexity,3.26,300.71,2,1
+P07-E001949,P07-C00431,2024-03-19,Inpatient,High complexity,3.73,2032.18,4,0
+P07-E001950,P07-C00175,2024-01-30,Inpatient,High complexity,4.67,3662.14,5,1
+P07-E001951,P07-C00161,2024-02-20,Primary care,High complexity,1.73,397.93,2,1
+P07-E001952,P07-C00308,2024-05-26,Primary care,Low complexity,4.81,593.81,2,1
+P07-E001953,P07-C00259,2025-03-06,Specialty,Moderate complexity,4.07,452.18,6,0
+P07-E001954,P07-C00033,2024-08-25,Primary care,High complexity,3.16,598.28,4,0
+P07-E001955,P07-C00222,2024-09-09,Emergency,Low complexity,4.71,363.5,3,0
+P07-E001956,P07-C00142,2024-05-01,Inpatient,Low complexity,4.94,3967.01,3,0
+P07-E001957,P07-C00402,2024-07-05,Inpatient,Moderate complexity,3.83,2330.55,6,0
+P07-E001958,P07-C00506,2024-03-30,Emergency,Low complexity,0.21,939.0,5,0
+P07-E001959,P07-C00207,2025-11-24,Primary care,Low complexity,4.06,1127.48,2,0
+P07-E001960,P07-C00321,2024-07-04,Outpatient,High complexity,1.27,547.29,3,0
+P07-E001961,P07-C00217,2025-03-15,Emergency,Moderate complexity,5.34,1072.67,4,0
+P07-E001962,P07-C00306,2025-06-13,Inpatient,Moderate complexity,0.0,948.85,2,0
+P07-E001963,P07-C00319,2025-03-07,Emergency,Low complexity,1.67,459.65,3,0
+P07-E001964,P07-C00230,2025-07-07,Inpatient,Low complexity,1.29,498.9,4,0
+P07-E001965,P07-C00049,2025-12-30,Outpatient,Moderate complexity,2.69,1976.51,2,0
+P07-E001966,P07-C00162,2025-12-04,Specialty,Low complexity,2.85,2635.2,2,0
+P07-E001967,P07-C00038,2024-04-19,Specialty,High complexity,2.69,297.8,7,1
+P07-E001968,P07-C00466,2025-07-21,Specialty,Moderate complexity,2.04,870.74,3,0
+P07-E001969,P07-C00165,2024-09-12,Outpatient,Low complexity,3.78,2393.04,2,0
+P07-E001970,P07-C00266,2024-02-25,Emergency,High complexity,2.27,125.46,3,1
+P07-E001971,P07-C00177,2024-07-23,Emergency,Low complexity,1.86,1207.36,2,0
+P07-E001972,P07-C00160,2024-06-18,Inpatient,Moderate complexity,2.14,726.07,2,0
+P07-E001973,P07-C00144,2025-07-05,Inpatient,Low complexity,4.58,408.01,4,1
+P07-E001974,P07-C00334,2025-09-05,Inpatient,Moderate complexity,2.36,691.02,1,0
+P07-E001975,P07-C00389,2024-05-26,Outpatient,Low complexity,,2476.55,2,0
+P07-E001976,P07-C00500,2025-04-28,Primary care,High complexity,2.56,692.57,6,0
+P07-E001977,P07-C00434,2025-09-06,Primary care,High complexity,0.16,638.88,3,1
+P07-E001978,P07-C00018,2024-10-05,Inpatient,High complexity,4.15,735.49,9,0
+P07-E001979,P07-C00004,2024-03-13,Emergency,Moderate complexity,2.67,534.9,2,0
+P07-E001980,P07-C00102,2025-12-08,Primary care,High complexity,0.16,1183.32,2,0
+P07-E001981,P07-C00075,2024-09-14,Inpatient,Moderate complexity,2.58,1053.74,3,0
+P07-E001982,P07-C00350,2024-12-08,Outpatient,Moderate complexity,4.6,3970.36,5,0
+P07-E001983,P07-C00331,2024-07-03,Primary care,Moderate complexity,4.26,1414.17,3,0
+P07-E001984,P07-C00324,2024-05-03,Specialty,High complexity,0.32,769.1,4,0
+P07-E001985,P07-C00387,2024-02-01,Primary care,Moderate complexity,1.37,1409.64,3,1
+P07-E001986,P07-C00435,2024-08-28,Primary care,Low complexity,4.33,1936.16,3,0
+P07-E001987,P07-C00370,2024-02-29,Primary care,Moderate complexity,3.92,763.28,7,0
+P07-E001988,P07-C00380,2025-06-24,Specialty,Moderate complexity,5.32,1737.55,6,0
+P07-E001989,P07-C00290,2025-03-15,Primary care,High complexity,4.52,776.49,3,0
+P07-E001990,P07-C00026,2024-04-11,Emergency,High complexity,1.27,2113.08,3,0
+P07-E001991,P07-C00434,2024-04-03,Emergency,Moderate complexity,2.12,383.28,2,0
+P07-E001992,P07-C00247,2024-10-08,Primary care,Low complexity,8.11,771.42,2,0
+P07-E001993,P07-C00384,2024-05-15,Emergency,High complexity,2.27,1437.98,2,1
+P07-E001994,P07-C00053,2024-08-10,Emergency,Low complexity,2.86,1007.06,1,0
+P07-E001995,P07-C00267,2025-02-12,Outpatient,Low complexity,2.55,1263.37,3,0
+P07-E001996,P07-C00316,2024-02-15,Inpatient,Low complexity,5.71,960.03,4,0
+P07-E001997,P07-C00106,2024-03-02,Emergency,Moderate complexity,4.28,543.03,5,0
+P07-E001998,P07-C00346,2024-09-30,Primary care,Moderate complexity,1.9,436.63,4,0
+P07-E001999,P07-C00148,2024-06-19,Primary care,Moderate complexity,3.73,672.56,3,0
+P07-E002000,P07-C00025,2024-11-23,Outpatient,High complexity,1.32,785.5,3,0
+P07-E002001,P07-C00228,2024-06-12,Specialty,High complexity,1.43,1340.44,5,1
+P07-E002002,P07-C00489,2025-03-24,Outpatient,High complexity,5.6,2401.34,3,0
+P07-E002003,P07-C00415,2024-08-22,Outpatient,Low complexity,3.95,769.21,3,0
+P07-E002004,P07-C00342,2025-12-02,Inpatient,Low complexity,5.35,1566.71,2,0
+P07-E002005,P07-C00392,2024-08-26,Inpatient,High complexity,0.74,4236.26,3,0
+P07-E002006,P07-C00417,2025-01-25,Primary care,Low complexity,2.98,1729.74,2,1
+P07-E002007,P07-C00008,2025-05-09,Primary care,High complexity,2.17,389.59,4,0
+P07-E002008,P07-C00026,2024-01-26,Primary care,High complexity,4.91,1447.71,1,0
+P07-E002009,P07-C00076,2024-05-24,Emergency,Low complexity,4.68,1888.2,1,1
+P07-E002010,P07-C00168,2024-08-26,Emergency,Low complexity,3.93,1561.04,7,0
+P07-E002011,P07-C00226,2025-02-11,Emergency,Low complexity,4.18,726.58,3,0
+P07-E002012,P07-C00394,2025-12-21,Primary care,Low complexity,3.27,403.66,1,0
+P07-E002013,P07-C00396,2024-10-01,Primary care,Low complexity,3.44,378.36,1,0
+P07-E002014,P07-C00235,2025-06-25,Specialty,High complexity,0.27,768.99,3,0
+P07-E002015,P07-C00155,2024-11-15,Specialty,Low complexity,2.93,2757.88,4,0
+P07-E002016,P07-C00422,2024-12-02,Specialty,Moderate complexity,2.88,350.24,2,1
+P07-E002017,P07-C00021,2025-04-22,Primary care,High complexity,3.02,737.17,2,1
+P07-E002018,P07-C00344,2025-05-04,Specialty,Moderate complexity,1.05,656.32,3,0
+P07-E002019,P07-C00083,2025-04-06,Outpatient,Moderate complexity,2.54,491.59,4,1
+P07-E002020,P07-C00095,2024-07-08,Primary care,Moderate complexity,3.3,455.57,2,0
+P07-E002021,P07-C00240,2024-05-01,Inpatient,Low complexity,2.78,353.79,4,0
+P07-E002022,P07-C00197,2025-03-20,Outpatient,Moderate complexity,5.74,1884.61,3,0
+P07-E002023,P07-C00061,2025-04-27,Inpatient,High complexity,0.99,790.52,5,0
+P07-E002024,P07-C00423,2024-06-12,Primary care,Low complexity,4.64,780.04,2,1
+P07-E002025,P07-C00417,2025-07-09,Primary care,Moderate complexity,4.69,1011.48,2,0
+P07-E002026,P07-C00226,2025-06-10,Inpatient,Moderate complexity,3.5,1030.2,4,0
+P07-E002027,P07-C00143,2025-05-13,Emergency,High complexity,1.52,901.85,1,0
+P07-E002028,P07-C00418,2024-02-24,Outpatient,Moderate complexity,2.88,2486.63,4,0
+P07-E002029,P07-C00082,2025-05-24,Primary care,Low complexity,1.91,1311.28,3,0
+P07-E002030,P07-C00184,2025-02-15,Emergency,High complexity,5.22,1306.13,3,0
+P07-E002031,P07-C00194,2025-04-12,Primary care,Moderate complexity,3.65,349.86,5,0
+P07-E002032,P07-C00408,2025-08-23,Emergency,Low complexity,4.52,1334.78,3,0
+P07-E002033,P07-C00507,2024-09-06,Outpatient,High complexity,4.08,593.37,7,0
+P07-E002034,P07-C00310,2024-11-28,Emergency,Moderate complexity,4.42,1220.64,6,1
+P07-E002035,P07-C00313,2024-08-16,Inpatient,High complexity,0.0,1448.31,1,0
+P07-E002036,P07-C00251,2024-02-16,Specialty,High complexity,4.19,439.63,1,0
+P07-E002037,P07-C00065,2024-04-05,Specialty,High complexity,4.01,912.47,2,0
+P07-E002038,P07-C00255,2025-12-11,Primary care,Low complexity,0.37,629.91,3,1
+P07-E002039,P07-C00367,2025-04-02,Outpatient,Low complexity,3.9,515.01,5,0
+P07-E002040,P07-C00344,2025-11-28,Inpatient,Low complexity,2.03,1708.0,3,0
+P07-E002041,P07-C00198,2024-09-17,Emergency,Moderate complexity,7.88,755.72,5,0
+P07-E002042,P07-C00438,2024-09-18,Inpatient,Low complexity,3.83,970.62,6,0
+P07-E002043,P07-C00111,2025-10-01,Inpatient,High complexity,3.15,924.05,4,0
+P07-E002044,P07-C00409,2025-06-22,Primary care,Moderate complexity,,424.16,3,1
+P07-E002045,P07-C00357,2025-09-02,Specialty,Low complexity,1.6,837.4,6,0
+P07-E002046,P07-C00097,2025-11-07,Inpatient,High complexity,1.55,931.81,2,0
+P07-E002047,P07-C00191,2024-07-11,Specialty,Moderate complexity,4.24,473.96,2,0
+P07-E002048,P07-C00321,2025-01-08,Primary care,Low complexity,1.37,878.79,3,0
+P07-E002049,P07-C00084,2024-05-18,Primary care,Low complexity,1.93,1110.19,3,0
+P07-E002050,P07-C00510,2025-04-09,Emergency,High complexity,3.69,10186.28,4,0
+P07-E002051,P07-C00263,2025-02-18,Specialty,Low complexity,2.76,248.51,4,0
+P07-E002052,P07-C00293,2024-11-28,Outpatient,High complexity,3.03,322.06,5,0
+P07-E002053,P07-C00411,2024-03-21,Specialty,Moderate complexity,1.52,2348.27,4,1
+P07-E002054,P07-C00160,2024-03-17,Inpatient,Low complexity,4.61,610.45,5,0
+P07-E002055,P07-C00141,2024-09-10,Specialty,Low complexity,1.2,1039.75,2,0
+P07-E002056,P07-C00064,2024-04-15,Specialty,Low complexity,1.85,735.21,3,0
+P07-E002057,P07-C00376,2024-02-21,Primary care,High complexity,2.55,125.85,4,0
+P07-E002058,P07-C00436,2024-08-20,Emergency,Low complexity,0.0,351.51,3,0
+P07-E002059,P07-C00367,2025-12-28,Specialty,Moderate complexity,5.4,2903.06,3,0
+P07-E002060,P07-C00321,2024-06-14,Outpatient,High complexity,2.83,1902.13,3,0
+P07-E002061,P07-C00038,2024-10-20,Primary care,Low complexity,0.25,1811.29,5,0
+P07-E002062,P07-C00397,2024-02-01,Primary care,High complexity,1.76,230.18,3,0
+P07-E002063,P07-C00307,2024-05-04,Specialty,High complexity,4.44,372.07,4,0
+P07-E002064,P07-C00208,2024-03-12,Emergency,High complexity,5.76,1542.08,4,0
+P07-E002065,P07-C00183,2025-06-13,Emergency,High complexity,2.18,1897.5,3,0
+P07-E002066,P07-C00092,2025-11-15,Outpatient,High complexity,3.92,1281.71,2,0
+P07-E002067,P07-C00322,2024-10-08,Outpatient,High complexity,3.54,1349.7,5,1
+P07-E002068,P07-C00357,2024-10-15,Primary care,High complexity,2.12,480.41,3,0
+P07-E002069,P07-C00465,2024-05-02,Inpatient,Moderate complexity,3.82,1220.91,6,0
+P07-E002070,P07-C00503,2025-08-07,Outpatient,Low complexity,4.24,5850.07,2,1
+P07-E002071,P07-C00127,2025-08-31,Emergency,Moderate complexity,1.92,604.41,3,0
+P07-E002072,P07-C00398,2024-08-15,Outpatient,High complexity,5.57,1162.76,4,1
+P07-E002073,P07-C00074,2025-02-26,Specialty,Low complexity,0.2,635.66,3,0
+P07-E002074,P07-C00012,2025-03-09,Emergency,Low complexity,3.57,3117.87,4,0
+P07-E002075,P07-C00513,2024-04-26,Outpatient,High complexity,4.55,2162.85,3,0
+P07-E002076,P07-C00233,2025-03-03,Primary care,Low complexity,1.3,563.42,1,0
+P07-E002077,P07-C00144,2025-12-11,Outpatient,High complexity,1.2,2041.66,2,0
+P07-E002078,P07-C00297,2024-10-16,Outpatient,Low complexity,2.08,1140.56,1,1
+P07-E002079,P07-C00321,2024-04-06,Outpatient,Low complexity,0.0,5254.55,2,1
+P07-E002080,P07-C00497,2024-05-30,Inpatient,Low complexity,0.54,582.13,3,0
+P07-E002081,P07-C00021,2024-07-03,Outpatient,High complexity,3.65,510.72,3,1
+P07-E002082,P07-C00250,2025-12-27,Inpatient,Moderate complexity,0.43,996.55,3,0
+P07-E002083,P07-C00452,2024-04-11,Emergency,Low complexity,1.38,645.69,2,0
+P07-E002084,P07-C00399,2025-01-17,Inpatient,Moderate complexity,3.96,2027.13,3,0
+P07-E002085,P07-C00493,2024-10-11,Outpatient,High complexity,4.42,406.98,5,1
+P07-E002086,P07-C00240,2024-10-05,Emergency,High complexity,2.99,578.65,3,0
+P07-E002087,P07-C00282,2024-04-21,Specialty,Moderate complexity,3.84,3972.85,5,0
+P07-E002088,P07-C00156,2025-07-10,Specialty,Moderate complexity,2.35,1012.32,3,0
+P07-E002089,P07-C00040,2025-09-05,Specialty,Moderate complexity,2.44,1920.58,2,0
+P07-E002090,P07-C00254,2025-11-13,Primary care,Low complexity,0.0,630.28,3,0
+P07-E002091,P07-C00490,2024-08-17,Specialty,Moderate complexity,1.02,165.55,3,1
+P07-E002092,P07-C00303,2024-06-02,Emergency,High complexity,0.64,489.73,3,0
+P07-E002093,P07-C00400,2024-11-21,Outpatient,High complexity,1.51,1806.84,3,1
+P07-E002094,P07-C00383,2024-08-30,Inpatient,High complexity,0.62,754.18,1,0
+P07-E002095,P07-C00222,2024-06-24,Specialty,Moderate complexity,2.0,2938.36,4,1
+P07-E002096,P07-C00358,2024-09-10,Primary care,Moderate complexity,3.01,687.08,2,0
+P07-E002097,P07-C00436,2024-10-13,Outpatient,Moderate complexity,2.11,575.77,4,0
+P07-E002098,P07-C00082,2024-11-05,Specialty,Low complexity,1.1,2848.43,3,1
+P07-E002099,P07-C00406,2024-06-19,Inpatient,High complexity,3.68,1261.55,5,0
+P07-E002100,P07-C00200,2025-08-25,Outpatient,High complexity,4.73,806.05,5,0
+P07-E002101,P07-C00017,2025-03-19,Emergency,Low complexity,1.85,804.36,1,0
+P07-E002102,P07-C00356,2024-07-05,Specialty,High complexity,2.72,1704.4,3,0
+P07-E002103,P07-C00473,2025-05-17,Outpatient,Moderate complexity,2.32,402.13,2,1
+P07-E002104,P07-C00429,2025-04-09,Inpatient,Moderate complexity,5.99,863.21,3,0
+P07-E002105,P07-C00004,2025-08-14,Inpatient,Low complexity,6.81,198.43,4,0
+P07-E002106,P07-C00341,2024-10-15,Outpatient,Moderate complexity,1.32,610.66,2,1
+P07-E002107,P07-C00313,2024-07-12,Primary care,Moderate complexity,1.81,857.39,2,0
+P07-E002108,P07-C00262,2024-02-29,Primary care,Moderate complexity,2.77,906.24,1,0
+P07-E002109,P07-C00050,2024-04-21,Inpatient,Low complexity,2.86,770.37,3,0
+P07-E002110,P07-C00087,2024-10-21,Inpatient,Low complexity,4.17,689.56,2,0
+P07-E002111,P07-C00205,2025-05-16,Inpatient,Low complexity,0.98,686.24,3,0
+P07-E002112,P07-C00130,2025-01-19,Outpatient,Low complexity,0.17,860.88,5,1
+P07-E002113,P07-C00447,2024-05-01,Inpatient,Low complexity,5.63,772.65,5,0
+P07-E002114,P07-C00461,2024-12-10,Emergency,Low complexity,1.13,3499.93,4,0
+P07-E002115,P07-C00066,2025-06-12,Specialty,Low complexity,5.55,2658.31,3,1
+P07-E002116,P07-C00064,2025-12-22,Outpatient,High complexity,2.41,717.1,2,0
+P07-E002117,P07-C00001,2024-06-09,Emergency,Low complexity,5.59,932.42,4,0
+P07-E002118,P07-C00228,2024-04-02,Inpatient,Moderate complexity,4.14,316.3,2,0
+P07-E002119,P07-C00193,2025-07-12,Primary care,High complexity,0.0,2848.77,1,1
+P07-E002120,P07-C00337,2024-11-13,Emergency,Low complexity,5.58,1181.7,2,0
+P07-E002121,P07-C00507,2024-09-03,Emergency,Moderate complexity,3.74,491.49,2,0
+P07-E002122,P07-C00448,2024-10-27,Emergency,High complexity,2.65,1268.49,2,0
+P07-E002123,P07-C00016,2024-05-06,Inpatient,Low complexity,0.0,1281.68,6,0
+P07-E002124,P07-C00471,2025-02-10,Specialty,Low complexity,1.29,1876.4,1,1
+P07-E002125,P07-C00076,2024-02-28,Emergency,High complexity,3.29,4042.56,3,0
+P07-E002126,P07-C00120,2025-03-01,Outpatient,High complexity,1.94,671.47,4,0
+P07-E002127,P07-C00156,2025-09-30,Primary care,Moderate complexity,5.71,747.45,3,0
+P07-E002128,P07-C00227,2024-06-06,Emergency,Low complexity,3.94,919.29,3,0
+P07-E002129,P07-C00234,2025-08-23,Emergency,Low complexity,9.77,461.97,3,0
+P07-E002130,P07-C00515,2024-07-10,Primary care,Low complexity,1.85,76.83,2,0
+P07-E002131,P07-C00416,2024-05-22,Outpatient,High complexity,4.88,1650.99,4,1
+P07-E002132,P07-C00107,2024-06-15,Specialty,High complexity,4.22,5559.24,4,1
+P07-E002133,P07-C00197,2024-03-20,Outpatient,Low complexity,4.53,1691.04,3,0
+P07-E002134,P07-C00338,2024-05-30,Outpatient,High complexity,0.91,483.07,3,0
+P07-E002135,P07-C00402,2024-03-03,Specialty,Low complexity,5.2,998.24,1,1
+P07-E002136,P07-C00142,2024-09-28,Outpatient,Moderate complexity,3.77,1494.52,1,1
+P07-E002137,P07-C00191,2025-12-10,Emergency,Low complexity,4.16,899.43,3,0
+P07-E002138,P07-C00465,2024-05-10,Primary care,Low complexity,3.86,957.4,2,1
+P07-E002139,P07-C00358,2024-10-18,Emergency,Moderate complexity,3.55,638.22,1,0
+P07-E002140,P07-C00342,2025-09-07,Emergency,Moderate complexity,2.61,447.95,4,0
+P07-E002141,P07-C00276,2024-04-19,Emergency,High complexity,3.79,3416.06,2,0
+P07-E002142,P07-C00410,2025-06-22,Specialty,Moderate complexity,0.0,3378.44,1,0
+P07-E002143,P07-C00361,2025-12-29,Specialty,Moderate complexity,0.94,3062.85,3,0
+P07-E002144,P07-C00402,2024-11-08,Inpatient,Low complexity,5.53,1161.8,2,0
+P07-E002145,P07-C00148,2025-07-07,Primary care,High complexity,5.38,678.62,3,0
+P07-E002146,P07-C00419,2025-04-24,Inpatient,Low complexity,3.28,496.48,2,0
+P07-E002147,P07-C00012,2025-11-09,Outpatient,High complexity,0.7,2585.06,5,0
+P07-E002148,P07-C00195,2025-11-23,Emergency,Low complexity,2.43,182.35,4,0
+P07-E002149,P07-C00329,2024-02-02,Specialty,Low complexity,2.37,2083.27,2,1
+P07-E002150,P07-C00076,2025-02-20,Emergency,Moderate complexity,4.38,1012.05,2,1
+P07-E002151,P07-C00268,2025-10-01,Specialty,Moderate complexity,4.54,2436.79,2,0
+P07-E002152,P07-C00289,2024-09-05,Primary care,High complexity,7.83,824.26,2,0
+P07-E002153,P07-C00277,2025-10-11,Inpatient,Low complexity,2.61,3553.94,1,0
+P07-E002154,P07-C00485,2025-11-01,Inpatient,High complexity,4.79,1462.72,3,0
+P07-E002155,P07-C00203,2025-11-30,Primary care,Low complexity,3.97,855.16,2,1
+P07-E002156,P07-C00402,2025-10-13,Inpatient,High complexity,5.49,2180.79,3,0
+P07-E002157,P07-C00301,2024-01-16,Emergency,Moderate complexity,1.67,2511.12,6,0
+P07-E002158,P07-C00454,2024-07-19,Specialty,High complexity,3.94,406.63,2,0
+P07-E002159,P07-C00189,2025-12-21,Emergency,High complexity,0.0,2122.88,2,0
+P07-E002160,P07-C00194,2024-01-01,Primary care,Moderate complexity,4.26,764.71,1,1
+P07-E002161,P07-C00163,2025-01-13,Inpatient,High complexity,2.46,347.84,1,1
+P07-E002162,P07-C00085,2024-09-08,Outpatient,High complexity,5.2,750.48,5,0
+P07-E002163,P07-C00222,2025-01-02,Inpatient,Low complexity,1.31,1174.59,2,0
+P07-E002164,P07-C00326,2024-08-19,Primary care,High complexity,3.68,496.2,3,0
+P07-E002165,P07-C00498,2024-01-03,Emergency,Low complexity,3.95,1425.27,2,0
+P07-E002166,P07-C00441,2025-12-14,Outpatient,High complexity,4.2,742.69,3,0
+P07-E002167,P07-C00446,2024-02-26,Specialty,Low complexity,2.87,5001.05,3,0
+P07-E002168,P07-C00107,2025-11-28,Emergency,Moderate complexity,3.62,1989.38,1,0
+P07-E002169,P07-C00154,2024-08-08,Emergency,Low complexity,3.43,2416.0,3,0
+P07-E002170,P07-C00303,2024-02-07,Inpatient,Low complexity,6.03,510.24,4,1
+P07-E002171,P07-C00370,2025-10-22,Emergency,Moderate complexity,3.57,1146.8,3,0
+P07-E002172,P07-C00151,2025-10-23,Primary care,High complexity,6.12,1089.52,1,0
+P07-E002173,P07-C00341,2024-11-23,Inpatient,Low complexity,3.9,439.04,3,1
+P07-E002174,P07-C00029,2024-05-09,Inpatient,Low complexity,7.54,698.08,4,0
+P07-E002175,P07-C00517,2024-05-09,Specialty,Low complexity,1.87,1096.64,3,0
+P07-E002176,P07-C00077,2025-07-24,Primary care,Moderate complexity,1.2,885.23,3,0
+P07-E002177,P07-C00339,2024-04-08,Outpatient,Moderate complexity,2.48,610.59,2,0
+P07-E002178,P07-C00476,2024-06-06,Primary care,Low complexity,3.8,1112.11,4,0
+P07-E002179,P07-C00277,2025-08-12,Emergency,High complexity,4.29,312.33,3,0
+P07-E002180,P07-C00345,2025-04-12,Emergency,Low complexity,2.11,1841.88,3,0
+P07-E002181,P07-C00002,2024-04-17,Outpatient,Low complexity,2.74,869.6,4,1
+P07-E002182,P07-C00251,2025-05-01,Inpatient,High complexity,8.24,2146.19,6,0
+P07-E002183,P07-C00030,2024-09-02,Primary care,Moderate complexity,1.12,1668.54,3,0
+P07-E002184,P07-C00135,2025-10-05,Specialty,Low complexity,1.06,5089.87,1,0
+P07-E002185,P07-C00020,2024-04-23,Outpatient,High complexity,2.11,480.48,6,0
+P07-E002186,P07-C00366,2025-10-11,Specialty,High complexity,0.0,784.59,5,1
+P07-E002187,P07-C00099,2024-03-27,Emergency,Moderate complexity,1.0,1123.98,4,0
+P07-E002188,P07-C00517,2024-10-12,Specialty,High complexity,6.01,885.61,3,0
+P07-E002189,P07-C00470,2025-03-12,Inpatient,Moderate complexity,2.97,348.82,3,0
+P07-E002190,P07-C00422,2025-11-19,Specialty,Low complexity,6.78,2866.46,1,0
+P07-E002191,P07-C00181,2024-11-24,Inpatient,Low complexity,8.03,899.55,3,0
+P07-E002192,P07-C00134,2025-05-15,Emergency,Low complexity,6.34,2070.28,5,0
+P07-E002193,P07-C00159,2024-09-29,Outpatient,High complexity,4.76,2249.55,2,0
+P07-E002194,P07-C00457,2025-06-09,Outpatient,Low complexity,1.14,1628.0,3,0
+P07-E002195,P07-C00337,2025-09-10,Emergency,Moderate complexity,0.1,652.29,2,0
+P07-E002196,P07-C00129,2025-05-01,Inpatient,High complexity,,455.51,2,0
+P07-E002197,P07-C00076,2025-05-27,Inpatient,Moderate complexity,4.19,1280.09,1,0
+P07-E002198,P07-C00248,2024-02-06,Inpatient,Moderate complexity,5.73,1434.33,6,0
+P07-E002199,P07-C00323,2024-08-02,Primary care,High complexity,0.0,659.97,3,1
+P07-E002200,P07-C00341,2025-12-20,Outpatient,Low complexity,0.0,1825.3,3,0
+P07-E002201,P07-C00298,2024-03-28,Inpatient,Low complexity,2.47,1494.05,4,0
+P07-E002202,P07-C00358,2025-02-21,Emergency,High complexity,6.77,2361.7,5,0
+P07-E002203,P07-C00513,2024-04-19,Emergency,High complexity,,934.24,3,0
+P07-E002204,P07-C00082,2025-02-26,Specialty,Low complexity,4.45,1963.5,4,1
+P07-E002205,P07-C00133,2025-01-15,Specialty,Moderate complexity,0.0,249.08,5,0
+P07-E002206,P07-C00497,2025-02-10,Specialty,Moderate complexity,2.37,1440.17,6,0
+P07-E002207,P07-C00248,2024-09-16,Emergency,Moderate complexity,2.28,1256.27,3,0
+P07-E002208,P07-C00371,2024-11-29,Primary care,Moderate complexity,0.93,923.58,4,0
+P07-E002209,P07-C00011,2024-02-07,Inpatient,Low complexity,,605.71,3,0
+P07-E002210,P07-C00223,2024-09-26,Specialty,Moderate complexity,2.7,989.88,5,0
+P07-E002211,P07-C00518,2024-12-16,Emergency,Moderate complexity,0.0,2094.45,3,0
+P07-E002212,P07-C00192,2025-10-19,Inpatient,Moderate complexity,0.0,744.29,3,0
+P07-E002213,P07-C00135,2024-09-22,Primary care,Low complexity,1.67,1700.97,4,0
+P07-E002214,P07-C00408,2024-03-13,Inpatient,Moderate complexity,0.0,1228.92,5,0
+P07-E002215,P07-C00356,2024-08-11,Primary care,High complexity,3.97,786.56,3,0
+P07-E002216,P07-C00204,2024-08-29,Specialty,Moderate complexity,5.6,2401.95,3,1
+P07-E002217,P07-C00291,2025-11-05,Inpatient,Moderate complexity,2.77,1252.57,5,0
+P07-E002218,P07-C00004,2025-10-30,Inpatient,Low complexity,2.12,3168.94,1,0
+P07-E002219,P07-C00155,2025-07-12,Emergency,Low complexity,6.23,241.1,4,0
+P07-E002220,P07-C00381,2024-04-24,Emergency,Moderate complexity,3.66,672.7,3,1
+P07-E002221,P07-C00468,2024-01-04,Specialty,Moderate complexity,0.65,2545.13,3,0
+P07-E002222,P07-C00336,2024-08-03,Specialty,High complexity,0.26,639.79,3,0
+P07-E002223,P07-C00323,2025-02-22,Emergency,Low complexity,5.62,3676.62,5,0
+P07-E002224,P07-C00208,2024-01-04,Inpatient,High complexity,3.86,4226.52,5,0
+P07-E002225,P07-C00221,2024-05-05,Specialty,Low complexity,2.66,539.95,5,0
+P07-E002226,P07-C00336,2024-11-11,Primary care,High complexity,4.2,446.66,2,1
+P07-E002227,P07-C00183,2024-05-26,Emergency,High complexity,1.33,848.82,6,0
+P07-E002228,P07-C00423,2024-07-05,Emergency,High complexity,2.57,865.2,3,0
+P07-E002229,P07-C00195,2025-09-20,Primary care,Low complexity,2.58,771.79,4,0
+P07-E002230,P07-C00417,2024-10-16,Emergency,Moderate complexity,3.33,1903.3,2,0
+P07-E002231,P07-C00503,2024-03-18,Outpatient,High complexity,5.54,842.6,2,0
+P07-E002232,P07-C00456,2024-12-18,Specialty,High complexity,4.52,777.13,2,0
+P07-E002233,P07-C00433,2025-06-08,Outpatient,High complexity,5.95,606.81,1,0
+P07-E002234,P07-C00281,2024-06-14,Specialty,Low complexity,3.38,1614.13,2,0
+P07-E002235,P07-C00132,2024-06-10,Primary care,Low complexity,3.03,1611.24,3,0
+P07-E002236,P07-C00097,2024-04-27,Emergency,Low complexity,4.05,1091.32,5,1
+P07-E002237,P07-C00045,2025-07-03,Emergency,Low complexity,1.16,660.3,2,0
+P07-E002238,P07-C00067,2025-06-10,Primary care,Low complexity,5.11,527.62,3,0
+P07-E002239,P07-C00370,2025-09-16,Inpatient,Moderate complexity,0.0,955.74,3,0
+P07-E002240,P07-C00504,2025-02-17,Outpatient,Low complexity,1.9,1791.9,3,0
+P07-E002241,P07-C00335,2025-05-18,Specialty,Moderate complexity,4.84,2000.75,4,1
+P07-E002242,P07-C00266,2024-01-18,Inpatient,Low complexity,5.19,1388.97,3,0
+P07-E002243,P07-C00156,2025-01-22,Inpatient,High complexity,3.47,1683.08,3,0
+P07-E002244,P07-C00496,2025-09-15,Inpatient,High complexity,5.26,894.61,1,1
+P07-E002245,P07-C00258,2024-11-23,Inpatient,High complexity,0.0,1922.73,6,0
+P07-E002246,P07-C00135,2024-07-25,Primary care,Moderate complexity,2.43,3081.44,7,0
+P07-E002247,P07-C00071,2025-07-12,Emergency,Moderate complexity,6.16,2725.7,3,0
+P07-E002248,P07-C00357,2025-08-27,Primary care,Moderate complexity,5.5,867.81,1,0
+P07-E002249,P07-C00039,2024-04-01,Emergency,Low complexity,6.3,264.91,3,0
+P07-E002250,P07-C00212,2024-09-13,Outpatient,Moderate complexity,4.1,928.25,3,0
+P07-E002251,P07-C00159,2024-02-08,Specialty,Low complexity,3.34,4733.54,2,0
+P07-E002252,P07-C00235,2025-01-21,Specialty,Moderate complexity,3.54,965.0,5,0
+P07-E002253,P07-C00317,2024-02-07,Emergency,Low complexity,0.0,1124.71,4,1
+P07-E002254,P07-C00013,2024-07-01,Outpatient,Moderate complexity,1.4,773.66,3,0
+P07-E002255,P07-C00123,2025-06-20,Outpatient,High complexity,0.0,1447.63,4,0
+P07-E002256,P07-C00339,2024-08-07,Inpatient,High complexity,2.89,2427.71,3,0
+P07-E002257,P07-C00217,2024-03-28,Primary care,High complexity,5.26,1657.19,4,0
+P07-E002258,P07-C00019,2025-03-17,Outpatient,Moderate complexity,0.53,1629.95,5,0
+P07-E002259,P07-C00389,2024-02-14,Emergency,High complexity,2.04,99.33,4,0
+P07-E002260,P07-C00313,2024-12-22,Inpatient,High complexity,2.92,632.33,4,0
+P07-E002261,P07-C00076,2025-02-24,Inpatient,High complexity,4.35,1700.37,3,0
+P07-E002262,P07-C00464,2024-03-14,Specialty,Moderate complexity,2.99,1246.59,6,0
+P07-E002263,P07-C00259,2024-10-24,Outpatient,Moderate complexity,0.0,274.57,3,0
+P07-E002264,P07-C00121,2024-08-02,Outpatient,Moderate complexity,3.92,2360.2,1,1
+P07-E002265,P07-C00441,2024-05-06,Outpatient,Moderate complexity,0.62,919.14,4,0
+P07-E002266,P07-C00132,2025-02-07,Specialty,High complexity,2.06,3048.84,2,0
+P07-E002267,P07-C00121,2025-11-28,Primary care,High complexity,3.1,5891.37,4,0
+P07-E002268,P07-C00160,2024-09-01,Specialty,Low complexity,1.73,1123.35,5,0
+P07-E002269,P07-C00123,2024-11-08,Inpatient,Moderate complexity,3.49,293.29,1,0
+P07-E002270,P07-C00328,2024-12-28,Specialty,Low complexity,3.11,962.71,2,0
+P07-E002271,P07-C00009,2025-09-26,Inpatient,Moderate complexity,0.11,1200.19,2,0
+P07-E002272,P07-C00172,2024-03-19,Inpatient,High complexity,5.09,350.94,3,0
+P07-E002273,P07-C00339,2025-03-22,Inpatient,Moderate complexity,4.26,1006.31,3,0
+P07-E002274,P07-C00061,2025-04-28,Primary care,Low complexity,5.18,655.91,3,0
+P07-E002275,P07-C00109,2025-04-13,Outpatient,Low complexity,4.77,573.05,3,0
+P07-E002276,P07-C00403,2025-05-17,Primary care,High complexity,3.34,189.41,3,0
+P07-E002277,P07-C00360,2025-06-04,Emergency,Moderate complexity,3.09,422.1,3,0
+P07-E002278,P07-C00270,2024-02-13,Emergency,Moderate complexity,4.81,669.76,3,0
+P07-E002279,P07-C00222,2025-01-16,Inpatient,Moderate complexity,0.83,981.59,4,0
+P07-E002280,P07-C00189,2024-08-06,Emergency,Moderate complexity,1.18,1568.94,3,1
+P07-E002281,P07-C00449,2025-11-13,Inpatient,High complexity,2.8,708.84,1,0
+P07-E002282,P07-C00111,2025-08-20,Primary care,Moderate complexity,2.45,119.41,4,0
+P07-E002283,P07-C00511,2024-08-13,Specialty,High complexity,0.79,877.1,4,1
+P07-E002284,P07-C00484,2025-04-20,Outpatient,Low complexity,4.56,581.51,2,0
+P07-E002285,P07-C00415,2025-07-04,Outpatient,Moderate complexity,5.58,619.26,4,0
+P07-E002286,P07-C00220,2024-08-18,Specialty,Low complexity,2.25,3914.03,2,0
+P07-E002287,P07-C00347,2024-05-08,Inpatient,Low complexity,4.18,3405.86,3,0
+P07-E002288,P07-C00032,2024-03-02,Emergency,Low complexity,1.38,1803.88,2,0
+P07-E002289,P07-C00055,2025-08-07,Emergency,Low complexity,2.76,727.03,2,0
+P07-E002290,P07-C00083,2024-04-25,Primary care,High complexity,0.0,1757.97,4,0
+P07-E002291,P07-C00212,2025-07-10,Emergency,Moderate complexity,0.0,476.96,2,0
+P07-E002292,P07-C00102,2024-03-20,Primary care,High complexity,3.87,239.77,3,0
+P07-E002293,P07-C00183,2024-06-22,Emergency,Moderate complexity,2.33,1450.47,4,0
+P07-E002294,P07-C00180,2025-09-24,Primary care,Moderate complexity,4.82,311.64,3,0
+P07-E002295,P07-C00249,2024-06-26,Emergency,Moderate complexity,4.59,330.45,4,0
+P07-E002296,P07-C00214,2024-09-25,Specialty,High complexity,6.63,1030.7,2,0
+P07-E002297,P07-C00267,2025-03-01,Primary care,Moderate complexity,2.67,384.13,4,0
+P07-E002298,P07-C00075,2024-08-14,Outpatient,Moderate complexity,2.14,747.72,3,0
+P07-E002299,P07-C00003,2025-02-22,Primary care,Moderate complexity,6.14,902.41,3,1
+P07-E002300,P07-C00207,2024-05-16,Emergency,Moderate complexity,2.64,383.33,5,0
+P07-E002301,P07-C00508,2025-03-06,Primary care,Moderate complexity,4.35,392.87,3,0
+P07-E002302,P07-C00013,2024-06-25,Specialty,High complexity,3.95,928.82,5,0
+P07-E002303,P07-C00280,2025-11-24,Emergency,Low complexity,0.0,1181.35,1,0
+P07-E002304,P07-C00127,2025-03-30,Specialty,Moderate complexity,0.88,2108.33,3,0
+P07-E002305,P07-C00329,2025-04-11,Inpatient,Moderate complexity,5.08,482.32,3,0
+P07-E002306,P07-C00347,2025-07-26,Inpatient,Low complexity,8.55,343.67,2,0
+P07-E002307,P07-C00371,2024-03-31,Specialty,Moderate complexity,6.7,695.22,2,0
+P07-E002308,P07-C00070,2024-02-02,Specialty,Low complexity,7.91,512.2,3,0
+P07-E002309,P07-C00049,2024-11-08,Specialty,High complexity,1.01,2629.32,5,0
+P07-E002310,P07-C00379,2025-01-17,Inpatient,Low complexity,5.22,2077.68,3,0
+P07-E002311,P07-C00292,2025-11-10,Emergency,Low complexity,4.91,2186.49,4,1
+P07-E002312,P07-C00192,2025-03-23,Outpatient,Low complexity,3.41,2254.58,4,0
+P07-E002313,P07-C00486,2024-01-04,Outpatient,Moderate complexity,1.62,876.39,2,0
+P07-E002314,P07-C00146,2024-09-23,Outpatient,Low complexity,5.37,2724.14,4,0
+P07-E002315,P07-C00192,2025-06-28,Primary care,Low complexity,1.44,2143.48,3,0
+P07-E002316,P07-C00202,2024-08-22,Primary care,Low complexity,1.59,525.78,4,0
+P07-E002317,P07-C00462,2024-03-10,Primary care,High complexity,1.76,1927.43,3,0
+P07-E002318,P07-C00502,2025-11-19,Inpatient,Moderate complexity,1.07,805.15,4,0
+P07-E002319,P07-C00331,2025-04-23,Primary care,Moderate complexity,,1309.1,4,0
+P07-E002320,P07-C00232,2025-09-08,Outpatient,Low complexity,1.54,733.97,2,1
+P07-E002321,P07-C00480,2024-01-15,Specialty,Moderate complexity,2.14,915.81,5,0
+P07-E002322,P07-C00478,2024-08-18,Primary care,Low complexity,2.08,923.46,8,1
+P07-E002323,P07-C00101,2025-08-31,Outpatient,High complexity,4.27,471.6,1,0
+P07-E002324,P07-C00225,2025-11-30,Specialty,Low complexity,2.28,1102.7,2,0
+P07-E002325,P07-C00005,2024-01-22,Specialty,High complexity,5.58,983.57,4,0
+P07-E002326,P07-C00447,2024-06-28,Outpatient,Moderate complexity,3.69,528.31,2,1
+P07-E002327,P07-C00347,2024-07-12,Primary care,High complexity,0.0,1734.82,3,0
+P07-E002328,P07-C00003,2024-09-30,Inpatient,Low complexity,3.45,310.03,5,0
+P07-E002329,P07-C00096,2025-05-28,Emergency,Low complexity,1.19,394.88,5,0
+P07-E002330,P07-C00083,2024-04-17,Specialty,Low complexity,1.56,211.37,5,0
+P07-E002331,P07-C00302,2025-10-01,Specialty,Moderate complexity,1.09,1387.74,3,1
+P07-E002332,P07-C00130,2024-03-06,Primary care,Moderate complexity,5.07,691.99,3,0
+P07-E002333,P07-C00152,2025-10-16,Outpatient,Moderate complexity,4.53,523.96,2,0
+P07-E002334,P07-C00498,2025-03-29,Primary care,Low complexity,2.43,1420.74,4,0
+P07-E002335,P07-C00407,2024-03-03,Emergency,Low complexity,5.12,559.24,5,0
+P07-E002336,P07-C00143,2024-08-05,Emergency,High complexity,3.44,1842.06,5,0
+P07-E002337,P07-C00441,2025-02-01,Inpatient,Moderate complexity,2.68,2512.98,4,1
+P07-E002338,P07-C00235,2024-12-01,Emergency,High complexity,3.76,432.91,3,0
+P07-E002339,P07-C00172,2024-07-10,Outpatient,Moderate complexity,6.71,697.44,3,0
+P07-E002340,P07-C00107,2024-07-10,Emergency,Low complexity,0.0,811.61,4,0
+P07-E002341,P07-C00139,2024-10-15,Primary care,Low complexity,6.11,2588.75,4,0
+P07-E002342,P07-C00036,2024-04-02,Specialty,High complexity,2.47,681.42,5,0
+P07-E002343,P07-C00123,2025-04-10,Inpatient,Moderate complexity,3.25,2067.94,1,0
+P07-E002344,P07-C00008,2025-05-20,Emergency,Low complexity,3.58,1533.75,6,0
+P07-E002345,P07-C00239,2024-06-03,Primary care,Moderate complexity,1.55,326.94,2,0
+P07-E002346,P07-C00450,2024-05-18,Emergency,Moderate complexity,3.12,434.15,2,1
+P07-E002347,P07-C00339,2025-06-03,Specialty,Moderate complexity,4.93,984.81,2,0
+P07-E002348,P07-C00144,2025-12-02,Emergency,Low complexity,0.77,896.71,3,1
+P07-E002349,P07-C00227,2024-06-08,Outpatient,Low complexity,0.66,573.49,1,0
+P07-E002350,P07-C00051,2024-04-13,Emergency,Moderate complexity,1.75,373.49,6,0
+P07-E002351,P07-C00148,2025-02-15,Inpatient,Moderate complexity,4.6,419.23,6,0
+P07-E002352,P07-C00041,2024-10-30,Inpatient,High complexity,2.51,824.25,3,0
+P07-E002353,P07-C00127,2024-06-25,Inpatient,High complexity,1.03,507.57,2,0
+P07-E002354,P07-C00518,2025-04-11,Primary care,High complexity,4.1,338.96,1,0
+P07-E002355,P07-C00458,2025-12-13,Inpatient,High complexity,0.74,1461.0,2,1
+P07-E002356,P07-C00402,2024-07-08,Specialty,High complexity,4.72,310.82,2,1
+P07-E002357,P07-C00098,2025-09-29,Inpatient,High complexity,0.59,618.94,1,0
+P07-E002358,P07-C00124,2024-11-19,Specialty,Low complexity,1.99,1380.12,7,0
+P07-E002359,P07-C00459,2025-07-09,Specialty,Moderate complexity,4.67,1060.41,5,0
+P07-E002360,P07-C00332,2024-01-23,Primary care,High complexity,3.71,3565.91,5,0
+P07-E002361,P07-C00467,2025-04-29,Outpatient,Moderate complexity,4.29,1869.06,3,0
+P07-E002362,P07-C00507,2024-10-09,Emergency,Low complexity,1.81,1267.91,6,1
+P07-E002363,P07-C00317,2025-11-29,Inpatient,Moderate complexity,4.15,1423.93,1,0
+P07-E002364,P07-C00474,2024-03-30,Inpatient,High complexity,0.2,1030.22,3,0
+P07-E002365,P07-C00164,2025-03-06,Primary care,Moderate complexity,1.89,958.16,2,0
+P07-E002366,P07-C00431,2025-01-09,Outpatient,High complexity,1.88,4187.89,3,0
+P07-E002367,P07-C00484,2025-06-10,Inpatient,Low complexity,1.7,685.66,1,0
+P07-E002368,P07-C00004,2025-12-07,Inpatient,Low complexity,0.96,1859.78,2,0
+P07-E002369,P07-C00195,2024-09-05,Primary care,Low complexity,3.95,346.29,4,0
+P07-E002370,P07-C00392,2024-07-15,Emergency,High complexity,4.07,257.63,1,0
+P07-E002371,P07-C00293,2024-02-13,Outpatient,High complexity,3.56,819.11,2,0
+P07-E002372,P07-C00088,2025-08-22,Outpatient,High complexity,2.69,1640.15,1,0
+P07-E002373,P07-C00063,2025-11-27,Outpatient,High complexity,0.98,916.24,4,0
+P07-E002374,P07-C00131,2025-07-27,Emergency,High complexity,3.54,851.58,3,0
+P07-E002375,P07-C00436,2025-09-28,Outpatient,Low complexity,5.45,781.16,8,0
+P07-E002376,P07-C00304,2024-12-29,Primary care,Low complexity,4.49,646.76,2,0
+P07-E002377,P07-C00168,2024-01-16,Inpatient,High complexity,5.44,1375.54,2,0
+P07-E002378,P07-C00108,2024-12-23,Specialty,Moderate complexity,3.17,2480.22,3,1
+P07-E002379,P07-C00019,2024-10-29,Outpatient,Moderate complexity,,339.14,3,0
+P07-E002380,P07-C00247,2024-09-04,Specialty,Low complexity,1.32,3892.87,2,0
+P07-E002381,P07-C00367,2025-01-17,Inpatient,Moderate complexity,3.65,5451.44,3,0
+P07-E002382,P07-C00069,2025-09-21,Inpatient,Moderate complexity,2.5,2650.74,3,1
+P07-E002383,P07-C00462,2025-09-05,Primary care,Low complexity,4.32,529.61,2,0
+P07-E002384,P07-C00467,2024-01-08,Inpatient,High complexity,5.02,1164.17,1,0
+P07-E002385,P07-C00246,2025-01-09,Outpatient,High complexity,0.93,613.3,4,0
+P07-E002386,P07-C00302,2025-11-21,Emergency,High complexity,1.78,2428.94,5,0
+P07-E002387,P07-C00175,2025-07-14,Emergency,Low complexity,3.37,3569.12,8,0
+P07-E002388,P07-C00117,2024-06-22,Specialty,Low complexity,0.0,897.97,1,0
+P07-E002389,P07-C00399,2024-09-05,Specialty,Moderate complexity,1.58,2925.11,2,0
+P07-E002390,P07-C00470,2024-05-23,Inpatient,Moderate complexity,3.31,1156.26,4,1
+P07-E002391,P07-C00178,2025-06-09,Specialty,High complexity,2.08,1375.71,6,0
+P07-E002392,P07-C00400,2024-12-02,Specialty,High complexity,3.83,2322.09,3,0
+P07-E002393,P07-C00308,2025-05-14,Emergency,High complexity,4.48,2392.34,3,1
+P07-E002394,P07-C00044,2025-01-29,Emergency,Low complexity,1.11,6380.85,6,1
+P07-E002395,P07-C00308,2025-02-20,Outpatient,High complexity,2.52,866.45,4,0
+P07-E002396,P07-C00126,2025-05-27,Emergency,Moderate complexity,4.94,3637.89,6,0
+P07-E002397,P07-C00357,2024-08-31,Specialty,High complexity,6.33,1954.97,3,0
+P07-E002398,P07-C00238,2025-09-24,Inpatient,Moderate complexity,0.0,1371.65,2,0
+P07-E002399,P07-C00110,2024-01-23,Emergency,Low complexity,0.6,644.88,1,0
+P07-E002400,P07-C00060,2025-10-14,Inpatient,Low complexity,5.05,854.59,3,0

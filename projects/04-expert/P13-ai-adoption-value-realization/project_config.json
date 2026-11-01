@@ -1,0 +1,68 @@
+{
+  "id": "P13",
+  "level": "Expert",
+  "title": "AI Tool Adoption and Value Realization",
+  "industry": "Technology",
+  "seed": 113,
+  "problem_statement": "A product and technology leadership team needs to distinguish AI adoption from realized value and identify trust, governance, and cost barriers across user groups.",
+  "stakeholders": [
+    "AI product leader",
+    "Engineering leadership",
+    "Finance",
+    "Risk and compliance"
+  ],
+  "groups": [
+    "Software engineering",
+    "Data",
+    "Product",
+    "Operations",
+    "Leadership"
+  ],
+  "segments": [
+    "Individual contributor",
+    "Manager",
+    "Executive"
+  ],
+  "schema": {
+    "event_id_col": "survey_response_id",
+    "entity_id_col": "respondent_id",
+    "date_col": "response_date",
+    "group_col": "job_family",
+    "group_label": "Job family",
+    "segment_col": "role_level",
+    "segment_label": "Role level",
+    "driver_col": "weekly_ai_hours",
+    "value_col": "reported_value_score",
+    "volume_col": "tools_used",
+    "outcome_col": "frequent_ai_use",
+    "outcome_label": "Frequent AI use"
+  },
+  "questions": [
+    "Who adopts AI tools frequently?",
+    "Where is value reported?",
+    "Which barriers require product versus governance action?"
+  ],
+  "hypotheses": [
+    "Adoption and reported value differ by role.",
+    "High use does not always imply trust or value."
+  ],
+  "decisions": [
+    "Enablement investment",
+    "Product roadmap",
+    "Governance"
+  ],
+  "recommendations": [
+    "Separate adoption, value, trust, and cost metrics in executive reporting.",
+    "Validate self-reported value with workflow telemetry and pre/post baselines."
+  ],
+  "value_mean": 63,
+  "volume_mean": 4,
+  "driver_mean": 7,
+  "driver_sd": 5,
+  "outcome_intercept": 0.0,
+  "rows": 2400,
+  "entities": 520,
+  "start_date": "2024-01-01",
+  "days": 730,
+  "analysis_type": "standard"
+}

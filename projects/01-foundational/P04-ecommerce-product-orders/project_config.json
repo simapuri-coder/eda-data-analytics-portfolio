@@ -1,0 +1,65 @@
+{
+  "id": "P04",
+  "level": "Foundational",
+  "title": "E-commerce Product and Order Analysis",
+  "industry": "E-commerce",
+  "seed": 104,
+  "problem_statement": "An e-commerce product team needs to understand how acquisition channel, device, and product interactions relate to conversion and revenue.",
+  "stakeholders": [
+    "Product manager",
+    "Growth",
+    "Merchandising",
+    "Analytics engineering"
+  ],
+  "groups": [
+    "Search",
+    "Direct",
+    "Social",
+    "Email",
+    "Referral"
+  ],
+  "segments": [
+    "Mobile",
+    "Desktop",
+    "Tablet"
+  ],
+  "schema": {
+    "event_id_col": "session_event_id",
+    "entity_id_col": "user_id",
+    "date_col": "event_date",
+    "group_col": "acquisition_channel",
+    "group_label": "Acquisition channel",
+    "segment_col": "device",
+    "segment_label": "Device",
+    "driver_col": "product_views",
+    "value_col": "order_value",
+    "volume_col": "items_viewed",
+    "outcome_col": "converted",
+    "outcome_label": "Conversion"
+  },
+  "questions": [
+    "Which channel-device combinations have strong conversion?",
+    "How does product depth relate to order value?",
+    "Where does revenue concentration create risk?"
+  ],
+  "hypotheses": [
+    "Returning direct traffic converts at a higher rate.",
+    "Sessions with more product views have higher order value."
+  ],
+  "decisions": [
+    "Channel investment",
+    "Device experience prioritization",
+    "Merchandising"
+  ],
+  "recommendations": [
+    "Prioritize high-impact channel-device journeys for qualitative review.",
+    "Instrument product-view and checkout events consistently before funnel optimization."
+  ],
+  "value_mean": 110,
+  "volume_mean": 5,
+  "rows": 2400,
+  "entities": 520,
+  "start_date": "2024-01-01",
+  "days": 730,
+  "analysis_type": "standard"
+}

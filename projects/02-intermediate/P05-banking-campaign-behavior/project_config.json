@@ -1,0 +1,68 @@
+{
+  "id": "P05",
+  "level": "Intermediate",
+  "title": "Banking Campaign and Customer Behavior",
+  "industry": "Banking",
+  "seed": 105,
+  "problem_statement": "A retail bank needs to improve deposit-campaign efficiency by understanding conversion, contact burden, and segment differences without over-targeting vulnerable customers.",
+  "stakeholders": [
+    "Campaign manager",
+    "Retail banking",
+    "Compliance",
+    "Customer experience"
+  ],
+  "groups": [
+    "Mass market",
+    "Affluent",
+    "Small business",
+    "Youth"
+  ],
+  "segments": [
+    "Phone",
+    "Email",
+    "Branch",
+    "Digital"
+  ],
+  "schema": {
+    "event_id_col": "contact_id",
+    "entity_id_col": "customer_id",
+    "date_col": "contact_date",
+    "group_col": "customer_segment",
+    "group_label": "Customer segment",
+    "segment_col": "contact_channel",
+    "segment_label": "Contact channel",
+    "driver_col": "contact_duration",
+    "value_col": "deposit_value",
+    "volume_col": "contact_count",
+    "outcome_col": "subscribed",
+    "outcome_label": "Subscription"
+  },
+  "questions": [
+    "Which segments convert efficiently?",
+    "Where is contact burden high?",
+    "Do channel differences persist within segments?"
+  ],
+  "hypotheses": [
+    "Digital contacts have lower cost per subscription.",
+    "Repeated contact has diminishing association with conversion."
+  ],
+  "decisions": [
+    "Contact policy",
+    "Channel mix",
+    "Experiment design"
+  ],
+  "recommendations": [
+    "Set contact-frequency guardrails and track opt-outs.",
+    "Randomize eligible customers across channels before claiming channel effects."
+  ],
+  "value_mean": 2500,
+  "value_sigma": 0.65,
+  "volume_mean": 2,
+  "driver_mean": 8,
+  "driver_sd": 4,
+  "rows": 2400,
+  "entities": 520,
+  "start_date": "2024-01-01",
+  "days": 730,
+  "analysis_type": "standard"
+}

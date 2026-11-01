@@ -1,0 +1,68 @@
+{
+  "id": "P11",
+  "level": "Advanced",
+  "title": "Supply Chain Operations Analytics",
+  "industry": "Supply chain",
+  "seed": 111,
+  "problem_statement": "An operations leader needs to prioritize the product-region combinations responsible for late delivery, long cycle time, and modeled margin exposure.",
+  "stakeholders": [
+    "Supply chain VP",
+    "Fulfillment",
+    "Procurement",
+    "Finance"
+  ],
+  "groups": [
+    "Apparel",
+    "Electronics",
+    "Home",
+    "Sports"
+  ],
+  "segments": [
+    "North",
+    "South",
+    "East",
+    "West"
+  ],
+  "schema": {
+    "event_id_col": "shipment_line_id",
+    "entity_id_col": "order_id",
+    "date_col": "ship_date",
+    "group_col": "product_family",
+    "group_label": "Product family",
+    "segment_col": "region",
+    "segment_label": "Region",
+    "driver_col": "cycle_time_days",
+    "value_col": "order_profit",
+    "volume_col": "units",
+    "outcome_col": "late_delivery",
+    "outcome_label": "Late delivery"
+  },
+  "questions": [
+    "Where are delays and profit concentrated?",
+    "Which groups show unstable cycle time?",
+    "What process areas deserve root-cause analysis?"
+  ],
+  "hypotheses": [
+    "Cycle time is associated with late delivery.",
+    "Profit and service risk concentrate in different groups."
+  ],
+  "decisions": [
+    "Root-cause priority",
+    "SLA review",
+    "Capacity planning"
+  ],
+  "recommendations": [
+    "Use a Pareto review that combines service risk and economic impact.",
+    "Validate carrier, facility, and inventory causes before changing SLAs."
+  ],
+  "value_mean": 65,
+  "volume_mean": 6,
+  "driver_mean": 7,
+  "driver_sd": 3,
+  "outcome_intercept": -1.0,
+  "rows": 2400,
+  "entities": 520,
+  "start_date": "2024-01-01",
+  "days": 730,
+  "analysis_type": "standard"
+}

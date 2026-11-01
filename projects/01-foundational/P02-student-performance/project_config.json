@@ -1,0 +1,65 @@
+{
+  "id": "P02",
+  "level": "Foundational",
+  "title": "Student Performance and Education Analytics",
+  "industry": "Education",
+  "seed": 102,
+  "problem_statement": "School leaders need to identify observable performance and attendance patterns so limited support resources can be targeted for further investigation.",
+  "stakeholders": [
+    "Principal",
+    "Student support",
+    "Teachers",
+    "Program evaluator"
+  ],
+  "groups": [
+    "School A",
+    "School B",
+    "School C"
+  ],
+  "segments": [
+    "No support",
+    "Academic support",
+    "Family support",
+    "Both supports"
+  ],
+  "schema": {
+    "event_id_col": "assessment_id",
+    "entity_id_col": "student_id",
+    "date_col": "assessment_date",
+    "group_col": "school",
+    "group_label": "School",
+    "segment_col": "support_program",
+    "segment_label": "Support program",
+    "driver_col": "study_hours",
+    "value_col": "final_grade",
+    "volume_col": "absences",
+    "outcome_col": "passed",
+    "outcome_label": "Pass"
+  },
+  "questions": [
+    "How do grades and absences vary by school?",
+    "What patterns appear across support programs?",
+    "Which groups need larger samples before action?"
+  ],
+  "hypotheses": [
+    "Higher study hours are associated with higher grades.",
+    "Support participation is associated with different pass rates."
+  ],
+  "decisions": [
+    "Support allocation",
+    "Attendance intervention design",
+    "Measurement improvement"
+  ],
+  "recommendations": [
+    "Target diagnostic interviews where absence and pass patterns diverge.",
+    "Evaluate support programs prospectively rather than treating observed associations as program effects."
+  ],
+  "value_mean": 72,
+  "volume_mean": 6,
+  "outcome_intercept": 0.2,
+  "rows": 2400,
+  "entities": 520,
+  "start_date": "2024-01-01",
+  "days": 730,
+  "analysis_type": "standard"
+}

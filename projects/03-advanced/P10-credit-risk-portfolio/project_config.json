@@ -1,0 +1,67 @@
+{
+  "id": "P10",
+  "level": "Advanced",
+  "title": "Credit Risk and Portfolio EDA",
+  "industry": "Consumer credit",
+  "seed": 110,
+  "problem_statement": "A credit portfolio team needs to explain where delinquency and default risk concentrate before changing policy or building predictive models.",
+  "stakeholders": [
+    "Credit risk",
+    "Portfolio management",
+    "Fair lending",
+    "Finance"
+  ],
+  "groups": [
+    "Prime",
+    "Near prime",
+    "Subprime"
+  ],
+  "segments": [
+    "Low utilization",
+    "Medium utilization",
+    "High utilization"
+  ],
+  "schema": {
+    "event_id_col": "account_month_id",
+    "entity_id_col": "account_id",
+    "date_col": "statement_date",
+    "group_col": "risk_band",
+    "group_label": "Risk band",
+    "segment_col": "utilization_band",
+    "segment_label": "Utilization band",
+    "driver_col": "utilization_pct",
+    "value_col": "balance",
+    "volume_col": "days_past_due",
+    "outcome_col": "defaulted",
+    "outcome_label": "Default"
+  },
+  "questions": [
+    "Where do defaults and balances concentrate?",
+    "Are delinquency patterns monotonic across bands?",
+    "What features would leak future information?"
+  ],
+  "hypotheses": [
+    "Default increases with utilization and delinquency.",
+    "Exposure concentration differs from account-count concentration."
+  ],
+  "decisions": [
+    "Portfolio monitoring",
+    "Policy investigation",
+    "Feature governance"
+  ],
+  "recommendations": [
+    "Separate exposure-weighted and account-weighted risk views.",
+    "Audit temporal leakage before any predictive model or policy simulation."
+  ],
+  "value_mean": 4200,
+  "value_sigma": 0.7,
+  "volume_mean": 10,
+  "driver_mean": 52,
+  "driver_sd": 24,
+  "outcome_intercept": -2.2,
+  "rows": 2400,
+  "entities": 520,
+  "start_date": "2024-01-01",
+  "days": 730,
+  "analysis_type": "standard"
+}

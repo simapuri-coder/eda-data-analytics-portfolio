@@ -1,4 +1,4 @@
-name: Expand portfolio bundle
+name: Finalize portfolio repository
 
 on:
   workflow_dispatch:
@@ -7,18 +7,18 @@ permissions:
   contents: write
 
 jobs:
-  expand:
+  finalize:
     runs-on: ubuntu-latest
     steps:
       - uses: actions/checkout@v4
-      - name: Expand validated portfolio
+      - name: Remove transfer metadata and temporary workflow
         run: |
-          tar -xzf eda-data-analytics-portfolio.tar.gz
-          rm eda-data-analytics-portfolio.tar.gz
-      - name: Commit expanded repository
+          find . -type f -name '._*' -delete
+          rm .github/workflows/unpack.yml
+      - name: Commit clean repository
         run: |
           git config user.name "github-actions[bot]"
           git config user.email "41898282+github-actions[bot]@users.noreply.github.com"
           git add -A
-          git commit -m "Publish 16-project EDA portfolio [skip ci]"
+          git commit -m "Remove transfer metadata [skip ci]"
           git push

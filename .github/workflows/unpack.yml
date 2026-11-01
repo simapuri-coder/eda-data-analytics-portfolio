@@ -1,0 +1,24 @@
+name: Expand portfolio bundle
+
+on:
+  workflow_dispatch:
+
+permissions:
+  contents: write
+
+jobs:
+  expand:
+    runs-on: ubuntu-latest
+    steps:
+      - uses: actions/checkout@v4
+      - name: Expand validated portfolio
+        run: |
+          tar -xzf eda-data-analytics-portfolio.tar.gz
+          rm eda-data-analytics-portfolio.tar.gz
+      - name: Commit expanded repository
+        run: |
+          git config user.name "github-actions[bot]"
+          git config user.email "41898282+github-actions[bot]@users.noreply.github.com"
+          git add -A
+          git commit -m "Publish 16-project EDA portfolio [skip ci]"
+          git push
